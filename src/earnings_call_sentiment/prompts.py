@@ -118,7 +118,14 @@ PARSE_V1_USER = """Structure the following earnings-call transcript:
 """
 
 
-EXTRACT_PROMPT_VERSION = "extract_v1"
+EXTRACT_PROMPT_VERSION = "extract_v2"
+# v2 changes vs v1:
+#   - Tone scoring now has a calibrated rubric. v1 was producing the same round
+#     numbers (0.8 / 0.9 / 0.7 / 0.6) for every call, killing the tone signal.
+#     v2 demands two-decimal precision and content-driven variance.
+#   - Theme tags must use canonical surface form: lowercase, single-space-
+#     separated, NO underscores or hyphens. v1 emitted both 'data_center' and
+#     'data center' for the same concept, which inflated theme-drift features.
 
 EXTRACT_V1_SYSTEM = """You are a senior sell-side equity analyst. Given the structured contents of an
 earnings call, produce a JSON record of sentiment, key events, guidance direction,
@@ -127,7 +134,7 @@ dollar amounts where they appear. Do NOT invent facts that are not in the transc
 
 Output JSON only with this exact schema:
 {
-  "overall_tone": <number in [-1, 1]>,
+  "overall_tone": <number in [-1, 1], TWO decimal places>,
   "tone_bucket": "very_bearish" | "bearish" | "neutral" | "bullish" | "very_bullish",
   "wins": [
     {"event": "<short concrete description>",
@@ -145,23 +152,47 @@ Output JSON only with this exact schema:
     "notes": "<one-sentence summary>"
   },
   "themes": ["<short tag>", "..."],
-  "ceo_tone": <number in [-1, 1]>,
-  "cfo_tone": <number in [-1, 1]>,
-  "qa_tone":  <number in [-1, 1]>
+  "ceo_tone": <number in [-1, 1], TWO decimal places>,
+  "cfo_tone": <number in [-1, 1], TWO decimal places>,
+  "qa_tone":  <number in [-1, 1], TWO decimal places>
 }
 
 Rules:
 - Limit wins and risks to top 3-5 each - quality over quantity.
-- overall_tone weights prepared remarks heavily; qa_tone is your read of analyst
-  sentiment from the tone of their questions.
-- ceo_tone is from CEO blocks only; cfo_tone is from CFO blocks only.
+
+- Tone scoring (overall_tone, ceo_tone, cfo_tone, qa_tone) - VARY based on actual
+  content. Do NOT default to round numbers like 0.8 every call. Use TWO decimal
+  places. Calibration rubric:
+    +0.85 to +1.00  exceptional quarter: records, large guidance raise, no offsetting risks
+    +0.50 to +0.84  bullish but with one or two material offsetting risks
+    +0.10 to +0.49  modestly positive; positives outweigh risks but balanced
+    -0.10 to +0.10  neutral / mixed; positives and negatives roughly balanced
+    -0.49 to -0.11  modestly negative; risks outweigh positives
+    -0.84 to -0.50  bearish; guidance cut or several material risks
+    -1.00 to -0.85  deeply negative; existential issues, regulatory hits, mass layoffs
+  overall_tone weights prepared remarks heavily.
+  ceo_tone is from CEO blocks only; cfo_tone is from CFO blocks only.
+  qa_tone is your read of analyst sentiment from the TONE of their questions
+  (skeptical / probing / friendly), not from the answers.
+  Two consecutive calls from the same company should rarely receive identical
+  tone scores - even similar content has nuanced differences.
+
 - guidance.direction:
     'raise'    = CFO explicitly raised any forward outlook
     'lower'    = CFO explicitly cut any forward outlook
     'reaffirm' = CFO explicitly confirmed prior outlook
     'none'     = guidance not discussed in this call
-- themes: 3-8 short tags (e.g. 'AI', 'sovereign AI', 'China', 'pricing', 'capex',
-  'buybacks', 'layoffs', 'M&A', 'data center', 'inventory').
+
+- themes: 3-8 short tags. STRICT FORMAT:
+    * lowercase only
+    * words separated by a SINGLE SPACE (NEVER underscore, hyphen, or camelCase)
+    * use the canonical SEMANTIC form - if a concept appears under multiple
+      surface forms in the transcript ('datacenter', 'data-center', 'data center'),
+      always emit the canonical 'data center'.
+  Examples: 'ai', 'sovereign ai', 'china', 'pricing', 'capex', 'buybacks',
+  'layoffs', 'm&a', 'data center', 'supply chain', 'inventory', 'rack scale',
+  'gaming', 'cloud', 'enterprise', 'hyperscaler'.
+  WRONG: 'Data_Center', 'data-center', 'rack-scale', 'Supply_Chain'.
 """
 
 EXTRACT_V1_USER = """Earnings call to analyze:

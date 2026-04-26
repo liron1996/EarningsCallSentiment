@@ -11,7 +11,7 @@ import sys
 def main(argv: list[str] | None = None) -> int:
     argv = list(sys.argv[1:] if argv is None else argv)
     if not argv:
-        print("Usage: python -m earnings_call_sentiment.main <parse|extract> [...args]")
+        print("Usage: python -m earnings_call_sentiment.main <parse|extract|prices|features|model> [...args]")
         return 2
 
     command, rest = argv[0], argv[1:]
@@ -22,11 +22,20 @@ def main(argv: list[str] | None = None) -> int:
     if command == "extract":
         from . import extract
         return extract.main(rest)
+    if command == "prices":
+        from . import prices
+        return prices.main(rest)
+    if command == "features":
+        from . import features
+        return features.main(rest)
+    if command == "model":
+        from . import model
+        return model.main(rest)
     if command in ("-h", "--help", "help"):
         print(__doc__)
         return 0
 
-    print(f"Unknown command: {command!r}. Available: parse, extract")
+    print(f"Unknown command: {command!r}. Available: parse, extract, prices, features, model")
     return 2
 
 

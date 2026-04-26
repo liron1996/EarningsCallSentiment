@@ -16,8 +16,14 @@ data/parsed_raw/
 data/extractions/
 data/extractions_raw/
 data/prices/
-data/models/
-data/backtest/
+data/data_outputs/
+
+# Heavy regeneratable artefacts (keep small CSVs/PNGs tracked for the writeup)
+data/model/models/
+data/backtest/equity_curve_*.csv
+
+# Old leftover packaging
+*.zip
 
 # Egg-info from editable install
 *.egg-info/

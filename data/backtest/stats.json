@@ -1,0 +1,35 @@
+{
+  "long_short_sign": {
+    "strategy": "long-short by sign",
+    "n_trades": 46,
+    "total_pnl": 0.3721143763467645,
+    "mean_per_trade": 0.008089442964060098,
+    "std_per_trade": 0.044107181231827525,
+    "sharpe_per_trade": 0.18340421532588883,
+    "sharpe_annual": 1.2968636435513372,
+    "hit_rate": 0.6521739130434783,
+    "max_drawdown": -0.24598960620788296
+  },
+  "long_only": {
+    "strategy": "long-only when pred>0",
+    "n_trades": 41,
+    "total_pnl": 0.1149162862678311,
+    "mean_per_trade": 0.002802836250434905,
+    "std_per_trade": 0.043311940655422175,
+    "sharpe_per_trade": 0.06471278377326695,
+    "sharpe_annual": 0.4575884823553584,
+    "hit_rate": 0.6097560975609756,
+    "max_drawdown": -0.31343298097485606
+  },
+  "rank_quintile": {
+    "strategy": "rank quintile (top 20% long / bottom 20% short)",
+    "n_trades": 19,
+    "total_pnl": 0.3652143332120551,
+    "mean_per_trade": 0.019221807011160795,
+    "std_per_trade": 0.03538482923124377,
+    "sharpe_per_trade": 0.5432216977943899,
+    "sharpe_annual": 3.841157461980825,
+    "hit_rate": 0.6842105263157895,
+    "max_drawdown": -0.05217418254310002
+  }
+}
