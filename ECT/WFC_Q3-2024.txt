@@ -1,0 +1,268 @@
+﻿Wells Fargo & Company, Q3 2024 Earnings Call, Oct 11, 2024 - 
+
+Presentation Operator Message
+Operator
+Welcome, and thank you for joining the Wells Fargo Third Quarter 2024 Earnings Conference Call.
+[Operator Instructions] Please note that today's call is being recorded. I would now like to turn the call over to John Campbell, Director of Investor Relations. Sir, you may begin the conference.
+
+Presenter Speech
+Executives - Director of Investor Relations
+Thank you. Good morning, everyone. Thank you for joining our call today, where our CEO, Charlie Scharf; and our CFO, Michael Santomassimo, will discuss third quarter results and answer your questions. This call is being recorded.
+Before we get started, I would like to remind you that our third quarter earnings materials including the release, financial supplement and presentation deck are available on our website at wellsfargo.com. I'd also like to caution you that we may make forward-looking statements during today's call that are subject to risks and uncertainties. Factors that may cause actual results to differ materially from expectations are detailed in our SEC filings, including the Form 8-K filed today containing our earnings materials. Information about any non-GAAP financial measures referenced, including a reconciliation of those measures to GAAP measures, can be found in our SEC filings and the earnings materials available on our website.
+I will now turn the call over to Charlie.
+
+Executives - CEO & Chairman
+Thanks, John. I'll make some brief comments about our third quarter results and update you on our priorities. I'll then turn the call over to Mike to review our results in more detail before we take your questions.
+Let me start with some third quarter highlights. Our results were solid with $5.1 billion of net income, diluted earnings per share of $1.42 and ROE of 11.7% and an ROTCE of 13.9%, all were up from the second quarter. Our earnings profile is very different than it was 5 years ago as we've been making strategic investments in many of our businesses and deemphasizing or selling others. Our revenue sources are more diverse, and our fee-based revenue has grown 16% during the first 9 months of the year, largely offsetting the net interest income headwinds we have faced over the last year. We have maintained strong credit discipline and driven significant operating efficiencies in the company, while investing heavily to build a risk and control infrastructure appropriate for a bank of our size and complexity.
+Headcount has declined every quarter for 4 years and was down 20% since the third quarter of 2020. Our expenses in the third quarter were down from both the second quarter and a year ago. Average loans declined from the second quarter as we have maintained strong credit standards and our focus on returns over volume. We've continued to grow our credit card portfolio with balances growing for 13 consecutive quarters and commercial loan demand remains weak, reflecting economic uncertainty and the expectation that rates will be lower in the future.
+Overall deposits declined slightly from the second quarter, but deposit balances in our customer-facing businesses continue to grow, which has enabled us to reduce higher-cost treasury, corporate treasury deposits. We have started to reduce deposit pricing in response to the recent Fed rate cuts, and we're closely monitoring market conditions and will continue to make adjustments.  
+Both our consumer and commercial customers have remained resilient. In our wholesale businesses, credit performance improved from the second quarter, with lower losses in both our commercial real estate and commercial and industrial loan portfolios. The office market remains weak, and we continue to expect additional charge-offs in our commercial real estate office portfolio and have accordingly maintained strong allowance coverage. Overall, customers in our consumer businesses continued to hold up relatively well, benefiting from a strong labor market and wage growth.
+Consumer charge-offs declined from the second quarter driven by lower losses in our credit card portfolio, while our other consumer portfolios continue to perform well, reflecting the benefit of prior credit-tightening actions. We continue to look for changes in consumer health, but we have not seen meaningful changes in trends when looking at delinquency statistics across our consumer credit portfolios. Both credit card and debit card spend were up in the third quarter from a year ago. And although the pace of growth has slowed, it is still healthy. We continue to see more pronounced stress in certain customer segments with lower deposit and asset levels, where inflation has partially offset strong employment and wage growth. 
+The benefits of inflation slowing and interest rates starting to ease should be helpful to all customers, but especially those on the lower end of the income scale. Our capital position remains strong, with our CET1 ratio of 11.3%, up from 11% last quarter, and we continue to return significant amounts of excess capital to shareholders. We repurchased $3.5 billion of common stock in the quarter and $15.6 billion of common stock during the first 3 quarters of this year, up over 60% from a year ago, and we increased our common stock dividend in the third quarter by 14%. Shareholders have meaningfully benefited from our capital management actions as our earnings per share are up over 50% since the third quarter of 2019, benefiting from the 22% decline in diluted average common shares over the same period.
+Now let me update you on our strategic priorities, starting with our risk and control work, which remains our top priority. We continue to move forward with confidence and believe we have the right culture, team, discipline and sense of urgency to complete the work that's required. That includes what is required under the recent formal agreement we entered with The Office of the Comptroller of the Currency. We are also continuing to execute on our other strategic priorities. We continue to build our credit card business, and this past quarter, we launched 2 new co-branded credit cards with Expedia, which provide our customers a unique travel rewards program with instant discounts, enhanced perks and accelerated rewards.
+Our broader set of credit card products continue to be well received by both existing customers and customers new to Wells Fargo with nearly 2 million new credit card accounts this year. Last month, we announced a multiyear co-branded agreement with Volkswagen Financial Services. Starting in the first half of next year, we will be the preferred purchase financing provider for Volkswagen and Audi brands in the United States. The investments we've been making in our Consumer, Small and Business Banking segment are starting to generate growth. After several years of no growth, net check accounts have now grown for 3 consecutive quarters, and we believe our debit card share has started to increase as well.
+Mobile active users increased by 1.6 million or 5% from last year. We are also investing in our branches and have refurbished over 460 branches during the first 3 quarters of this year. 
+We continue to hire proven leaders in our corporate investment bank. In Investment Banking, we made several important hires focused on key coverage and product groups to help us build on our momentum and grow the business. We also hired a new Vice Chair of Corporate Banking, who is focused on helping us continue to expand and grow that franchise. We also continue to attract experienced leaders in other areas. And in the third quarter, Bridget Engle joined Wells Fargo as Head of Technology reporting to me. I've worked with Bridget in the past and know firsthand how her deep experience leading large-scale technology transformations of large global financial institutions will benefit Wells Fargo.  
+Our strategic priorities also include focusing on businesses that are core to our consumer and corporate clients and when they aren't, shrinking or selling them. As part of this effort, during the third quarter, we announced we had entered into a definitive agreement to sell the non-agency third-party servicing segment of our commercial mortgage servicing business. We will continue servicing agency loans and loans held on our balance sheet.
+Looking ahead, overall, the U.S. economy remains strong with inflation slowing and a resilient labor market, boosting income and supporting consumer spending. Company balance sheets are strong, contributing to both consumption and investment in the economy, but slowing demand for commercial lending. We continue to be prepared for a variety of economic environments, and we'll balance our desire to increase returns and grow while protecting the downside. We have one of the most enviable franchises in the industry and a top management team capable of delivering strong results. 
+I want to thank everyone who I worked with at Wells Fargo for everything they've done to transform this great company.
+I will now turn the call over to Mike.
+
+Executives - Senior EVP & CFO
+Thank you, Charlie, and good morning, everyone. We are pleased with the results in the third quarter. We again saw good growth in noninterest income across most businesses and expenses were well controlled. Net income for the third quarter was $5.1 billion, or $1.42 per diluted common share. During the quarter, we took the opportunity to reposition a portion of the investment securities portfolio. Our results included $447 million or $0.10 per share of net losses on the sale of debt securities. This included the sale of approximately $16 billion of securities and reinvestment of the proceeds into securities with yields approximately 130 basis points higher than the securities we sold. The estimated earn-back period for this repositioning is a little over 2 years. Without the impact of the investment securities portfolio repositioning, earnings per share would have been $1.52.  
+When looking at our results compared with a year ago, I'd remind you that our third quarter results last year included $349 million or $0.09 per share of discrete tax benefits.  
+Turning to Slide 4. Net interest income declined $233 million or 2% from the second quarter. $128 million of this decline was due to the increased pricing on sweep deposits and advisory brokerage accounts and Wealth and Investment Management that we highlighted on last quarter's call. This was the lowest linked quarter decline in net interest income since third quarter 2023 as customer migration to higher-yielding deposit products continued to slow and the pace of deposit pricing increases also decelerated.
+Deposit costs were up 7 basis points in the third quarter, with approximately half of this increase driven by the pricing increase on sweep deposits and advisory brokerage accounts. The third quarter increase in deposit costs was lower than the 10 basis point increase in the second quarter and the 16 basis point rise in the first quarter. In response to the Federal Reserve rate cut in September, we have reduced rates on promotional deposit offers in our consumer businesses, pricing on sweep deposits and advisory brokerage accounts, which are aligned to money market funds will continue to move in line with Fed rate cuts. Commercial deposit pricing has responded quickly to Federal Reserve rate reductions, just as it did when rates were rising. We are continuously monitoring competitive conditions and deposit trends, and we'll adjust pricing, tenor and de-balance requirements based on our observations.
+We highlight loans and deposits on Slide 5. Average loans were down from both the second quarter and a year ago, with continued growth in credit card loan balances more than offset by declines in most other categories. I'll highlight specific drivers when discussing our operating segment results. Average deposits increased $1.4 billion from a year ago and growth in our customer deposits enabled us to reduce higher-cost corporate treasury deposits. Average deposits were down $4.8 billion in the second quarter. This decline was driven by an $18.5 billion reduction in higher-cost corporate treasury deposits, while customer deposits grew $13.7 billion from the second quarter. All else equal, a reduction in corporate treasury deposits is a positive for net interest income in the current environment.  
+Turning to noninterest income on Slide 6. We had strong growth in noninterest income up 12% from a year ago. As Charlie highlighted, this growth reflects the benefits of the investments we've been making in our businesses as well as market conditions. We grew noninterest income across most categories, including double-digit increases year-over-year in many of our largest fee-generating activities, including investment advisory, net gains from trading activities, deposit-related fees and Investment Banking. We also benefited from improved results in our venture capital investments. I will highlight the specific drivers of noninterest income growth when discussing our operating segment results.
+Turning to expenses on Slide 7. Noninterest expense declined from both the second quarter and a year ago. The impact of our efficiency initiatives helps reduce salaries and professional and outside services expense compared with a year ago. These declines were partially offset by higher revenue-related compensation predominantly in Wealth and Investment Management as well as higher technology and equipment expense. Operating losses declined from a year ago and from the higher levels we had in the first half of this year.  
+Turning to credit quality on Slide 8. Net loan charge-offs decreased 8 basis points from the second quarter to 49 basis points of average loans. The decline was driven by lower commercial net loan charge-offs, which were down $145 million from the second quarter to 24 basis points of average loans with lower losses in both our commercial real estate and commercial and industrial portfolios. While losses in the commercial real estate office portfolio declined in the third quarter, market fundamentals remained weak, and we still expect commercial real estate office losses to be lumpy as we continue to actively work with our clients. Consumer net loan charge-offs declined $45 million from the second quarter to 83 basis points of average loans, driven by lower losses in the credit card portfolio. Nonperforming assets decreased 3% in the second quarter driven by lower commercial real estate nonaccrual loans. Commercial real estate office nonaccruals declined $164 million, which included paydowns and net loan charge-offs.  
+Moving to Slide 9. Our allowance for credit losses for loans was down $50 million from the second quarter with modest declines across most asset classes, largely offset by an increase in allowance for credit card loans driven by higher balances. Our allowance coverage for loans has been relatively stable over the past year, as credit trends remain within our expectations. Our allowance coverage for our Corporate and Investment Banking and commercial real estate office portfolio has also been relatively stable at approximately 11% since third quarter of 2023.
+Turning to capital liquidity on Slide 10. Our capital position remains strong, and our CET1 ratio of 11.3% continued to be well above our new CET1 regulatory minimum plus buffers of 9.8%, which became effective in the fourth quarter. The increase in our CET1 ratio from the second quarter included a benefit of 28 basis points from higher accumulated other comprehensive income due to lower interest rates and tighter mortgage-backed security spreads. With the $3.5 billion of common stock repurchased in the third quarter, our share repurchases during the first 3 quarters of this year were 6 billion higher than the same period a year ago, and diluted average shares outstanding declined 7% from a year ago.  
+Turning to our operating segment results, starting with Consumer Banking and Lending on Slide 11. Consumer Small and Business Banking revenue declined 5% from a year ago, driven by lower deposit balances and the impact of customers migrating to higher-yielding deposit products. However, the pace of migration continued to slow. The slight increase in Home Lending revenue from a year ago was driven by higher mortgage banking fees. Credit card revenue declined 2% from a year ago as lower fee revenue more than offset higher net interest income. Auto revenue decreased 24% from a year ago, driven by lower loan balances and continued loan spread compression. The decline in personal lending revenue from a year ago was also driven by lower loan balances and loans spread compression.
+Turning to some key business drivers on Slide 12. Retail mortgage originations declined 14% from a year ago, reflecting the progress we've made on simplifying the Home Lending business, but grew 4% from the second quarter. We also continue to make progress on reducing the size of our servicing business. The amount of third-party mortgage loan service was down 16% from a year ago. Since we announced our new strategy early last year, we reduced headcount at Home Lending by 46%. The size of our Auto portfolio continued to decline with period-end loan balances down 14% from a year ago, driven by previous credit tightening actions. Origination volume in the third quarter was stable year-over-year and grew 11% from the second quarter. Debit card spending increased $2.3 billion or 2% from a year ago, and credit card spending was up 10% from a year ago with growth in all categories, except fuel. Payment rates were modestly lower than a year ago, but remained above pre-pandemic levels.
+Turning to Commercial Banking results on Slide 13. Middle Market Banking revenue was down 1% from a year ago, driven by lower net interest income, reflecting higher deposit costs, partially offset by growth in treasury management fees. Asset-based lending and leasing revenue decreased 4% from a year ago, driven by lower net interest income and lease income, partially offset by improved results from our -- from equity investments. Average loan balances in the third quarter were down 1% compared with a year ago. Loan demand remained weak as many clients remain cautious about investing in inventory buildup and capital expenditures due to economic uncertainty, high borrowing costs.
+Turning to Corporate and Investment Banking on Slide 14. Banking revenue was down 5% from a year ago, driven by higher deposit costs and lower loan balances. Commercial real estate revenue decreased 1% from a year ago, reflecting the impact of lower loan balances, partially offset by higher capital markets revenue. Markets revenue increased 6% from a year ago, driven by strong performance in rates, structured products and municipals, partially offset by lower revenue and equities. Average loans declined 6% from a year ago, driven by continued reductions in our commercial real estate portfolio and lower loan balances and banking as clients continue to access capital markets funding.  
+On Slide 15, Wealth and Investment Management revenue increased 5% compared with a year ago due to higher asset based fees driven by increased market valuations as well as higher brokerage transaction activity, partially offset by lower net interest income, driven by the increased pricing on sweep deposits in advisory brokerage accounts. As a reminder, the majority of advisory assets are priced at the beginning of the quarter, so fourth quarter results will reflect market valuations as of October 1, which were up from both a year ago and from July 1.  
+Slide 16 highlights our Corporate results. Revenue declined a year ago driven by net losses on debt securities related to the repositioning of the investment securities portfolio, partially offset by improved results from our venture capital investments. 
+Turning to our 2024 outlook for net interest income and noninterest expense on Slide 17. We currently expect fourth quarter 2024 net interest income to be roughly in line with the third quarter of 2024, which would imply an approximately 9% decline in full year 2024 net interest income compared with 2023. Based on this expectation, we believe we are close to the trough. However, exactly when this occurs will be influenced by a variety of factors, including the pace of Fed rate changes, deposit mix and pricing and day count.  
+Turning to expenses. We still expect full year 2024 noninterest expense to be approximately $54 billion, which has not changed from our guidance last quarter. As a reminder, we have outstanding litigation, regulatory and customer remediation matters that could impact operating losses during the remainder of the year. 
+In summary, we had solid results in the third quarter, which demonstrated the progress we are making to transform Wells Fargo and improve our returns. We grew noninterest income by 12% from a year ago, with growth across most businesses. We achieved this double-digit growth even with the $447 million loss we took to reposition the investment securities portfolio, which will start to benefit our results in the fourth quarter. While this growth in noninterest income was more than offset by an expected decline in net interest income, the investments we have made in our businesses drive better fee income and diversify our revenue were evident. 
+We continue to make progress on our efficiency initiatives with expenses down from a year ago and headcount down for 17 consecutive quarters. Our results also reflected our credit discipline and strong capital position, which has enabled us to return more than $23 billion to shareholders over the past year through common stock, dividends and share repurchases. And while we are pleased with the progress we've made, we are even more excited about the additional opportunity we have throughout all the businesses to continue to improve our results.
+We will now take your questions.
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] The first question will come from Scott Siefers of Piper Sandler.
+
+Question
+Analysts - MD & Senior Research Analyst
+Mike, I was hoping to start with NII. So your fourth quarter number should be flattish with the third quarter level. And I believe you mentioned toward the end of your prepared remarks that you believe Wells is sort of close to the trough. I was hoping you could just unpack please, a bit more what you see as the swing -- the main swing factors either way as well as kind of what it might take from here for it to begin to inflect back up -- pardon me, back upward more visibly?
+
+Answer
+Executives - Senior EVP & CFO
+Yes, Scott. I appreciate the question. So I mean, it's the same drivers we've been talking about now for the last number of quarters. So obviously, deposits and the mix of those deposits is going to be a big factor in the near term. I think as you can see in our trend that NIB deposits were behaving pretty well. I will note, though, in the trend that there is a product switch conversion that we did that sort of impacted NIBs and IBs. So if you take that out, the percentage of noninterest-bearing deposits is effectively flat to the third quarter. And so that's the first time now in a while where we've seen that be the case. And so that's one of the factors that we'll have to see sort of play out for a little bit longer time period. But so far, so good in terms of that trend participating in the way we thought or behaving the way we thought. 
+Obviously, deposit pricing as rates come back down or is going to be a big factor. If you look at, as I said in my remarks, on the consumer side, we've already adjusted promo rates as well as CDs, those will continue to adjust as rates move. We're seeing exactly what we thought we would see on the most interest rate-sensitive deposits on the commercial side as rates started to come down, the betas are exactly what we thought and are pretty high for those deposits. So that's working. 
+Obviously, we haven't seen any loan growth, but we weren't expecting that, but that will be a factor as you sort of look a little bit -- over a little bit longer time period. And then this is a little bit in the weeds, but as you sort of look at the first quarter, you do have day counts and things to kind of adjust for. So you could bounce around a little bit depending on the quarter based on factors like that as well.
+
+Question
+Analysts - MD & Senior Research Analyst
+Okay. Perfect. And then you touched -- I appreciate that. And then you touched on loan demand is a factor as well. You all have been pretty reserved regarding that backdrop throughout the year, which has been borne out to be correct. I guess, hopefully, we're beginning to get some clarity on some of the unresolved issues like cost to borrow, and I guess we're getting closer to the election. Maybe just some additional thoughts on the overall outlook there, if possible, please.
+
+Answer
+Executives - Senior EVP & CFO
+Yes. No, I think -- I mean you hit on a couple of the things that people are thinking about. But based on the conversations our teams are having with clients, I think people are still being very prudent about borrowing. I think the 50 basis point reduction is helpful, but not by itself a factor that will drive people to borrow or not. I think they'll need to see that come down more meaningfully if that's like the driving force. The uncertainty around the election, the uncertainty around the just macro backdrop, I think as people get more confidence that the baseline case of a soft landing will materialize, you get past the election, you see rates come down a little bit. 
+I think all those things will come together and help give clients more confidence about either building inventories or making further capital expenditures that they're just -- they're holding off on now. So I think you got to see a few of those things come together. And as you say, as we get closer to the end of the year, you'll start to get a little bit more visibility there, and we'll see as it goes.
+
+Question and Answer Operator Message
+Operator
+The next question will come from Ebrahim Poonawala of Bank of America.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+I guess first question, I think Charlie addressed this a little bit in his opening remarks around expenses. And I appreciate you're not talking about 2025 today. But big picture, looking at your Slide 7, personnel expenses flat 8.6% year-over-year, noncomp flat 4.2% year-over-year. From a shareholder perspective, and given what you've said, is it fair to assume we continue to see some of this flat lining trend where there are enough savings to reinvest in the platform, grow fee revenues and do all the stuff that you're doing, but without seeing a meaningful change in these 2 categories as we look forward?
+
+Answer
+Executives - CEO & Chairman
+Graham, this is Charlie. I guess I'll just repeat what we've said in the past, which is we think that there continue to be meaningful efficiencies around the company, but we also are investing in both spending whatever we need to spend in the risk and regulatory space as well as investing for the future. And when we get to next quarter, we'll talk about 2025, and we just don't want to get ahead of ourselves because that's something that we think we've done a good job of balancing historically, and we'll continue to balance it going forward in our thinking. And when we've got specifics to share, we'll share it.
+
+Executives - Senior EVP & CFO
+And Ebrahim, I'll just maybe point out one other thing. As you look at things like personnel expense, obviously, there's lots that go underneath that. So we are seeing the efficiency come through on salaries and other items. And that's offset by revenue-related expense, mostly in the Wealth and Investment Management business. And so that's a good thing, right? So you may see that bounce around, but underneath that is the efficiency really coming through as headcount continues to come down, I think we both probably pointed it out that headcount came down again in the quarter. So we're continuing to execute on that part of the efficiency agenda as well as all the other nonpersonnel expenses.
+
+Executives - CEO & Chairman
+But again, I just -- I don't think our thinking has changed about efficiency opportunities, but also opportunities to invest. So we just need to go through our own internal process as we think about 2025. And when we finish that, we'll share it.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+That's helpful. And just maybe one quick, Mike, I'm sorry if I missed it on NII. It's an asset-sensitive balance sheet. We go to September 50 basis points cut. I would have assumed fourth quarter NII would have declined and maybe there's about $50 million of bond book restructuring help. Just why is NII not going down despite the 50 basis points cut? And is there more room for additional restructuring as we look forward?
+
+Answer
+Executives - Senior EVP & CFO
+Yes. I mean, look, it's just a confluence of all the factors that come together right around sort of what's happening with the mix of deposits. Our mix is a little bit different obviously than others. I think the pricing actions we took across the deposit base help as you look into the fourth quarter as well. And then obviously, we've got assets continue to kind of reprice up. We've got the repositioning, but also just normal reinvestment as we've seen maturities roll. I think on repositioning, we've been sort of repositioning the portfolio for a while, and we'll continue to look at it. Nothing on the horizon right now, but we'll continue to look at it as we always do, and we'll let you know if we decide to do more.
+
+Executives - CEO & Chairman
+And the only thing I'd add is when you think about just rate movement, you need to look at the different points along the curve.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+Got it. And the steeper the better, I assume.
+
+Answer
+Executives - Senior EVP & CFO
+Steeper is generally better over a period of time. Yes.
+
+Question and Answer Operator Message
+Operator
+The next question will come from Erika Najarian of UBS.
+
+Question
+Analysts - Analyst
+My first question is, could you remind us based on your understanding, what happens next after you submit your third-party review to the Fed as it relates to the asset cap work stream?
+
+Answer
+Executives - CEO & Chairman
+Well, so just the way consent orders work, I'll answer it very generally because we don't talk about anything specific relative to where we are and what the timing is. We haven't, and we won't, is you get a consent order. We need to do the work to develop a very detailed plan. The regulators then look at that plan and give us feedback on the plan. We execute on that plan. And whatever is required in that submission when we're done with the work, we submit it to them. And then they have done some work along the way, but they generally do a review after the submission. And then they've got a series of formal processes that they need to go through to make the decision on whether the work has been done to their satisfaction. And when that's done, we find out about it and you find out about it.
+
+Question
+Analysts - Analyst
+Got it. Okay. And just as a follow-up, you bought back $3.5 billion of shares in the third quarter. Mike, is this about the -- is pace that we should expect until we get your next SCB in June? I'm just trying to think about framing the buyback opportunity over the next few quarters?
+
+Answer
+Executives - Senior EVP & CFO
+Yes, Erika, we don't really talk about quarter-to-quarter pace. But I think if you look at where we stand from a capital perspective, we're 150 basis points over the new reg minimum plus buffers of 9.8%. So we go into this environment with plenty of excess capital. We're going to generate more capital, obviously, through earnings as we go. And then we go through the normal process that we go through every quarter to look at sort of the opportunities we have to help support clients. We look at the risks that are out there, and then we'll decide on the exact pacing sort of as we go. But we're happy that we were able to buy back $15.5 billion so far year-to-date. And continuing to give excess capital back to shareholders is something that's top of mind for us.
+
+Question and Answer Operator Message
+Operator
+The next question will come from Betsy Graseck of Morgan Stanley.
+
+Question
+Analysts - Managing Director
+So first question, just want to understand if the asset cap were to be removed -- well, I should say when the asset cap is removed, right? What -- are there opportunities for you to lean in anywhere in terms of asset growth? Because I've heard you in the past several times, and I would assume it's the same today that the asset cap is not keeping you from doing anything that you want to do. And maybe that's wrong. But I just want to understand where you would lean in if it -- when it does get removed?
+
+Answer
+Executives - CEO & Chairman
+Sure. Mike, I'll start, and then you can either amplify or change if you disagree with anything I say. I think what we see and what we have talked a little bit about is the places where we have been the most careful about the assets and our liabilities today is around on the wholesale deposit side. There's certainly been places where we've had to be very careful about not bringing on significant deposits because we want to make sure that we've got the room to serve customers elsewhere, both relative to their borrowing needs as well as consumer deposits. And obviously, when commercial deposits come in, it brings cash with it. 
+The other place has been in our markets business, where we actually -- since the asset cap has been in existence, we've not just limited, but reduced somewhat the financing abilities that we have for our customers. So those are the 2 places where we'd probably see the impact immediately, not incredibly significant changes by any stretch of the imagination, but we've been -- had to be very, very careful in those 2 places. And then beyond that, it's just normal growth opportunities that we would see across all the different parts of the company.
+
+Question
+Analysts - Managing Director
+And on the expense side, you've talked in the past about the $2.2 billion that has been invested to address the issues in the consent order and to deal with them. When the consent order goes away, is there an opportunity to pull back on that at all?
+
+Answer
+Executives - CEO & Chairman
+We're not even -- honestly, we literally aren't even thinking about that. We still have more work to do. We've said that, that is the most important thing. At some point, can we become more efficient in some of the things? Absolutely. But what's most important is, from our standpoint to make sure that the things we've built become part of the culture of the company. So it's just not -- it's just -- when we think about efficiencies, we think about there are plenty of other places for us to drive efficiencies and not focus on those activities at this point.
+
+Question and Answer Operator Message
+Operator
+The next question will come from Matt O'Connor with Deutsche Bank.
+
+Question
+Analysts - Research Analyst
+I was hoping you guys could talk about the anti-money laundering, KYC, the disclosure in the 10-Q about investigation, and then there was some regulatory outcome on that. And given that it was in your 10-Q and so public, I wondering if you could just add some color around it? And then also just what it might mean to expenses and anything else we should be mindful of going forward?
+
+Answer
+Executives - CEO & Chairman
+Yes. I mean we put out something when we entered into the formal agreement with the OCC. And like other things that we find and they find, we take them extremely seriously. We're going to get the work done. As I've said in my prepared remarks, I think as we identify issues and we see that there are things that have to get built, we've got confidence that we've got the ability to do it. I would say, relative to the cost around it, I'd say, the 2 different pieces, which is just like all of the control-related work, we're going to spend whatever is necessary. 
+At this point, as we sit and look at the $54 billion expense base, don't see it having anything meaningfully that we need to talk about beyond our ability to spend as we've discussed. And I would also mention that, and I think we've said something about this, which is a significant amount of the work that is required in the consent order, we've been working on. And so as we think about what we're spending, we're spending a significant amount of money relative to what's necessary in that order already.
+
+Question
+Analysts - Research Analyst
+Okay. And then are you able to comment is this kind of a Wells specific thing or an industry-wide kind of area focus because you know the banks are responsible not just for kind of policing their customers, but really keeping track of all the money that is moving around. It seems like it could be a broad...
+
+Answer
+Executives - CEO & Chairman
+We're not going to speak -- we speak for ourselves and what we know. Beyond that is not right or appropriate.
+
+Question and Answer Operator Message
+Operator
+The next question will come from David Long of Raymond James.
+
+Question
+Analysts - Former MD & Senior Analyst
+I just wanted to follow up with the regulatory side. And can you remind us of the mechanics of the asset cap without providing any insight as to when you think it may come off. But can the asset cap be removed in your opinion without the consent order being removed completely?
+
+Answer
+Executives - CEO & Chairman
+Listen, I would -- for anyone who's -- if you have questions on the 2018 Fed consent order, it's very readable. It's something like -- I don't remember exactly, but it's like 5 pages -- 7 pages Mike is telling me, of which there are like -- there's a page in there, which is really the page that lays out what we have to accomplish and how the Fed is going to look at things. So it really is very digestible. 
+So I'll give you a brief summary. But again, please, I'd point you back to it if you want to go through it. We're required to -- the Board needs to be more effective. We need to build out operational risk and compliance in the company. There is -- to lift the asset cap that work needs to be adopted and implemented, and to lift the entire consent order needs to be effective and sustainable. And so that's what's laid out the way the Fed will interpret those things, and relative to things going on in the company is certainly in their bailiwick. As I've said, we're very focused on getting the work done, and feel good about our ability to get it done, given what we've shown that we can do here.
+
+Question
+Analysts - Former MD & Senior Analyst
+Got it. Charlie, I appreciate it. And then the other question I had was related to the trading gains line, and you've been putting up over $1 billion there per quarter in trading gains. What are some of the puts and takes in that line that can create some volatility on a quarter-to-quarter basis?
+
+Answer
+Executives - Senior EVP & CFO
+Yes, it's Michael, I'll take that. Obviously, volatility in the market a big factor. So it's kind of the market conditions that we operate in. You generally have some seasonality to that line item as well in the third and fourth quarter as you get to the holiday season. And then I think where we've though been focused there is really just continuing to methodically improve the capabilities, make sure we got the right people in the right seats. We continue to improve our -- all of our technology and e-trading capabilities. And we're seeing good results of that, but it's something that can move around based on market conditions quite a bit, but our focus is just to make sure that we continue to have the right capabilities to serve clients. And we've been pleased now that we've strung together probably 7 quarters of pretty good performance there, and we'll look forward to see what happens going forward.
+
+Question and Answer Operator Message
+Operator
+The next question will come from John Pancari of Evercore.
+
+Question
+Analysts - Senior MD & Senior Equity Research Analyst
+Just around the -- a little bit more around the securities repositioning, how much of a benefit to net interest income did the securities repositioning have this quarter? And how much of a -- would it be a full quarter impact that you would expect for the fourth quarter?
+
+Answer
+Executives - Senior EVP & CFO
+Very little in the third quarter. It's all done. So it's in the run rate for the fourth quarter.
+
+Question
+Analysts - Senior MD & Senior Equity Research Analyst
+Okay. And then have you sized up that impact and what it would mean for NII for the fourth quarter?
+
+Answer
+Executives - Senior EVP & CFO
+It's in the -- in my remarks, where we did about $16 billion of repositioning. We picked up about 130 basis points on that. So I mean, obviously, you got to go day count and other things to adjust, but it's pretty easy to model.
+
+Question
+Analysts - Senior MD & Senior Equity Research Analyst
+Right. Okay. All right. And then separately, just around the fee income commentary, I appreciate the color you provided around the trading outlook, can you perhaps unpack the rest of the -- your expectations there just on the fee side, how we should think about the trajectory of wealth management and possibly on the card side and IB as well? Just what you're seeing there in terms of underlying drivers?
+
+Answer
+Executives - CEO & Chairman
+Well, first -- it's a hard -- I mean there are like 15 underlying drivers, right? And so you should look at each of the specifics and do your own modeling based upon what you think, right? We've got credit card revenues. We've got trading. We've got all these different pieces. It's just not one monolithic number.
+
+Executives - Senior EVP & CFO
+Yes. And maybe I'll just give you a couple of pieces of color underneath that. So obviously, on the investment management line, market levels matter a lot. As we've pointed out, about 2/3 of that line is equities, the rest is fixed income. Most of it gets priced in advance based on the prior -- the first day of the quarter or the last day of the quarter, prior quarter. So you can -- so that's a pretty good way to sort of think about that line going forward. If you look at card fees, as Charlie talked about, we've got a debit card and credit card business as we sort of see growth across the economy, and we're successful in growing our business, that will drive that line. Investment banking is somewhat market dependent, but we've been investing there quite a bit. And so the goal is to increase market share methodically over time. And so those are kind of the biggest pieces of the puzzle there. But hopefully, that's a little helpful.
+
+Question
+Analysts - Senior MD & Senior Equity Research Analyst
+No, it is helpful, Mike. I appreciate you walking through the details there.
+
+Question and Answer Operator Message
+Operator
+And the final question will come from Gerard Cassidy of RBC Capital Markets.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Can you guys share with us maybe a little color on the commercial real estate office portfolio. It looks like the stabilization may be setting in on the credit quality. Can -- any indicators of is it getting less worse? Or when you go in to market property down, the marks maybe aren't as severe as they were 6 months ago or 12 months ago? Any further details here?
+
+Answer
+Executives - CEO & Chairman
+I'll take it. It's an interesting question because it depends on -- I think it depends on who you talk to and how you actually answer -- how you actually ask the question. Meaning, when we look at what's actually happening, things aren't getting better, and it is kind of more of the same, but it's impacting more properties. Maybe to some extent, there is a little bit of contagion to properties that are fairly well leased, but people are looking for better deals because they think there's weakness out there. So you see a little bit of that. 
+But what you see is just more of the significant revaluation because of supply and demand that's going on as these properties kind of move through the cycle. So as we look at it, our kind of big picture is based upon what we expected there aren't material changes at all. We're actually seeing that play out, but things are getting worse because there are more properties being impacted. So it depends on whether it's versus your expectations or what you've seen in the prior period.
+
+Executives - Senior EVP & CFO
+Yes. And Gerard, I would just add one other piece. So it's the same -- we're seeing the same kind of trend where kind of new buildings, renovated buildings in good locations are doing fine. It's older office buildings pretty consistent across the U.S. But as Charlie said, it's within the expectations we've had, which we have been pretty -- we were pretty down on the space now for a while. And so it's playing out kind of largely within that range of what we thought. But it's going to -- and as I have said over and over, like it's going to take a while to play out. This is not something that will take a quarter or 2 and be over. It will play out over a longer period of time. And we feel really good about our allowance for coverage ratio. We feel like that's more than appropriate for kind of what we expect to see here. And we're going to continue to work with clients as best we can through it.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Very good. And then I know -- gosh, it's only been less than a month since the Fed cut the Fed funds rate and obviously, the forward curve is calling for more. And you guys, as you addressed in your prepared remarks, Mike, about deposit costs. The behavior, I know, again, it's early, but any comments on -- are you seeing the consumers and the corporate customers behaving as expected in terms of what they're doing with their deposits with lower rates? And as the second part of that question, with your loan-to-deposit ratio not being very high, of course, is there more room for you to lower deposit costs and not have to be as concerned being over levered?
+
+Answer
+Executives - Senior EVP & CFO
+Yes. I'd say, look, the short answer on the behavior side is not much has changed since in the last 3 weeks. The trend, though, that we have seen now for the better part of a year-ish is that we've seen less migration to higher-yielding alternatives. We've seen good stabilization of deposits across the businesses. Those trends are all still true. And we're not seeing that shift in any significant way in any of the businesses at this point. I think as you look at both deposit pricing and the other side of the equation that you sort of brought up, on the loan side, we feel it's really important to have a very consistent approach to underwriting credit over a long period of time, and that's kind of where -- what we've been doing. And I think that's served us well, and I think that's going to continue to be the approach. 
+On the deposit side, I think we'll do -- we'll make the decisions we think are the right decisions to -- product by product and client by client based on the relationships we have. And I think -- and so far, again, that's worked out well for us. So that's the approach we're going to continue to take.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Great. Appreciate the color and candor.
+
+Answer
+Executives - Senior EVP & CFO
+Okay, we thank everyone for joining us, and we'll talk to you next time.
+
+Question and Answer Operator Message
+Operator
+Thank you all for your participation on today's conference call. At this time, all parties may disconnect.
+

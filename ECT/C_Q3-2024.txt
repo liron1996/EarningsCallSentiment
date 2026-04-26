@@ -1,0 +1,404 @@
+﻿Citigroup Inc., Q3 2024 Earnings Call, Oct 15, 2024 - 
+
+Presentation Operator Message
+Operator
+Hello, and welcome to Citi's Third Quarter 2024 Earnings Call. Today's call will be hosted by Jen Landis, Head Citi Investor Relations. [Operator Instructions] Also as a reminder, this conference is being recorded today. [Operator Instructions] Ms. Landis, you may begin.
+
+Presenter Speech
+Executives - Head of Investor Relations
+Thank you, operator. Good morning, and thank you all for joining our third quarter 2024 earnings call. I am joined today by our Chief Executive Officer, Jane Fraser, and our Chief Financial Officer, Mark Mason. I'd like to remind you that today's presentation, which is available for download on our website, citigroup.com, may contain forward-looking statements, which are based on management's current expectations and are subject to uncertainty and changes in circumstances. Actual results may differ materially from these statements due to a variety of factors, including those described in our earnings materials as well as in our SEC filings.  
+And with that, I'll turn it over to Jane.
+
+Executives - CEO & Chair of the Board
+Thank you, Jen, and a very good morning to everyone. Well, we certainly live in interesting times. And while I usually start our calls with our views on the global macro environment, we're particularly proud of our progress this quarter, and so I shall start there. 
+Indeed, in a pivotal year, this quarter contains multiple proof points that we are moving in the right direction and that our strategy is delivering concrete results. We saw revenue growth and positive operating leverage for the firm and across all 5 businesses.  
+Our businesses performed well as the rate cutting cycle began with a double-digit increase in fee-based revenues, reflecting the growing diversity of our earnings mix. We continue to have share gains in Services and Banking. In Wealth, we saw a sizable increase in client investment and flows. We bought expenses down whilst continuing to invest in our transformation and businesses. And we continue to attract the top leaders in the industry and successfully combine them with our own teams in banking and wealth.  
+So while we are not yet where we want to be, the impact of the changes we're making is clearly evident in our momentum and our improving performance. 
+Turning to the macro. Now while growth years are not slower than last year, global economic performance continues to be surprisingly resilient. Whatever you want to call the U.S. [ landing ], the sentiment around it is more optimistic, supported by the recent positive payrolls report, and we see a healthy yet more discerning U.S. consumer and the U.S. corporate sector on its front foot. 
+Manufacturing weakness is restraining a modest rebound in Europe, which continues to struggle with more structural challenges around its competitiveness as highlighted by Draghi's Report.  
+And in China, consumer sentiment in the property market remain a concern, as markets await details on the expected fiscal stimulus. India, ASEAN, Japan, the Middle East, Mexico and Brazil are all notable bright spots globally. Today, we reported net income of $3.2 billion and earnings per share of $1.51 with an RoTCE of 7%. Overall, revenues grew by 3% ex divestitures, with each of our core businesses, delivering growth and positive operating leverage, while we continue to make substantial investments in our transformation, the efficiencies gained from our simplification and other efforts drove a 2% reduction in overall expenses. 
+Turning to the 5 businesses. Services delivered a record quarter with revenues up by 8%. Fee growth, the best indicator of underlying momentum was significant. And this, combined with loan and deposit volume growth drove this quarter's excellent performance.  
+Treasury and Trade Solutions was up 4% year-over-year reflecting good underlying momentum in the core drivers and Security Services was up 24%, reflecting the benefit of new mandates and an increase in assets under custody. Both TTS and Security Services achieved over 10% wallet share in our target markets through the first half of the year. 
+Last week, we announced that we are the first global bank to complete the integration of our cross-border services with Mastercard Move. Now this will ultimately enable near-instance secure payments to the vast Mastercard debit network, starting with 14 markets with more to come early next year.  And this is another great example of our continued investment in market-leading innovations. 
+In Markets, revenues were up slightly on the back of a better-than-expected September. Equities was up 32% with robust performance across all products. Our continued strong performance in equities validate both our strategy and execution to grow prime and cash. Fixed income, however, was down 6%. Our rate compliances business didn't match last year's standout performance. It was a particularly pleasing quarter in banking. Despite the muted IPO market, investment banking fees are up 44% that's driven by investment-grade debt issuance as our clients pulled forward activity ahead of the U.S. election. Corporate sentiment remains positive as Board pursue strategic transactions, such as the $36 billion Mars acquisition of Kellanova where we are the sole adviser and the lead financier.  
+Our strategy in banking continues to gain momentum. We are steadily growing our share in key target sectors such as health care and tech with a healthy pipeline ahead and the significant upside of our franchise continues to attract the top talent to Citi. 
+During the quarter, we announced an innovative $25 billion private credit partnership with our longtime client, Apollo, giving us the ability to source new transactions without using our balance sheet. This partnership positions us with another solution for debt financing for our clients, and it allows us to engage in private credit with the same depth and expertise as we currently do with syndicated debt markets. We are also starting to see the positive impact of the significant changes we've implemented in our wealth franchise with revenues up 9%. It's a notable example of the traction that I referenced earlier.  
+As Andy and the team intensify the focus on our investment business, we grew client investment assets by 24%, and we were particularly pleased with the performance in Asia and in Citigold. I continue to be excited by the opportunities and the sheer potential of our franchise. During the quarter, we signed an agreement to exit trust administration and fiduciary services as we continue to sharpen the focus of our Wealth business. We have more to do to reach our medium-term margin and return targets. But this quarter is a good indicator that we are on the way there. U.S. Personal Banking revenues were up 3%. We grew branded cards revenues by 8% with account acquisitions, spend and payment rates, all driving higher interest-earning balances.  
+Lower discretionary spending is impacting our retail services portfolio. However, we continue to see lower payment rates contributing to interest-earning balances. In Retail Banking, we are growing our mortgage portfolio as the rate environment shifts as well as growing overall loans. The U.S. consumer dynamics remain remarkably consistent with prior quarters. Our customers are healthy, but more discerning in their spend with signs of stress isolated to the lower FICOs. 
+We have maintained strong credit discipline, and our card portfolios continue to perform very much in line with our expectations. In terms of capital, while uncertainty about the Basel III end game prevails, our capital position remains very robust, and we ended the quarter with a CET1 ratio of 13.7%.  
+During the quarter, we returned $2.1 billion in capital including the repurchase of $1 billion of common shares. We will continue to repurchase stock as we evaluate the right level on a quarterly basis. As you know, our transformation is our #1 priority. 
+This quarter, we closed another long-standing consent order, which related to the effectiveness of our anti-money laundering systems. We have increased our investments in areas where we have not made sufficient progress such as data quality management. I and the management team remains steadfast and determined to get this transformation right and to get this done. 
+We will close out this pivotal year with momentum and with determination to continue to improve performance in each business and the firm overall. We are committed to meeting our revenue and expense targets for the year as well as our return target for the medium term. 
+I am very proud of our senior leadership and the entire organization as we demonstrate the potential of our unique global franchise. It is a privilege to lead this firm. With that, I would like to turn it over to Mark, and then we will be delighted, as always, to take your questions.
+
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Thanks, Jane, and good morning, everyone. I'm going to start with the firm-wide financial results, focusing on year-over-year comparisons for the third quarter, unless I indicate otherwise, and then spend a little more time on the businesses. 
+On Slide 5, we show financial results for the full firm. For the quarter, we reported net income of approximately $3.2 billion, EPS of $1.51 and an RoTCE of 7% on $20.3 billion of revenue. Total revenues were up 1% on a reported basis. Excluding divestiture-related impacts, revenues were up 3%, driven by growth across each of our businesses.  
+As you can see on the bottom left side of the page, net interest income, excluding markets, was down 1% year-over-year, largely due to lower interest rates in Argentina, and noninterest revenue, excluding markets, was up 9% as we continue to see strong fee momentum across Services, Banking and Wealth. 
+Year-to-date revenues were up 1% on a reported basis and are up 3%, excluding divestiture-related impacts. Expenses were $13.3 billion, down 2%, largely driven by savings associated with our organizational simplification and stranded cost reductions, partially offset by volume-related expenses and continued investments in the transformation and other risk and control initiatives.  
+Year-to-date, expenses were up 1%, primarily driven by the FDIC special assessment and civil money penalties. Cost of credit was $2.7 billion, largely driven by net credit losses in card as well as ACL builds across the businesses, primarily for portfolio growth and mix. At the end of the quarter, we had over $22 billion in total reserves with a reserve to funded loan ratio of approximately 2.7% and year-to-date, excluding the divestiture-related impacts, we generated positive operating leverage for the firm and reported an RoTCE of 7.2%.  
+On Slide 6, we show the expense trend over the past 5 quarters. This quarter, we reported expenses of $13.3 billion, down 2% and 1% sequentially. As we've said before, we will continue to increase our investments to address data governance, and data quality related to regulatory reporting and are committed to spending whatever is necessary to address these areas and the transformation more broadly. Although a lot more work remains, we have started to see benefits from our prior investments play through. We've continued to simplify our technology infrastructure, retiring over 450 applications year-to-date and now over 1,250 since our 2022 Investor Day.  
+We've upgraded 100% on of our over 2,300 ATMs in North America and Asia Pacific to next-gen software for better customer security and monitoring, and we've streamlined our cloud onboarding process, reducing time to onboard applications to the public cloud from over 7 weeks to 2 weeks. Each of these initiatives will result in both improvement of our operating efficiency and our safety and soundness. 
+And in terms of our full year expenses, we continue to expect that we will be at the higher end of the guidance range of $53.5 billion to $53.8 billion, excluding the FDIC special assessment, and civil money penalty. And as we've said before, we, of course, will continue to look for opportunities to absorb the civil money penalty.  
+On Slide 7, we show net interest income, loans and deposits while speak to sequential variances. In the third quarter, net interest income declined 1%. Excluding markets, net interest income was up 4% largely driven by volume growth in USPB as well as higher deposit spreads in Services and Wealth. NIM declined by 8 basis points, driven by a decline in Markets due to seasonally higher dividends in the second quarter. 
+Average loans were up 1%, driven by growth in Services and USPB, partially offset by modest declines in Banking and legacy franchise. Average deposits were roughly flat as growth in Services was largely offset by a decline in legacy franchise.  
+And as you think about guidance for NII ex-markets in the fourth quarter, as short-end rates continue to come down, we expect a headwind on floating rate assets, which will be somewhat offset by disciplined deposit pricing. Further offsetting that will be a continued benefit from securities being reinvested at higher yields. And as a reminder, we expect an ongoing NII headwind as legacy franchises loans and deposits continue to come down. So taking all of this into account, we expect NII ex-market to be roughly flat sequentially in the fourth quarter, and for the full year to be slightly down, better than we had previously guided.  
+On Slide 8, we show key consumer and corporate credit metrics, which reflect our disciplined risk appetite framework. Across our cards portfolio, approximately 85% of our loans are to consumers with FICO scores of 660 or higher. Based on what we see, the U.S. consumer continues to remain healthy and resilient. Spend in payment rates continue to normalize and underlying credit performance remains broadly in line with our expectations. NCLs increased year-over-year as card loan vintages that were originated over the last few years continue to mature at the same time.  
+Sequentially, NCLs declined, while delinquencies increased, both in line with historical third quarter seasonality. Absent this seasonality, we continue to see stabilization in early-stage delinquencies. We remain well reserved with a reserve to funded loan ratio of approximately 8.2% for our U.S. cards portfolio. Our corporate portfolio is largely investment grade and corporate nonaccrual loans remained low at 31 basis points. As such, we feel very comfortable with the over $22 billion of total reserves that we have in the current environment.  
+Turning to Slide 9. We provide details on our balance sheet, capital and liquidity, which are a reflection of our risk appetite, strategy and business model. Our $1.3 trillion deposit base is well diversified across regions, industries, customers and account type. $840 billion are corporate spanning 90 countries and are crucial to how our clients fund their daily operations around the world. The majority of our remaining deposits about $400 billion are well diversified across the private bank, Citigold, retail and wealth and work offerings.  
+And of our total deposits, roughly 70% are U.S. dollar-denominated with the remainder spanning over 60 currencies. Our asset mix also reflects our strong risk appetite framework. Our $689 billion loan portfolio is well diversified across consumer and corporate loans. In the quarter, deposit growth outpaced loan growth, resulting in higher cash balances, which contributed to available liquidity resources of approximately $960 billion. We continue to feel very good about the strength of our balance sheet and the quality of our assets and liability, which position us well to serve our clients and execute on our growth strategy.  
+On Slide 10, we show the sequential CET1 wall to provide more detail on the drivers this quarter. First, we generated $3 billion of net income to common shareholders, which added 27 basis points. Second, we returned $2.1 billion in the form of common dividends and share repurchases, which drove a reduction of 18 basis points. Third, we generated 12 basis points from unrealized AFS gains. And finally, the remaining 9 basis point reduction was driven by an increase in RWA as we continue to invest in accretive growth opportunity. 
+We ended the third quarter with a preliminary CET1 capital ratio of 13.7% relative to our target of 13.3%. As a reminder, effective October 1, our new CET1 capital ratio requirement is 12.1%, and we still plan on holding a 100 basis point management buffer on top of that for now.  
+As we think about the coming quarters, there are a few things that we will continue to consider as we manage our capital levels, including client demand as well as how the macro and Basel III end game evolves. We will take all of this into account as it relates to capital levels and the level of share repurchases on a quarter-by-quarter basis. 
+Turning to the businesses on Slide 11. In Services, revenues were up 8%, reflecting continued momentum across Security Services and TTS, both of which continue to gain share through the first half of this year. Net interest income was roughly flat as the benefit of higher deposit volume was largely offset by a decline in interest rates in Argentina.  
+On a sequential basis, net interest income was up 7%, driven by volume growth as we continue to onboard high-quality operating deposits and the benefit from higher deposit spreads. Noninterest revenue increased 33%, driven by a smaller impact from currency devaluation in Argentina as well as continued strength in underlying fee drivers in TTS and Security Services.  
+Excluding the impact of the Argentine peso devaluation, NIR increased 11%, driven by growth in cross-border transactions, U.S. dollar clearing volume and commercial card volume. Expenses increased 3% primarily driven by investments in technology, other risk and controls and product innovation including the expansion of the CitiDirect commercial banking platform into additional markets. 
+Cost of credit was $127 million primarily driven by a related to remittable corporate dividends being held on behalf of clients. Average loans increased 5%, primarily driven by continued demand for export and agency finance as well as working capital loans. Average deposits increased 4% as we continue to see growth in operating deposits. Services generated positive operating leverage and delivered net income of approximately $1.7 billion and continues to deliver a high RoTCE coming in at 26.4% for the quarter and 24.7% year-to-date.  
+On Slide 12, we show the results for Markets for the third quarter. Markets revenues were up 1%, driven by growth in equities, partially offset by a decline in fixed income. Equities revenues increased 32%, driven by momentum in prime with balances up approximately 22%, growth in derivatives and higher cash volume. Fixed income revenues decreased 6%, driven by rates and currencies, which was down 10%, partially offset by spread products and other fixed income, which was up 5%. 
+While rates and currencies declined from last year, which was the strongest third quarter in the previous 10 years, we did see good momentum in FX from increased corporate client activity. Spread products and other fixed income was higher, driven by financing securitization volumes and underwriting fees, partially offset by lower commodities on lower gas volatility.  
+Expenses increased 1%, primarily due to higher volume-related expenses. Cost of credit was $141 million driven by an ACL build primarily related to portfolio mix and spread products. Average loans increased 10%, largely driven by asset-backed lending and spread products as well as margin loans in equity. Average trading account assets increased 18%, largely driven by client demand for U.S. treasuries, foreign government securities and mortgage-backed securities. Markets generated another quarter of positive operating leverage and delivered net income of approximately $1.1 billion with an RoTCE of 7.9% for the quarter and 9.7% year-to-date.  
+On Slide 13, we show the results for Banking for the third quarter. Banking revenues were up 16%, largely driven by growth in investment banking. Investment banking revenues were up 31% and fees were up 44% with increases across debt capital markets advisory and equity capital markets. DCM benefited from continued strong investment-grade issuance. Advisory benefited from strong announced deal volume earlier this year. And in ECM, we saw stronger follow-on activity, which was offset by fewer IPOs amid market volatility in August. 
+Both year-to-date and in the quarter, we've driven wallet share gain, including in the healthcare and technology sectors where we've been investing. Corporate lending revenues, excluding mark-to-market on loan hedges, increased 5%, primarily driven by a smaller impact from currency devaluation in Argentina.  
+Expenses decreased 9%, primarily driven by benefits of head count reductions as we continue to rightsize the workforce and expense base. Cost of credit was $177 million, driven by an ACL build, primarily for portfolio mix changes. Average loans decreased 1% as we maintained strict discipline around returns. Banking generated positive operating leverage for the third quarter in a row and delivered net income of $238 million with an RoTCE of 4.3% for the quarter and 7.2% year-to-date.  
+On Slide 14, we show the results for Wealth for the third quarter. As you can see from our performance this quarter, we are making good progress against our strategy and expect that momentum to continue. Revenue was up 9%, driven by a 15% increase in NIR as we grew investment fee revenues on momentum in client investment assets, which grew 24%. NII increased 6%, driven by higher deposit volumes and spreads. Expenses decreased 4% driven by the continued benefit of headcount reductions as we rightsize the workforce and expense base.  
+Cost of credit was $33 million, largely driven by net credit losses of $27 million. End-of-period client balances increased 14%, driven by higher client investment assets and deposits both in North America and internationally. Average deposits increased 4%, reflecting the transfer of relationships and the associated deposits from USPB, partially offset by a shift in deposit to higher-yielding investments on Citi's platform. Average loans decreased 1% as we continue to optimize capital usage. Wealth generated another quarter of positive operating leverage and delivered net income of $283 million with an RoTCE of 8.5% for the quarter and 6.8% year-to-date.  
+On Slide 15, we show the results for U.S. Personal Banking for the third quarter. U.S. Personal Banking revenues were up 3%, driven by NII growth of 2% and lower partner payment. Branded Cards revenues increased 8% with interest-earning balances growth of 8% as payment rates continue to normalize, and we continue to see growth in spend volume, which were up 3%. Retail Services revenues were down 1% due to a slowing growth rate in interest-earning balance. Retail Banking revenues decreased 8%, driven by the transfer of relationships and the associated deposits to our Wealth business.  
+Expenses decreased 1%, driven by continuous productivity focus, partially offset by higher volume-related expenses. Cost of credit was $1.9 billion, largely driven by net credit losses and a modest build for volume growth. We continue to expect Branded Cards to be in the 3.5% to 4% NCL range for the full year. In Retail Services, we continue to expect to be around the high end of the 5.75% to 6.25% range for the full year, driven by both the impact of persistent inflation and high interest rate as well as lower sales activity at our partners. 
+Average deposits decreased 23%, largely driven by the transfer of relationships and the associated deposits to our Wealth business. USPB generated another quarter of positive operating leverage and delivered net income of $522 million with an RoTCE of 8.2% for the quarter and 5.2% year-to-date.  
+As we've said before, the USPB segment creates a lot of value for the firm. We knew 2024 would be a tough year as we lap the credit cost but we have a path to higher returns. We will continue to drive revenue growth through product innovation, while improving the operating efficiency of the business. And at the same time, we expect the credit environment to normalize, all of which will ultimately drive USPB to a high-teens return over the medium term.  
+On Slide 16, we show results for all other on a managed basis, which includes corporate other and legacy franchises and excludes divestiture-related items. Revenues decreased 18%, primarily driven by closed exits and wind-downs as well as margin compression on mortgage securities that have extended. Expenses were down 5% as the reduction from closed exits and wind-downs was partially offset by a legal reserve. And cost of credit was $289 million, largely driven by net credit losses and an ACL build in Mexico.  
+Slide 17 shows our full year 2024 outlook and medium-term guidance. We generated $61.6 billion of revenue year-to-date, driven by NIR ex-markets growth of 12% and are on track to meet our $80 billion to $81 billion full year guidance. As I mentioned, we now expect NII ex-markets to be slightly down for the full year. And with year-to-date expenses of $40.4 billion, excluding the FDIC special assessment, and civil money penalties we continue to expect to be on the higher end of our full year guidance range. As we take a step back, the third quarter represents another quarter of solid progress and a set of proof points towards improving firm-wide and business performance. 
+We remain focused on continuing to improve our performance and executing on our transformation. These priorities remain critical to strengthening our operations and becoming a more efficient, agile and client-centric company as we continue to make progress on achieving our medium-term targets.  
+With that, Jane and I will be happy to take your questions.
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] Our first question will come from Glenn Schorr with Evercore.
+
+Question
+Analysts - Senior MD & Senior Research Analyst
+Good guidance, I appreciate it. I'm curious on the card losses in Retail Services, if you could talk to like the 2024 exit rate seems like it will be higher than the full year guide at 6.25%. Maybe you could talk to the trajectory there and then the huge reserves that you have built in there? And anything you could tell us about the portfolio so we can keep expectations in the right spot.
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes. Sure. Why don't I take that, Glenn. So a couple of things. So one, I think that on Retail Services, you're seeing a couple of things play out. So one, you're seeing spend volumes trend down a bit. You are seeing payment rates come down as well. That obviously is fueling the average interest-earning balance growth that we're seeing.
+And then you've also seen with the spend volume come down, there's a denominator effect that plays through, which pushes up obviously, the loss rates that we're seeing. That's still in the quarter, is in line with our guidance. But in light of what we saw earlier in the year and normal seasonality, we'd expect that number to be on the higher end of that range and likely higher in the fourth quarter, but the higher in the fourth quarter, again, depends on what traffic is like and what the holiday spending season, looks like through the end of the year.  
+I would say the reserve levels we have are very healthy as it relates to this portfolio. I think in the back of the deck, we show the reserve to loan ratio at about 11.7 or so. So well-reserve for the Retail Services portfolio in light of the environment that we're in. 
+Similarly, we are seeing the stabilization from a delinquency point of view across both portfolios play through. And so net-net, we are obviously actively managing this. The retail partner activity is a critical component of it, and that will drive fourth quarter activity or levels but we do feel as if we'll end up on the higher end of the range here.
+
+Question
+Analysts - Senior MD & Senior Research Analyst
+Okay. Just 1 quickie, on your partnership with Apollo, very interesting and in line with a lot of other things we've seen. I'm curious on why -- how you thought about going with 1 specific partner versus a group and then more importantly, are there other parts of the franchise that could benefit from with stronger ties to private markets? I'm thinking specifically in the asset-backed world. Appreciate it.
+
+Answer
+Executives - CEO & Chair of the Board
+So we're delighted to have partnered with Apollo because what this does is it's uniting our comprehensive banking reach and expertise together. And is enabling us to offer our clients more innovative and tailored financing solutions. There will be some other partners involved in this as well. Mubadala is another participant in this. And when we look at this, it's very, very beneficial for our clients. 
+We're always looking at how we can best serves our clients, give them the most options. And platform enhances corporate and sponsor clients access to the private lending capital pool at real scale and $25 billion is a very sizable partnership here. And it provides funding certainty in strategic transactions. It's exclusive for LBOs non-investment grade in the U.S. 
+And the U.S. is obviously the bulk of the private credit market. It's sort of the [ BMS ] globally. It would be great to see that market developing in Europe. And it wouldn't surprise me to see us doing more partnerships and other pieces going forward.
+
+Question and Answer Operator Message
+Operator
+Our next question will come from Ebrahim Poonawala with Bank of America.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+I guess maybe, Mark, for you, like looking at Slide 7 on NII, and maybe we can break it down into Markets and ex Markets. In the ex Markets NII $11.96 billion this quarter, based on what you've said, the back book repricing, deposit Flex, is it safe to conclude that the ex Markets NII bottomed in 2Q '24? And I noticed the securities yield actually went lower 7 bps quarter-over-quarter. So was there something one-off that impacted the yield this quarter relative to the expectations you outlined earlier?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes. So when you look at Slide 7, you got a couple of things playing through. So your point around the low number, the low print 11.46 in the second quarter, that really is a combination relative to first quarter of FX translation, some seasonally lower card balances and lower interest payments in Argentina playing through that sequential 1Q to 2Q. 
+The third quarter, as I mentioned earlier, is really a byproduct of volumes on the lending side and spreads, deposit spreads and services in Wealth. And I think that I've already given kind of the guide for the fourth quarter where that is likely to be flat. But I think it's important to just remind everyone of the headwinds and tailwinds that play through this NII line. 
+And from a tailwind point of view, I would expect to see continued volume from loans, the USPB in particular, but also Services, and we're talking ex Market so Services. I'd also expect to see continued benefit from the reinvestment of securities at higher yields and then we're actively managing beta as it relates to with our clients.  
+And if you think about what we saw in the uptick of rates, we're actively managing that on the downtick as it relates to our institutional clients. I think the other point here is let's not forget that our interest rate sensitivity skews more towards non-U.S. And so a lot of what we think about and talk about tends to be how U.S. rates move and the betas around that. We're still going to have a bit of beta catch-up outside of the U.S. And so that's one of the headwinds there as well as the legacy franchise exits. 
+So you've got this long-winded way of saying, I do expect flat into the fourth quarter. I'm not going to give guidance for 2025. But what I will say is to keep the growth momentum to get to our medium-term targets, that's 4% to 5% of a CAGR and that's going to be a combination of NII and NIR, but skewing NIR. And I want to point that out because the third quarter and the year-to-date numbers that you see in our performance shows very strong fee NIR growth across each of these 5 businesses. 
+And I don't want to lose sight of that as you all really try to get a handle on how we get to that medium term, we're evidencing that shift towards more fee revenue as we speak. So I'll stop there, but I think that's important. And hopefully, I've answered your question around the NII forecast here.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+That's helpful, and agreed on the fee momentum. Just 1 quick on the Wealth segment, we've seen considerable progress year-to-date in terms of going from a 0 ROE to about 8.5% RoTCE significant operating leverage. I think I heard Jane say that momentum should continue. Is it fair to assume that RoTCE remains -- like Wealth remains a positive story as we think about how Citi's ROE continues to improve from here as we get towards the targets. Any color on the Wealth side would be helpful.
+
+Answer
+Executives - CEO & Chair of the Board
+Yes. I agree with you. I think we're all very pleased to see the progress on the strategy we laid out at Investor Day. The Wealth, target we have in the medium term is 15% to 20%. And with that, a 25% to 30% operating margin. And we're making steady progress there. I think the first piece is putting the pieces of the Global Wealth Organization together. And now we're focused on positioning for growth and reshaping the business to deliver the returns that we all expect. 
+A very important part of that is shifting our mix by growing investment. We had 24% growth in client investment assets this quarter. I would call that a good start to realizing the potential that we have here. And at the same time, Andy continues to rightsize our expense base and drive productivity. Our adviser productivity increased over 50% in Citigold North America. So a number of different areas that he's focused on so that we can continue to grow the investment space, including some important new talent that we've been bringing in that I'm sure you've noticed.
+
+Question and Answer Operator Message
+Operator
+Our next question will come from Mike Mayo with Wells Fargo.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+What assurance can you give that Citi can both meet its '26 expense guide, the $51 billion to $53 billion, and I'd note the year-to-date run rate implies $54 billion. So getting from that $54 billion run rate down to the $51 billion to $53 billion by 2026 and meet its regulatory targets. In other words, assurance that Citi can both walk and chew gum at the same time. 
+I guess I'd highlight, as you know, on October 2, Senator Warren asked the OCC to impose growth restrictions because Citi is "too big to manage." Now I would assume you don't agree with that, but still the question that a lot of people have is what assurances can you give that an asset cap won't happen at Citigroup?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Thanks, Mike. So why don't I start with your expense question, and then I'm sure Jane will chime in on some of the other parts of your question. So look, we put out medium-term targets of $51 billion to $53 billion in 2026, revenue dependent, of course. And that's with the -- consistent with the target we gave of less than 60% efficiency ratio. And we've got a target this year, as you know, on the high end of $53.8 billion. And so we've got to get from $53.8 billion down to $51 billion to $53 billion by 2026. 
+I'm not giving guidance for [ '25 ], but you can expect that, that would probably likely glide down to that number. What's driving the reduction? So we've talked before about $1.5 billion in savings, largely related to the restructuring and driving down head count reduction associated with that. We talked about another $500 million to $1 billion related to expense reductions from eliminating stranded costs as we continue to exit we're out of 9 of these consumer countries already. .
+And we talk about starting to see efficiencies and benefits from the investments in the transformation and technology towards the end of 2026. And those are the 3 drivers that are important for us to continue to realize between now and 2026. Will there be headwinds? Yes, there will be. 
+The transformation is a multiyear process. We're also investing in risk and controls and regulatory spend to support improving our operations. Of course, there will be headwinds. But there will also be things that we shift away from, there'll be tailwinds associated with it. Jane mentioned some of the productivity efforts that both Andy as well as Biz are pushing on. If you look across these businesses, and you see positive operating leverage across the Board. 
+So that means that Andy Morton, as well as Gonzalo are 2 looking at their cost structures at expenses that they can take out or productivity that they might improve. And so there will be additional cost that we have to incur. We incurred additional costs this year, but there will also be additional productivity savings that we continue to tease out to ensure that we get to these targets.
+
+Executives - CEO & Chair of the Board
+And Mike, let me pick up on part of -- the second part of the question in terms of the progress on the transformation. As you know, and as Mark's talking about, the transformation reverses historic underinvestment in Citi's infrastructure, it enhances our risk and control environment. And it's a strategic overhaul as we've talked about, that goes well beyond the consent order to simplify and to strengthen Citi to the benefit of all of the stakeholders we have. 
+We are already a very different Citi today. We've made enormous change over the past 3 years, dramatically simpler business model, significant org change, so we align our structure to that model. Do we now have a flatter organization with greater accountability. And as Mark talked about, through the investments in our transformation, we're focused on simplifying our operation model. modernizing our infrastructure risk and withdraws and all of that reduces risk as we go. .
+We're well on the way in executing the transformation plans. We've made meaningful progress as was acknowledged publicly by one of our regulators. And it's a wide range book of work, we've made significant strides in areas such as risk management, compliance and accountability. And that's well beyond the big bodies of work about consolidating our platforms. So we had 1,250 retired since 2022, as Mark mentioned. 
+Other areas of progress, enhance our stress testing capabilities, they're faster, more frequent, more precise assessment. We put in place new target operating model for wholesale credit risk, enterprise risk, price risk firm-wide. A huge body of work reducing risk and high-risk processes such as payments and markets through systemic preventative controls. 
+We've been implementing the Zing platform. This is the strategic cloud solution for market risk analytics that values trades on demand and at scale. And we've embedded risk and controls into our performance management framework and tied that to compensation for the full firm. So these are just giving you a flavor of this big body of work that we are executing and getting done with risk. I was very pleased that we closed the FRB, AML/BSA consent order, particularly given heightened risk and scrutiny in this area. That is the third consent order we've closed since '21. 
+And we've been very transparent where there are areas in which our execution is delayed against our original time lines. As is the case with our data work, we take a step back, determine what we need to change in those areas and get back on track and make relevant tech and people investments. So I feel very confident about the strategy we've laid out for the firm, the deliberate path we're on, the huge progress we've already made and that we will continue making with determination and with clarity going forward.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+So just 1 follow-up. When -- and you do have the amended consent order that's not new anymore. But is this a problem with your dealing with clients? Or is this an issue with giving the regulators the information that they need. And just, again, you don't -- just to confirm, you don't have an asset cap now. Is it fair to assume that you don't expect an asset cap anytime soon? Or could you have an asset cap and we don't even know about that.
+
+Answer
+Executives - CEO & Chair of the Board
+We don't have any problems dealing with our clients. Quite the opposite. We're a source of strength for our clients in terms of the provision of their payments businesses, their trading businesses, their -- the consumer credit businesses all across the board. So I would say quite the opposite. We are a source of tremendous strength for them, and you see that in the results of this quarter, which were very pleasing across the board in every single one of our businesses. And we are working closely with our regulators. 
+We incorporate their feedback as well as our own lessons learned if we fall behind in an element of the consent orders. But do understand the breadth of the consent order work, as I laid out, and the meaningful progress we're making across multiple areas and when we fall behind in an area. We increased the investments needed and look at any lessons learned in the approach and address it. So I feel very comfortable.
+
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes. So again, we don't have -- we're not talking about issues as it relates to client information, client data, client reporting. We're not talking about information as it relates to financials. We're talking about regulatory reporting, right, and regulatory reporting as I've mentioned in prior calls, we're a global firm. We've got over 11,000 regulatory reports. And we're talking about ensuring that the data that we capture at trade entry is the data that's required to ultimately show up on these various regulatory reports in the way that we need it. ensuring that we've got the proper controls on that front end. 
+So we don't do -- we don't have to do a lot of the reconciliation and manual adjustments to that data in order to get it how we need it in the report and ensuring that we have standardized rules and controls around that process so that we can do it as efficiently as possible. But this is largely around ensuring that we improve those regulatory reports that we have to produce by starting with the underlying data that's required to do that.
+
+Question and Answer Operator Message
+Operator
+Our next question will come from Jim Mitchell with Seaport Global.
+
+Question
+Analysts - Senior Analyst
+Mark, consensus expectations. And it is just another expense question in a different way, but consensus has you not hitting your revenue growth targets and you're certainly free to disagree, and I think that's fine. But they also have your expenses at the high end of your $51 billion to $53 billion range in '26. I guess, does that make sense? Or do you feel confident that if revenues do sort of disappoint your targets that you could come in at -- you should or can come in at the lower end of that range to help get to your RoTCE target. .
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes. So let's take it in pieces. So I think the first thing is that I think Jane and I have been very consistent with trying to give guidance on full year performance for the past couple of years. And we've largely actually delivered on that guidance. If you look at the top line growth since Investor Day, it's largely consistent with what we've talked about in the medium term, if you look at the expense guidance that we've given, largely consistent with that, including this year, even as I look at the $80 million to $81 billion revenue guidance we gave for the year and you look at the $60.6 billion that we've done year-to-date, and you think about what we have to deliver in order to hit that target, that is achievable, particularly when you remember that we had a large Argentina devaluation last year, that fee momentum required in the fourth quarter is very achievable. And we believe that we will obviously hit the high end of the range for 2024. 
+As I think about that outer year period and the guidance that we gave there, look, you all want proof points before you actually believe that we can deliver on that medium-term target. I'm pointing you to proof points. I'm hopeful that as you see those proof points through 2024, full year and each of the quarters, that you will start to believe in that revenue momentum that's required in the medium term. The fee revenue is a very good indicator what we delivered this year and this quarter is a very good indicator of the momentum we should see across these businesses in the next couple of years.
+I also hope that you would then see that as we deliver on the expense target that we have a path to continuing to deliver on the medium-term expense target, the drivers of which I mentioned earlier. Yes, if revenues come in short of the target that we've set for ourselves, you would naturally expect for the volume and transaction-related expenses and compensation expenses to come down in a commensurate way with that revenue decline, and you would also expect that we would look to see if there are other productivity opportunities that we can tease out in order to still deliver on that operating efficiency target that we've set for ourselves.
+
+Question
+Analysts - Senior Analyst
+I appreciate it. And maybe just as a follow-up on the capital question. I guess one thing that's been a bit of a headwind over the last year has been sort of growth in the DTA deductions. Do we start to see that become a tailwind again. How do we think about that accreting back into capital over the next couple of years?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes. The -- look, the main driver of our DTA utilization will be driving higher income in the U.S. that's going to be the major driver. And as we think about -- so as you think about each of the strategies that Jane has described for our business, you will often hear the importance of winning in the U.S. You'll hear it as it relates to banking and the activity that we saw the strong performance we saw this quarter and business world. You hear it as it relates to the Wealth business and the importance of us growing investments, particularly in North America, you see it in USPB, which is largely a U.S.-focused business. 
+DTA utilization is about us increasing net income or higher net income in the U.S. And as we work to execute on our client-driven strategy, we are looking for opportunities to do that. We're incenting the business to drive that momentum. And that's what's going to give us a higher utilization on a quarter-by-quarter in the coming years. .
+
+Question and Answer Operator Message
+Operator
+Our next question will come from Erika Najarian with UBS.
+
+Question
+Analysts - Analyst
+The first one is for you, Jane. As I speak with longer-term investors, they often offer the commentary that clearly, the path from the 7% RoTCE this quarter to the 11% to 12% is hopefully will be bridged and to be able to initiate a position before that progress is made they really sort of want to see more capital optimization. 
+And this question is not really the same question I asked you about buybacks every quarter, but really maybe a progress update on Banamex. So there was chatter in the market about Banamex needed to have 4 quarters of separate financials before being IPO-ed? And I'm wondering if you could give us specific progress on how that's going. And Mark, maybe remind us on what Banamex's contribution is as we think about the unlocking that excess capital versus taking it out of the P&L?
+
+Answer
+Executives - CEO & Chair of the Board
+Yes, I'd be delighted to, Erika. And I would also just before I jump into Banamex from -- point to a laser focus on capital optimization. It's been a mantra for a long time in our Markets business, in Banking and a discipline that we've driven throughout the organization. And I would say there isn't anyone at Citi that is not keenly aware of the focus around optimizing our capital, returning to shareholders, particularly given where we're trading and making sure that we drive to return. 
+So if I turn to Banamex, our singular focus right now is the separation of the 2 banks, which we expect to complete in the fourth quarter of this year. This has been an enormous body of work because we are creating effectively de novo, Mexico's eighth largest bank. We've just now got the core regulatory authorizations that we need to proceed with separation. Although there are a few other approvals pending. We are in the very final stages and are working with our clients to prepare them for this switchover and -- later on in Q4. 
+Once the separation is complete, we will turn our full attention to the IPO itself and the successful execution of the IPO is the highest priority for our Head of International, Ernesto Torres Cantú, to run Banamex and our incoming Banamex Executive Chairman who starts this quarter, Ignacio Deschamps. We plan to be ready to IPO at the end of 2025 based on the factors that we can control. 
+But I think as Mark and I have always said, the timing is going to be driven by market conditions to ensure we maximize the shareholder value. And we're making the necessary investments to continue growing share, and I was very pleased that Banamex outpaced the average market revenue growth year-to-date good expense discipline being maintained despite the complex separation process and the environment. So I'm pleased with where we are, and I hope that gives you a bit of a flavor of what the path ahead looks like.
+
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+In terms of the second part of your question, a couple of things. So one, we've been seeing good growth in our Mexico consumer business. We've also been investing in it appropriately so to make sure that we protect the strength of that franchise as we prepare it for separation ultimately for the IPO. Erika, if I understood your question right, if you turn to Page 16 of the deck in the bottom right-hand side, we show the P&L for Mexico consumer for '22 and '23. And so you can see the contribution from a revenue and expense point of view, it's about $1.5 billion in 2023. And we probably -- I think it's about $4 billion or so of TCE that we have associated with this business. So that gives you some sense for the contribution, but it continues to perform quite well as we manage it through this process.
+
+Question
+Analysts - Analyst
+Perfect. And as a follow-up question, I'm sure it is frustrating for you to see the stock reaction in a quarter where you had PPNR strength and better expectations for net interest income in the fourth quarter. So maybe I'll frame the question this way for you, Mark. As we think about the gyrations in interest rate expectations globally, maybe remind us sort of is it fair to assume that Citi is asset-sensitive internationally and neutrally positioned domestically. How should we think about late fees? I know you told us that late fees going to $8 for a part of your initial -- your initial guide for the year. 
+And additionally, I think perhaps because capital markets are so strong across the board across all of your peers. Maybe that's not why you're getting "credit" for your strength this quarter. So as we look into '25 and having NIR be a bigger contribution to your revenue CAGR, maybe walk us through what are the other sort of core fee strengths that we should look forward to other than FICC and banking remaining strong and coming back that could bring in to that path to '26.
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Okay. There's a lot there, but thank you for the question. I would like to see the stock reacting much more favorably because this really has been a strong quarter for us. And in fact, as you mentioned, NII, when you look through it, we've in fact, taken our NII guidance up just a tad bit as we referenced that the full year would be slightly down versus modestly down with a fourth quarter that's flat to the third quarter. And so that is an important takeaway. 
+I mentioned the headwinds and tailwinds earlier, and we shouldn't lose sight of those. We will get a lift from reinvesting the securities as those mature, we will continue to see volume growth and those are important drivers of tailwind activity for us. You rightfully mentioned our interest rate exposure analysis that we do on a quarterly basis that reflects the asset sensitivity of our business. 
+And last quarter, it was about $1.6 billion or so of a negative assuming a 100 basis point decline across the curve, assuming a static balance sheet and cross currencies. And as you look at that asset sensitivity, again, you rightfully pointed out that we skew non-U.S. in terms of the magnitude of that decline in NII should we see that parallel shift. 
+And in fact, it's as much as $1.3 billion or so of that $1.6 billion is non-U.S. dollar related across 60 currencies. And so you'd have to see all of that move in tandem for that drag. And the U.S. dollar drag is about $300 million, assuming a 100 basis point shift, and that's been coming down. If you look back over the quarters, we've been thoughtfully managing that down, and that's down to about a $300 million number. I would expect when we print the third quarter to, it will be down a bit more. And so again, we are asset sensitive but it does skew outside of the U.S., and thank you for asking the question because I think it's important to remind our investors and analysts of that dynamic, which, in many ways, may be different from that of other institutions. 
+In terms of the late fees, we did say that we were including late fees in our assumptions and our outlook that we've given. I'll state the obvious, Erika, which is that we want people to obviously pay on time, and we do everything that we can to assist and ensure that they do that. With that said, we don't have a definitive time line on late fees, nor are we overly reliant on late fees to drive revenue for our firm. And so it looks like that decisioning will likely kind of fall closer to sometime in 2025. 
+And so there is a small adjustment in the last quarter of our revenue forecast but it's inside of the guidance that we gave and doesn't materially change that in any way. And then the last part of your question, I think, was around NIR and the fee revenue. And as I mentioned earlier, I'm not going to give guidance for 2025 but I think your question was around where are we likely to see continued momentum as it relates to fee revenue growth. 
+And I'd start with Services, which where fees were up some 33% year-over-year. And yes, we should adjust for the Argentine peso devaluation. But even if you adjust for that, it's double digit, 11% year-over-year noninterest revenue growth and when you look at those drivers, they've been consistently strong, cross-border transaction value up 8%, U.S. dollar clearing volume up 7%, commercial card spend, up 8% and in the supplement, you'll see that it's mid- to high single-digit year-to-date growth across those KPIs as well. 
+We expect that, that will continue with our corporate clients and as we bring on new commercial clients as well. I'll turn you to -- if you look at banking, we talked about already. So I won't kind of lean into that too much, but except to highlight a really strong quarter in banking, in investment banking fees, in particular, the rebound that we've been talking about, but importantly, us capturing share in that rebound and these important partnerships that position us well as sponsors start to lean back into the market, the investments that we've been making in talent and sectors we need to strengthen. All of those things are going to play to continued fee momentum as we go into 2025. 
+Wealth, again, really strong performance this quarter with revenues up 9%. But look at the client investment assets, up 24%. The client balance is up 14% that's driving fee momentum, and it's a keen area of focus for Andy and that team that he's pulled together. And it's a real opportunity for us given the $5 trillion or so of assets that our clients hold away from us, and we're better positioning ourselves to capture that. And then finally, you can see kind of continued momentum on USPB. But it's across the board is what I'm saying, Erika, in terms of that fee momentum, and it is important. It's an important aspect as we think about getting to those medium-term targets in that 4% to 5% revenue.
+
+Question and Answer Operator Message
+Operator
+Our next question will come from Gerard Cassidy with RBC.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Mark, you touched on in your prepared comments about growing the U.S. Personal Banking RoTCE to higher levels. And you mentioned 2 items. One innovative products and the normalization of credit costs. Can you elaborate on those 2 items that will be contributing to the driver, aside from the efficiency improvement that you also touched on.
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes, sure. So I mean -- so obviously, USPB is a combination of the cards businesses that we have in the retail banking business. And that cards portfolio has both branded as well as retail services as part of it. And even within branded, we have proprietary cards, where we frankly have been looking to how we can come up with new innovative products. So an example of product innovation is the recent refresh that we did of our Strata Premier card, which was designed to drive acquisition and engagement with a new rewards offering. 
+And with that acquisitions are up some 7% both quarter-over-quarter and year-over-year for Branded Cards. So that's an example of product innovation. Another one is we also launched Flex Pay at Costco a few quarters ago, and you can see good installment loan growth as a consequence of that, up some 15% or so. 
+And so those -- that type of product creation is important to acquisitions. It's important to ensuring the card stays top of wallet and important to kind of driving some of that top line performance. And then the other thing that I mentioned, you're right, was around cost of credit, and that really is the continued normalization of cost of credit I mentioned a couple of times now the idea that multiple vintages are maturing at the same time, and that's kind of -- that has to play through. And enough for us to kind of see a more normal level of credit. And that will be important to the returns. And again, we are starting to see stabilization in both the cost of credit line, but also in delinquencies and that's a good indicator for us.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Very good. And then just following up on credit. In the Banking division, you guys mentioned cost of credit was I think, $107 million due to ACL build of $141 million and it was due to a mix -- a change in the mix in the portfolio. Can you share with us what that mix change was that drove this provision?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+There's nothing -- it's a mix of kind of different asset classes and clients that we've lent against, there's nothing material or significant in that number. When you look at the nonaccrual loans, that ratio is still 31 basis points. So it's a mix change of our exposures, but nothing material there. .
+
+Executives - CEO & Chair of the Board
+And we continue to see a very healthy corporate sector really, across the world. .
+
+Question and Answer Operator Message
+Operator
+Our next question will come from the line of Vivek Juneja with JPMorgan.
+
+Question
+Analysts - Senior Equity Analyst
+Two questions, Jane, and Mark. One is on expenses and the other is on your response to the asset cap question before. So first one, expenses for -- an easier one. You had -- earlier in the year, you had said you expect about $700 million to $1 billion of severance charges in the 53.5% to 53.8%. Did you have any in the third quarter, expect any in the fourth? And do you expect to be done with those this year or and need to continue into next year or 2?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Yes. So that number was a combination of restructuring charges and severance charges or repositioning charges. And we break out obviously restructuring so that you can see those. And this restructuring component was largely driven by the org simplification. That will be done this year. The normal severance or repositioning charges that we take as a normal course of BAU, you'd expect that to occur in any year, and it certainly will be part of '25 and '26 going forward. We did have some this quarter. I would expect that we will have some next quarter but I don't see us being outside of by any stretch, the range that I gave. And again, the range was for the combination of both.
+
+Question
+Analysts - Senior Equity Analyst
+And shifting to the asset cap question, Jane and Mark. We didn't hear a clear answer on, a, do you have an asset cap and, b, even if you don't, what is the effective implication or impact of what the regulators have said.
+
+Answer
+Executives - CEO & Chair of the Board
+So let me be crystal clear. We do not have a asset cap and there are no additional measures other than what was announced in July in place and not expecting any. So -- and the implications -- what we're doing is, as I've laid out, we've increased investments in the areas where we were behind particularly in the data related to our regulatory processes of regulatory reporting. We're increasing investment behind it, and we continue to make progress, material progress on the orders in place, including closing the BSA/AML order this quarter, the third order closed since '21.
+
+Question
+Analysts - Senior Equity Analyst
+And you don't expect anything meaningful Jane, that would impact business, like there was this new story about the [ financial ] some license that you didn't get approved by the regulator. Anything more meaningful like that, that might be occurring that maybe.
+
+Answer
+Executives - CEO & Chair of the Board
+Absolutely -- let me be crystal clear. Absolutely nothing.
+
+Question and Answer Operator Message
+Operator
+Our next question will come from the line of Matt O'Connor with Deutsche Bank. .
+
+Question
+Analysts - Research Analyst
+Just a couple of clarification questions. I guess, first on Banamex. Are you on track to still IPO in the fourth quarter of next year? Or does it just get pushed out by a quarter with the legal separation taking a little bit longer?
+
+Answer
+Executives - CEO & Chair of the Board
+Look, I think as I mentioned in response to Erika's question, we plan to be ready to IPO at the end of '25 based on the factors we can control. The timing is going to get driven by how we maximize shareholder value, and that will be market conditions. So that's where we stand.
+
+Question
+Analysts - Research Analyst
+Okay. So I think that means, by the end of '25, you're talking about 1Q '26, but that was kind of my clarification question on that. I thought you needed 4 quarters after you legally separated it to officially IPO it?
+
+Answer
+Executives - CEO & Chair of the Board
+We believe as we stand at the moment, we would be ready to IPO at the end of '25. It's much more a focus on what the market conditions at that point will be. And Mark and I are very, very much focused on the shareholder value and maximizing that over -- rushing over 1 quarter versus another quarter.
+
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+And there's no hard rule on -- sorry, go ahead.
+
+Executives - CEO & Chair of the Board
+There isn't a hard rule on you have to have got 4 full quarters after you have -- after you have separated.
+
+Question
+Analysts - Research Analyst
+I see. Okay. That's super helpful. We just haven't had that many of these, so that's helpful. And then just separately, I think in the prepared remarks, you guys mentioned a modest provision within services. for some of the unremitted corporate dividends. And I just want to clarify that and what country is that? And I guess I thought there wasn't really much liability to you guys from that. So any clarification on that? I know it's a small amount, but it would be helpful.
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Sure. It's a small amount. And if you look in the back of the deck, we have a page on Russia exposure. It's related to that.
+
+Question
+Analysts - Research Analyst
+Okay. But I still feel like there's not risk to you guys from all those kind of trapped dividends? And I guess, why take a small reserve if there's legally no risk to you guys?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Well, it's the way we treat the exposure there. We're following kind of the guidelines on how we need to treat exposures in the country that we aren't able to distribute to clients, but we actually have to hold on their behalf. And so we have to book a reserve associated with that, and so we do that. We obviously show on the page what the exposure is in the event of a loss of control and you can see how that ultimately nets out, but we're following the appropriate guidelines for what's required to, for reserves of that nature.
+
+Question and Answer Operator Message
+Operator
+Our next question comes from the line of Ryan Kenny with Morgan Stanley. .
+
+Question
+Analysts - Equity Analyst
+I have one for Mark. So you mentioned that Services NII is a tailwind as rates decline. Can you just unpack how that happens? Is there any benefit from swap roll off or floating swaps that we should be thinking about that's embedded in that statement?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+There are a couple of things kind of to keep in mind on the Services business. So one is, obviously, this is a client business, it's not just a deposit-taking business. And so how we think about pricing to those clients becomes really important. You've got the U.S. and non-U.S. dynamic that's playing through where for institutional clients, we've largely been holding to the higher betas that we saw as rates have ticked up, again, with the relationship in mind, and we have some offsetting pressure outside of the U.S. as those betas kind of catch up. 
+But I think importantly, you also heard me mention the reinvestment into securities at higher yields. And that reinvestment or those higher yields ultimately play out through the businesses. And so that will show up as part of kind of NII as we think about Services, but the other businesses as well. And so those are important components of the NII story for Services. I think when you look at -- but in quarter, performance in NII is down 5%. 
+A big part of that is driven by the Argentina, higher -- lower rates movement in the quarter versus last year. So lower rates we're earning in Argentina playing through that line, particularly in this quarter, if you adjusted for that on the NII line, it would be flat to slightly a little bit better. 
+So that's really what it is. It's kind of management of client relationships as well as the higher earnings on reinvested securities contributing to that as well as a volume from operating account growth that we expect.
+
+Question and Answer Operator Message
+Operator
+Our next question comes from the line of Saul Martinez with HSBC.
+
+Question
+Analysts - Head of US Financials Research
+A couple of quick questions. First, just a follow-up on Banamex. Jane, as you know, there are concerns about judicial reform in Mexico and the implications for rule of law and Mexican asset prices have suffered as a result. I think the largest Mexican bank trades at something in the neighborhood of 7x earnings. If market conditions don't improve and Mexican asset prices remain depressed and these concerns persist than what -- I mean, do you just wait until market conditions improve? Or how do you think about this process in the context of what seems to be a deteriorating macro backdrop for Mexico?
+
+Answer
+Executives - CEO & Chair of the Board
+Yes. We've got to wait and see what the market conditions will be. But the NorthStar for me and for Mark is crystal clear. It is optimizing and maximizing our shareholder value. So if the conditions are not appropriate at that time, then we will wait until they are. In the meantime, the business is performing well. It's accretive to our returns. It's not a drag here in any shape or form. So there is no there's no need to rush for a suboptimal result here. But we will IPO and we will exit Banamex. But we won't do that in a reckless manner. We'll be disciplined about it. As you would expect us to be. And as I think we're demonstrating that we are on multiple different dimensions. .
+
+Question
+Analysts - Head of US Financials Research
+Okay. Fair enough. And then, I guess, a follow-up on the U.S. Personal Banking RoTCE improvement. And the normalization of cost of credit, it seems to be a big component of that. But Mark, can you just remind us where -- what -- where you are in terms of cost of credit versus what you would think a more normalized level is for Branded Cards and Retail Services. I guess how much more -- how much of a tailwind do a more normalized credit environment entail in terms of credit cost?
+
+Answer
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+Again, I don't want to -- I don't want to get into 2025 at this stage. I mean I assure you we will give more color and commentary on that as we get into the fourth quarter earnings in January. What I will say, again, as you think about these businesses, we do see continued top line. We do expect continued top line momentum, we've had 8 consecutive quarters of positive operating leverage in USPB, 49% this quarter. 
+So we're managing the expense base well. We think there's more upside to the top line. We're really focused on growth across the portfolios. And I do think that cost of credit, again, if for no other reason, but the compounding effect of those vintages maturing, as well as kind of inflation starting to come off, rates trickling down, that should be better for the consumer and should start to play out in both the macroeconomic scenarios that we run for CECL purposes but also ultimately in delinquencies and NCLs and we're starting to see that improvement in delinquencies and its stabilization already somewhat. So I don't want to get into guidance, but that's kind of how I think about the drivers or contributors to improve returns over the medium term.
+
+Question and Answer Operator Message
+Operator
+Our next question will come from the line of Mike Mayo with Wells Fargo.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+Thanks for the clarification on the asset cap question that I asked earlier. And I know you are limited in how much you can say about regulators. But just to be clear because a lot of e-mail traffic going back, you did say there is no asset cap and you don't expect one and you don't expect other additional actions at this time. .
+
+Answer
+Executives - CEO & Chair of the Board
+Right.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+Okay. Thank you for clarifying that. And I guess, look, I have great respect -- I'm an ex regulator, Paul Volcker was my hero. I respect regulators. And nobody wants to see you cut corners to get to your $51 billion to $53 billion of expenses. But I'm just wondering -- and you have consolidated systems, apps, layers, bureaucracy, and you're divesting lots of activities. So it's just -- even the amended consent order was surprising because you have taken so many efforts. 
+And if you should have had an amended consent or other actions, they probably should have in place 1, 5, 10 or literally 20 years ago. And so that's just confusing on the outside. So with that said, is this a matter of spending more money or about doing these tasks more intelligently. In other words, you put more gas to the tank, the car is not going faster. So is it amount of resources or just being more intelligent in terms of resolving some of these regulatory issues?
+
+Answer
+Executives - CEO & Chair of the Board
+So let me break it down to a couple of pieces. So I'll start off just to remind everyone the consent orders are very, very broad. And this the action that was taken was because we're behind in a narrower area, which is the data particularly regarding our regulatory reporting where we're behind is the main area of focus. We moved swiftly to address it. We're very transparent about it from early on in the year that we were falling behind on this. 
+And overall, I'm pleased with our progress. And as you say, Mike, I listed a number of areas of progress and trying to make it as tangible as we can, given what we can and can't say as this is supervisory. I'm pleased that our businesses continue to improve their performance, while the transformation is going on. .
+They are the 2 priorities we have this year. So I think effectively, yes, we can walk and chew gum at the same time and the huge benefit of all of the simplification on the business, on the organization, the other efforts is making it easier for us to execute and be very focused. And well, maybe Mark, I'll pass it over to you.
+
+Executives - Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+I think your question is helpful in the sense that you said is it kind of a rethink on our approach? Or is it the need to spend more money? And one of the things that we've done, Mike, is take a step back and look at how we've been approaching data, for example. So this is -- and we are going to make -- we have made some changes to our approach and those changes relate to how we get after resolving data issues that are identified, ensuring that there is engagement from the front-end business, from the functions that are most relevant and that there's consideration for what's required on reg reporting in order for us to get that process streamlined and correct. And so there is -- there are aspects of this that require a change in our approach, and we've been taking that change and making that change rather, and we'll make more changes accordingly as we've taken that step back. 
+And then the other -- and there are aspects of it that require at a minimum, review of what is causing either the delay or us not moving at the pace that we'd like to move with that our regulators would like. And that is, in fact, what the resource review plan was that was in the amended consent order. It was basically a statement saying that you need to ensure that you have sufficient resources and that they're allocated towards achieving the timely and sustainable compliance. 
+And so part of our process is, in fact, that, taking a regular review of what is on track in the way of our milestones and deliverables where we see things that are being delayed or going red, what is the underlying root cause for why. Is it a resource issue where we need to put more dollars in people or technology to it? 
+Is it a process issue where we need to reconsider our approach. And on the other side of that root cause, taking action to fix it. And so your question is spot on. The answer is that in many instances, it will be a little bit of both. But importantly, our processes include that type of analysis and assessment so that we can get after the execution on this in an effective way. I hope that helps.
+
+Executives - CEO & Chair of the Board
+And all of this drives productivity and other benefits for our shareholders as well as making sure that we're strengthening Citi from the regulatory perspective.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+And then my last follow-up. To the extent that you see a disconnect between your performance and the stock price, that would seem to create more of an opportunity to buy the stock at $64 when tangible book value is $90. And so I hope that -- I've used this analogy before, but hopefully, you're selling the chairs and the desk and the silverware and the executive dining room to go ahead and buy back stock, whatever you can .
+
+Answer
+Executives - CEO & Chair of the Board
+Yes. It's clearly given where we are trading. It is -- we're very focused around the opportunities to buy back stock and mindful of the importance of it. And equally, yes,  we are proud of the performance of the franchise this quarter. It was a very strong quarter and an important set of proof points for our investors that we are on a deliberate path we're making the progress that we need to and actually pretty excited about the path ahead of us and the potential that we see. .
+
+Question and Answer Operator Message
+Operator
+There are no further questions. I'll now turn the call over to Jen Landis for closing remarks.
+
+Answer
+Executives - Head of Investor Relations
+Thank you, everyone, for joining the call. Please follow up with IR if you have any additional questions. Thank you. .
+
+Question and Answer Operator Message
+Operator
+This concludes Citi's Third Quarter 2024 Earnings Call. You may now disconnect.
+

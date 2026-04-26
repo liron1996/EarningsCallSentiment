@@ -1,0 +1,286 @@
+﻿BlackRock, Inc., Q1 2024 Earnings Call, Apr 12, 2024 - 
+
+Presentation Operator Message
+Operator
+Good morning. My name is Katie, and I will be your conference facilitator today. At this time, I would like to welcome everyone to the BlackRock, Inc. First Quarter 2024 Earnings Teleconference. 
+Our host for today's call will be the Chairman and Chief Executive Officer, Laurence D. Fink; Chief Financial Officer, Martin S. Small; President, Robert S. Kapito; and General Counsel, Christopher J. Meade. [Operator Instructions]. Thank you. 
+Mr. Meade, you may begin your conference.
+
+Presenter Speech
+Executives - General Counsel & Chief Legal Officer
+Thank you. Good morning, everyone. I'm Chris Meade, the General Counsel of BlackRock. 
+Before we begin, I'd like to remind you that during the course of this call, we may make a number of forward-looking statements. We call your attention to the fact that BlackRock's actual results may, of course, differ from these statements. 
+As you know, BlackRock has filed reports with the SEC, which was some of the factors that may result -- cause the results of BlackRock to differ materially from what we say today. 
+BlackRock assumes no duty and does not undertake to update any forward-looking statements.  
+So with that, I'll turn it over to Martin.
+
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Thanks, Chris, and good morning, everyone. It's my pleasure to present results for the first quarter of 2024. 
+Before I turn it over to Larry, I'll review our financial performance and business results. Our earnings release discloses both GAAP and as-adjusted financial results. I'll be focusing primarily on our as-adjusted results.  
+BlackRock's first quarter results reflect sustained momentum across our entire platform. We ended the quarter with record AUM of nearly $10.5 trillion and one of the strongest opportunity sets ahead across multiple growth engines, including technology, outsourced solutions and private markets. Momentum's accelerating, and we have line of sight into a breadth of significant mandates in investment management and technology spanning client channels and geographies.  
+Teams across BlackRock are energized and organized to execute on these opportunities and deliver BlackRock's platform to clients through world-class client service. We built BlackRock to be a structural grower with industry leadership in secular growth areas like ETFs, private markets, model portfolios and technology. With supportive markets and more optimistic sentiment from clients, we're confident in our ability to both grow assets on behalf of clients and drive profitable growth for our shareholders.  
+First quarter long-term net inflows of $76 billion continued to lead the industry, driving positive organic base fee growth alongside double-digit growth year-over-year in revenue and earnings as well as 180 basis points of margin expansion. Excluding low-fee institutional index equity flows, we saw $100 billion of long-term net inflows in the quarter.  
+As equity markets powered to record highs in the first quarter, investors who were waiting in cash missed out on significant returns across broader markets. With long-term investing, time in the markets is often more important than market timing. Although cash remains an attractive safe haven with the prospect of fewer rate cuts for 2024, the nearly 30% increase in equities over the last year continues to propel clients towards rerisking into stocks and bonds.  
+Clients choose BlackRock for performance. They continue to consolidate more of their portfolios with us, which is driving our growth premium. With more clarity on interest rates and a supportive market backdrop, the assets we manage on behalf of our clients, our units of trust ended the quarter up $1.4 trillion from a year ago, an increase of 15%. Organic asset and base fee growth again accelerated into the end of the quarter, and we see broad-based momentum growing across client channels and regions.  
+In the first quarter, BlackRock generated long-term net inflows of $76 billion, partially offset by seasonal outflows from institutional money market funds. Total annualized organic base fee growth of 1% reflected seasonally softer flows earlier in the quarter before coming back to target in March. 
+First quarter revenue of $4.7 billion increased 11% year-over-year, driven by the impact of market appreciation over the last 12 months on average AUM and higher performance fees and technology services revenue.  
+Operating income of $1.8 billion was up 17% and earnings per share of $9.81 was 24% higher versus a year ago, also reflecting higher nonoperating income. 
+Nonoperating results for the quarter included $90 million of net investment gains, driven primarily by mark-to-market noncash gains on our unhedged seed capital investments and minority investment in Envestnet.  
+Our as-adjusted tax rate for the first quarter was approximately 23% and included discrete tax benefits related to stock-based compensation awards that vest in the first quarter of each year. 
+We continue to estimate that 25% is a reasonable projected tax run rate for the remainder of 2024, though the actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation.  
+First quarter base fees and securities lending revenue of $3.8 billion was up 8% year-over-year and up 5% sequentially, driven by the positive impact of market beta on average AUM and positive organic base fee growth. On an equivalent day count basis, our annualized effective fee rate was 0.3 basis point lower compared to the fourth quarter. This was mainly due to the relative outperformance of lower-fee U.S. equity markets, client preferences for lower-fee U.S. exposures and lower securities lending revenue.  
+Performance fees of $204 million increased from a year ago, primarily reflecting higher revenue from alternatives. 
+Quarterly technology services revenue was up 11% compared to a year ago, reflecting sustained demand for our Aladdin technology offerings. 
+Annual contract value or ACV increased 9% year-over-year.  
+Beginning in the first quarter of 2024, earnings recognized from minority investments accounted for under equity method will be presented as part of our nonoperating results. Advisory and other revenue increased from a year ago, primarily reflecting this change.  
+In addition, as many of you know, we updated the presentation of expense line items by including a new sales, asset and account income statement caption. This category includes distribution and servicing costs, direct fund expense and sub-advisory and other sales, asset and account-based expense. Sub-advisory and other expense, which are variable noncompensation expenses associated with asset and revenue growth, was previously reported within general and administration expense.  
+We believe this change provides investors a clearer view of both BlackRock's variable noncompensation expense and G&A, which represents more fixed costs. It represents how we'll execute on our financial rubric of aligning investment spend with our highest conviction growth areas, variabilizing more of our expense base and generating fixed cost scale.  
+Total expense increased 8% year-over-year, reflecting higher compensation, G&A and sales, asset and account expense. 
+Employee compensation and benefit expense was up 11%, primarily reflecting higher incentive compensation as a result of higher operating income and performance fees. 
+G&A expense increased 6% due to the timing of technology investment spend in the prior year. Sequentially, G&A expense decreased 12%, reflecting timing of technology investment spend and seasonally higher marketing and promotional expense in the fourth quarter. While one quarter's results can be impacted by timing of spend, we expect technology to be one of our primary areas of investment within G&A. 
+Sales, asset and account expense increased 5% compared to a year ago, primarily driven by higher direct fund expense. 
+Direct fund expense was up 7% year-over-year, mainly due to higher average index AUM. Sequentially, direct fund expense increased due to higher average index AUM in the current quarter and higher rebates that seasonally occur in the fourth quarter.  
+Our first quarter as-adjusted operating margin of 42.2% was up 180 basis points from a year ago. As markets improve, we remain committed to driving operating leverage and profitable growth. BlackRock's industry-leading organic growth is a direct result of the disciplined investments we've made consistently through market cycles. 
+Looking forward, we'll continue to prioritize investments with differentiated organic growth potential or that will expand operating leverage through enhanced scale.  
+In line with our guidance in January and excluding the impact of Global Infrastructure Partners and related transaction costs, at present, we would expect our head count to be broadly flat in 2024 and we would also expect a low to mid-single-digit percentage increase in 2024 core G&A expense.  
+Our capital management strategy remains consistent: we invest first, either to scale strategic growth initiatives or drive operational efficiency, and then return excess cash to our shareholders through a combination of dividends and share repurchases. At times, we may make inorganic investments where we see an opportunity to accelerate organic growth and support our strategic initiatives.  
+Last month, we announced our agreement to acquire the remaining equity interest in SpiderRock Advisors, a leading provider of customized option overlay strategies in the U.S. wealth market. This transaction expands on BlackRock's minority investment in SpiderRock Advisors made in 2021 and builds on BlackRock's strong growth in personalized separately managed accounts via Aperio and ETF model portfolios. 
+At present, we expect the transaction to close in the second quarter of this year, subject to customary closing conditions.  
+In March, we issued $3 billion of debt to fund a portion of the cash consideration for our planned acquisition of GIP. Our offering consisted of 3 tranches of senior unsecured notes across 5-, 10- and 30-year maturities. The offering was well received by fixed income investors, especially our inaugural 30-year bond. We currently have invested the proceeds of the offering at substantially the same rate as the cost of borrowing, effectively eliminating incremental cost of carrying additional debt prior to the close of the GIP transaction.  
+We continue to target the third quarter of 2024 for the closing of the GIP transaction, which remains subject to regulatory approvals and other customary closing conditions.  
+We repurchased $375 million worth of common shares in the first quarter. At present, based on our capital spending plans for the year and subject to market conditions, we still anticipate repurchasing at least $375 million of shares per quarter for the balance of the year, consistent with our January guidance.  
+More positive sentiment from clients and in markets persisted into the first quarter. Clients increasingly turn to BlackRock to reposition and redeploy across their portfolios. 
+First quarter long-term net inflows of $76 billion were positive across active and index strategies as well as each of our client and product types. 
+ETF net inflows of $67 billion were led by core equity and fixed income ETFs with net inflows of $37 billion and $18 billion, respectively. These inflows were partially offset by seasonal tax trading-related outflows from our U.S. style box exposure in precision ETFs.  
+As you'll hear from Larry, our [ Bitcoin ETC ] saw surging demand after launching in January, gathering $14 billion of net inflows in the quarter. This is just the latest example of BlackRock innovating to provide better access and transparency to a wider range of investment exposures.  
+Retail net inflows of $7 billion were led by continued growth in Aperio as well as renewed demand for active fixed income. Financial advisers are increasingly looking to customize whole portfolios at scale, driving growth across our SMA and managed model platforms. Our partnership with Envestnet is one channel powering flows to model portfolios. We saw our best gross sales month ever on the platform, and year-to-date organic asset and revenue growth has more than doubled compared to this time last year.  
+Sales on the platform aren't just accelerating, they're diversifying. We similarly saw record gross flows in custom models and record AUM in our global allocation models, both of which have larger active components.  
+Within SMAs, our previously mentioned acquisition of SpiderRock Advisors will further enhance our product offerings and provide even greater personalization across our wealth segments.  
+Institutional active net inflows of $15 billion were driven by our LifePath target date franchise and outsourcing mandates. We see significant momentum across our whole portfolio capabilities. Our pipeline remains strong as more and more clients turn to BlackRock for outsourcing solutions.  
+Institutional index net outflows of $13 billion were concentrated in low-fee index equities as several large clients rebalanced their portfolios amid significant equity market appreciation in the last 6 months. 
+Our private markets franchise saw $1 billion of net inflows. Continued demand for our liquid offerings was offset by alpha generation for our clients, reflected in over $3 billion of fund monetization and LP distributions or change in fee basis, primarily for more seasoned private equity solutions programs.  
+Finally, BlackRock's cash management platform saw $19 billion of net outflows in the first quarter, in line with institutional money market industry trends. Our cash business can experience seasonal rotations in the first quarter as many institutional clients withdraw these liquid assets for operational purposes, including tax and bonus payments. 
+Cash management flows were impacted by approximately $14 billion of net redemptions during the last week of March ahead of the Good Friday holiday. Outflows were driven by clients redeeming balances to have cash on hand during a time when many businesses are open, but the financial markets are closed. This phenomenon is not uncommon or unique to BlackRock. Balance has largely returned with approximately $20 billion of money market net inflows in the first week of April.  
+BlackRock's differentiated business model has enabled us to continue to grow with our clients, driving industry-leading organic growth and margins. Looking ahead, as markets trend to be more supportive and clients rerisk, we see significant opportunity to expand our market share and consolidate our position to clients. We've set ourselves up to be a structural grower with the diversified platform that we've built.  
+Enthusiasm is growing, momentum's building across the platform. All of us at BlackRock are excited about our future and the growing opportunities for BlackRock, for our clients, for our employees, and of course, for our shareholders.  
+With that, I'll turn it over to Larry.
+
+Executives - Founder, CEO & Chairman
+Thank you, Martin. Good morning, everyone and thank you for joining the call. BlackRock is partnering with clients to navigate structural and secular changes in business models, technology, monetary and fiscal policies, always staying focused on each and every client goal. Through this connectivity, we are having richer conversations with clients than ever before about their whole portfolio, and in many cases, deepening our relationships with them. This is driving accelerating momentum with a strong pipeline that has some of the best breadth of opportunities across all our client channels and regions that we've ever seen. 
+BlackRock's integrated investment technology advisory platform and durable performance are resonating. In my conversations with clients around the world, I'm hearing about how they want to put their money to work. But they want to do it differently than they did in the past. They want their portfolios to be more holistically blending public and private markets, active in an index. They want their portfolios to be nimble, customized, text-enabled. They want to work with fewer providers or maybe just with one provider. 
+BlackRock is the only asset manager that can partner in this way, having the most diverse, integrated investment and technology platform in the industry. Clients around the world are choosing to do more with BlackRock, and this is resonating in our results. 
+But I'm actually more excited about the building momentum we're seeing across our entire platform. BlackRock's AUM ended the first quarter at a new record of nearly $10.5 trillion, up $1.4 trillion or 15% over the last 12 months. Also at that time, BlackRock has entrusted BlackRock with more than $236 billion of net new assets.  
+BlackRock generated positive net flows across active and index and across all client types. And we grew our technology service revenues and ACV as clients leveraged Aladdin to support investment processes and their entire platform.  We've had a number of real large marquee wins in Aladdin and are working on a number of significant new opportunities. Momentum remains strong as we grow with new and existing clients.  
+We continue to deliver sustained asset and technology services growth at scale. BlackRock's operating income was up 17% year-over-year, and we increased our margin by 180 basis points. Earnings per share were up 24%.  
+Activity is notably accelerating. As Martin said, we generated $76 billion of long-term net flows in the first quarter, which represents nearly 40% of last year's long-term flows in just the first 3 months of this year. 
+And long-term net inflows across retail and ETFs and institutional active was actually $100 billion, which excludes the episodic institutional equity activity Martin mentioned.  
+Some of these are public, some aren't. But over the last few months, we've been chosen for a breadth of mandate, both wealth and institutional clients across regions that will fund over future quarters, and we're in active conversations on a number of unique broad-based opportunities, including several large mandates for Aladdin.  
+There is still a record amount of cash on the sidelines and money market fund balances are now approaching $9 trillion. I think this stems from fear and uncertainty, but it's hard to achieve retirement or long-dated objectives by holding cash. Clients worldwide are coming to BlackRock for advice on where and how to deploy their capital, and in many ways, how to help them reduce that fear and putting that money to work.  
+Being a growth company requires continued innovation, lots of investments and intense client focus. BlackRock has invested ahead of these themes we believe will define the next decade of asset management. I see the greatest opportunities I've ever seen for BlackRock, for our clients and for our shareholders and I'm very optimistic about the momentum into the rest of 2024 and beyond.  
+The uncertain backdrop does not mean a lack of opportunities. Instead, we see great opportunities for investors across a number of structural trends with near-term catalysts. These include rapid advancements in technology and AI, the rewiring of globalization, accelerated economic growth in certain emerging markets and an unprecedented need for new infrastructure. BlackRock is connecting with clients to these opportunities and providing them the confidence to continually investing in the long run.  
+In a world where clients are looking for more certainty, the higher-coupon, longer-duration returns of infrastructure private markets are increasingly becoming more attractive. Demand for all forms of infrastructure is surging around the world from telecom networks to power generation, to transport hubs for data centers and new ways of securing energy. Over the last 12 months, BlackRock's infrastructure platform has delivered 19% organic asset growth. BlackRock's infrastructure franchise and our private markets business more broadly benefited from the firm's global footprint, our deep network of clients and distribution relationships and access to high-quality deal flow.  
+As we spoke in January, we believe the planned combination of BlackRock's infrastructure platform with GIP will provide clients with access to market-leading investments and operating expertise across infrastructure private markets. We have a deep conviction that this planned combination will be another transformational moment for BlackRock. It will be another example in our long-term history of staying ahead of client needs, positioning ourselves against accelerated macro trends.  
+I believe infrastructure private markets are approaching the upward trajectory of their J-curve just as ETF did when we announced our acquisition of BGI and iShares nearly 15 years ago.  
+We always viewed ETF as a technology that facilitated investing. Since our acquisition of iShares, BlackRock has led in expanding the market of ETFs by making them more accessible; by delivering new asset classes like bonds, investment strategies like actives. As a result of that success, the ETFs evolved beyond what started as an indexing concept. It is recognized as an efficient structure for a range of all investment solutions.  
+First quarter ETF net inflows of $67 billion reflected sustained client demand across our client categories, led by core equity and [ bought ] ETFs. ETF flows demonstrated accelerating activity with March accounting for more than half of the quarterly net inflows. And our flows in the month were 80% higher than the next largest issuer.  
+We continue to innovate across our ETF platform to give our clients better access to the most diverse range of exposures in the industry. Our Bitcoin fund, which was launched in January, was the fastest growing ETF in history and already has nearly $20 billion in AUM. Our active ETF drove $9 billion of net inflows in the first quarter led by our equity factor rotation and flexible income ETFs. These products offer alpha generation with some of our leading investors at BlackRock in a more efficient, more transparent ETF wrapper.  
+Across BlackRock, we continue to scale our product offerings to democratize access to new strategies, increase transparency and drive cost efficiency. To that end, last month, we announced the launch of our first tokenized fund as well as our minority investment in Securitize, a blockchain-based tokenization platform. This builds on our existing digital asset strategy. And we'll continue to innovate in new products and wrappers, all with the aim of providing greater access and customization to each and every of our clients.  
+We continue to see demand for customization with our own wealth business as financial advisers and their clients they serve increasingly turn to SMAs to personalize their portfolios. We acquired Aperio 3 years ago in anticipation of this trend, and organic growth in that business has been over 20% since our acquisition.  
+To further booster our SMA capabilities, we announced our planned acquisition of the remaining equity interest in SpiderRock, as Martin discussed.  
+Among wealth clients, we are also seeking the renewed demand for our high-performing active fixed income strategies with particularly strength in high-yield and unconstrained bond funds.  
+In the post-QE market, we see more opportunity ahead for active management with greater potential for selective risk-taking to generate superior returns. Quarterly active net inflows of $15 billion reflect strength in systematic equity and fundamental fixed income, including the funding of several institutional outsourcing mandates. Across our active franchise, BlackRock has delivered durable investment performance with 82%, 90% and 93% of our fundamental equity, systematic equity and taxable fixed income AUM above benchmarks or peer median for the last 5 years.  
+Our active investment insights, our strong investment performance, our integrated Aladdin technology differentiates BlackRock and ultimately drives better outcomes for our clients.  
+We first built Aladdin as a risk management enabler, empowering investors to better understand their portfolios through technology. Today, Aladdin is much more than that. Our clients are leveraging Aladdin as a whole enterprise operating system, connecting multiple asset classes, data, technology partners on a single platform. Aladdin's integrated offering continues to resonate with the majority of our sales this quarter spanning multiple Aladdin products. 
+We are in the late-stage conversation with several large potential Aladdin clients, and we look forward to executing on more opportunities ahead to be bringing the benefits of Aladdin to new clients and by expanding relationships with our existing clients.  
+From the early days of developing Aladdin to now managing nearly $10.5 trillion across our platform, our ambition has always been to help investors benefit from the growth of the capital markets and achieve financial futures that they seek. More than half of the assets we manage are related to retirement, making this an outcome central to many of our client conversations.  
+BlackRock has been at the forefront of innovation and advocacy for retirement solutions for years. In fact, we pioneered the first target date fund called LifePath back in 1993. When we introduced the concept, it was revolutionary, eliminating some of the guesswork for retirement savings by automatically adjusting their investment mix over their time frame.  
+Fast-forward 30 years, target date funds have become the most common default investment option in defined contribution plans in the United States where we're entrusted to manage the retirement assets of 35 million Americans. 
+We continue to evolve LifePath to help deliver the retirement outcome participants need. That has meant introducing LifePath options in new countries and in new wrappers such as LifePath Target Date ETFs we launched last year. Our LifePath Target Date franchise now has nearly $470 billion in assets and has risen over $115 billion in assets just over the last 5 years.  
+In addition to helping people save for retirement, we also work to expand the LifePath solution to help people spend throughout their increasingly longer retirement. Society focuses a tremendous amount on helping people live longer and healthier lives, but spend just a fraction of that time and effort on helping them afford those extra wonderful years. 
+The shift from pension to defined contribution models have put the large ask, the large burden on individual savers. They have to first build up their retirement nest egg, which in and of itself is a formidable challenge.  Then even as they have this sizable savings at retirement, there's not much guidance about how to spend or not -- and how not to overspend these savings. 
+We've been working for years to address this de-accumulation challenge, and we believe this will help increase hope in America. In 2020, we announced the LifePath Paycheck, the next generation of target date solutions. It will include an option to purchase a lifetime income stream from insurers selected by BlackRock and is expected to go live towards the end of the month. We are partnering on implementing LifePath Paycheck right now with 14 planned sponsors, representing over $25 billion in target date AUM and now have 0.5 million participants. 
+We will pair the flexibility of a 401(k) investment with a potential for a predictable paycheck life income stream similar to a pension. I believe it will be in one day the most used investment strategy in defined contribution plans. 
+This pioneering structure can help address global gaps in funding retirement security, improve the quality of life and retirement for millions of Americans and bring back hope for those who were retiring.  
+It's been 4 years since the start of the pandemic and the subsequent geopolitical upheavals. Leaders of countries, leaders of companies need to create hope for the future for all of their stakeholders. That's certainly what we're doing at BlackRock.  
+I've spoken before about the fear we see today, some is stoked by increasingly political polarization in the world. Our industry and BlackRock have been a subject of political dialogue, mostly in the United States. We recognize some of this with being the industry leader. We have done a better job now of telling our story so that people can make decisions based on facts, not on lies and not on misinformation or politicization by others.  
+Unfortunately, there are still others out there who put short-term politics, who continuously lie about these issues. They are putting those issues above the long-term fiduciary responsibilities. 
+As a fiduciary, politics should never outweigh performance. I do believe that with the vast majority of our clients, our long-term fiduciary approach and performance are resonating. We heard it in our dialogue with them and we see it in our flows, and I know all of you as shareholders see it in our flows.  
+Over the last past 5 years, clients have entrusted BlackRock with an aggregate of $1.9 trillion of total net inflows, $1 trillion over the last 3 years and nearly $300 billion last year. It has been in the United States where client led inflows in every one of these periods. It is true also in the first quarter of this year. This is -- and all is in the environment where the industry has experienced flat or negative flows, BlackRock saw inflows.  
+Our sustained growth, our accelerating momentum are made possible by the trust of our clients and shareholders and the dedication of all the BlackRock people. Across our firm, we're delivering BlackRock to meet all our clients' individual needs. We're helping each and every client unlock their new opportunities. And the power of BlackRock's integrated platform has enabled us to drive better outcomes for each and every client and providing them a differentiated growth for them, which then entails providing differentiating growth for you, our shareholders.  
+I believe at this time, our momentum has never been stronger. The opportunity we have in front of us has never been stronger. And I look forward at BlackRock to be delivering on a significant broad base of opportunities across the world, across our platform, across all of our products and delivering the responsible fiduciary responsibilities that we provide to each and every client.  
+Operator, let's open it up for questions.
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] We'll go first to Craig Siegenthaler with Bank of America.
+
+Question
+Analysts - MD & Head of the North American Asset Managers, Brokers & Exchanges Team
+So my question is on your commentary around building momentum and line of sight into significant fundings. So if we exclude fee rate issues like divergent beta, when do you BlackRock can get back to 5% base fee organic growth? 
+And with the law of large numbers a factor, what is your confidence that this objective is still achievable at your current $10 trillion AUM size?
+
+Answer
+Executives - Founder, CEO & Chairman
+Martin?
+
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Thanks, Craig. It's Martin. Listen, I'd start by like Q1 net flows were solid at $76 billion. And on a more granular look, we just see durable growth in that flows mix. We had about $100 billion across ETFs, retail, institutional active, institutional fixed income. Of course, we saw some of these $19 billion redemptions from cash with the Good Friday quarter-end dynamic and the $26 billion rebalanced away in institutional index equities. 
+You know those institutional index equities happen from time to time. They're not meaningful revenue impacts or fee rate detractors, but they weigh on kind of the long-term flow totals. 
+When we look at this core momentum on flows, excluding the episodic index redemptions, Q1 flows were $100 billion. It's a healthy trajectory. It's an affirmation for us that we're focused on the right things to grow with clients. 
+And on base fees, the management team here, we really feel like we've turned a corner. Over the last 2 quarters, we see really solid trends in organic fee growth. They're really some of the best since the end of 2021. We saw excellent momentum to finish the fourth quarter, which we talked about on the last call. We closed out November and December higher than target. And this quarter, March new base fees annualized at target after we had a slower start. 
+So over the last 6 months, we see organic base fee growth ticking up and trending more halfway or halfway plus to our long-term targets. It's not a straight line, but we're moving to target. 
+And I say this because we see key positive trends in these sort of critical base fee growers for us. Retail posted $7 billion of flows in that 40 to 50 basis point bucket. Money is going back to work, redemption rates are moderating. We see really excellent momentum in active overall with $15 billion of flows and good velocity in institutional and retail active fixed income, in particular, at $9 billion. 
+And I think what Larry is getting at, we've been selected for a breadth of mandates across investment management and technology that we see supporting 5% organic growth and will fund over future quarters. Our planned acquisition of GIP will help us build and bump from there. So we look forward to closing that transaction, executing on these mandates and keeping you guys posted on our progress.
+
+Executives - Founder, CEO & Chairman
+I would just add, the breadth of conversations we're having with clients worldwide. Rob Kapito right now is in Asia, the type of conversations we had there. The opportunities we see in Europe, in the U.K., Middle East. These are just very large opportunities, large mandates, big opportunities. 
+And if you then overlay the opportunities and you overlay what infrastructure can do related to the build-out of power with all the AI promise and the need for data centers and the need for power is going to be extraordinary. And all of this is going to lead to much bigger opportunities. And then more importantly, more and more clients are going to be seeking those organizations who deliver the proprietary differentiated products.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Michael Cyprys with Morgan Stanley.
+
+Question
+Analysts - Executive Director and Senior Research Analyst
+Just wanted to ask about balancing investment spend with margin expansion. In the past, we've heard BlackRock talk about being margin-aware. So just curious how the thinking on that has evolved. What does that mean in today's environment? 
+And how might you quantify the opportunity for margin expansion over time? How do you see some of the levers to achieve that?
+
+Answer
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Thanks, Mike. Our approach to shareholder value creation is obviously to generate differentiated organic growth, it's to drive operating leverage in a premium margin and it's to execute on a consistent capital management strategy. We have a strong track record of investing in our business for growth and scale and expanding profitability. And I want to emphasize, it's not just about growth. It's about profitable growth over the long term. And that growth comes from making continued investments in our business. 
+And I've talked a lot about on the last several calls and obviously some of the other meetings we've had, we're looking to size our operating investments in line with the prudent lens on organic growth potential. We're aiming to put more flexibility in our cost base and variabilize expenses where we can. And most importantly, we're looking to generate fixed cost scale, especially through investments in technology. We're consistently delivering industry-leading margins, which is a goal. And we've expanded our margin in 6 out of the last 10 years. 
+And I think those scale indicators are coming through in our results. We're delivering profitable growth. We generated 180 bps of margin expansion year-on-year while revenue op income and EPS all rose double digits. And we delivered 60 basis points of sequential improvement. Over the last 18 months, AUM's up $2.5 trillion while head count is actually flat or slightly lower. 
+So I feel like we're delivering benefits of scale and productivity, which is showing in margin expansion. As I mentioned, we're planning for full year low to mid-single digit core G&A growth, flat head count, both excluding the GIP transaction. 
+So you've heard on our last few calls and I hope today and some of Larry's color, we're looking to drive more fixed cost scale. That comes from technology. It comes from automation. It can come from AI. It comes from organizational design, global footprinting using some of our innovation hubs around the world. We see those as our major levers to drive margin expansion. And in the end, we're just looking to optimize organic growth in the most efficient way possible, deliver growth for clients and shareholders and ultimately expand our margin over time.
+
+Executives - Founder, CEO & Chairman
+Michael, I would just add, as we continue to be investing in AI, our most recent experience of having $2.5 trillion more assets with the same head count is a real good indication of how we are trying to drive more efficiencies, more productivity. I think this is critical. We're going to bring down inflation in America. This is how it's going to have to be done, driven through technology and -- which will increase more productivity. 
+And overall and actually through that process, we continue to drive more productivity. What it also means is rising wages. So people do more and the whole organization is doing more with less people as a percent of the overall organization. That is really our ambition.
+
+Question and Answer Operator Message
+Operator
+Your next question comes from Ken Worthington with JPMorgan.
+
+Question
+Analysts - Managing Director
+Fixed income flows have picked up for U.S. -- the U.S. mutual fund industry so far this year, but the same data services that track the industry don't show a proportionate pickup for BlackRock. Your fixed income ETF sales were solid at $18 billion, but below levels seen last year. 
+Can you talk about the competitive landscape for fixed income retail and fixed income ETFs, both inside and outside the U.S.? And to what extent do you think investor appetite may have changed in 2024?
+
+Answer
+Executives - President & Member of Board of Directors
+So Rob here. The conversations that we're having across all of the distribution systems are about a new allocation into fixed income. It's been very much clouded by all the noise around inflation and the Fed. So the yield curve remains inverted and investors are currently getting paid to wait. And a more balanced term structure of interest rates is going to be the indicator to watch, and that's where we'll start to see demand for intermediate and longer-term fixed income. 
+So the first quarter for us flows of $42 billion, which I think is considerable, we saw the strength in the bond ETFs from immunization activity in institutional and about 25% of the flows were into active strategies. So we're seeing renewed demand for active fixed income and that's led to flows into the high yield, the unconstrained and the total return strategies and the fact that our longer-term performance has about 93% of our taxable active fixed income AUM above the benchmark or peer median in the last 5 years are really set up to capture this. 
+But I do think the noise that's out there focused on inflation and the fact that you can still earn 5%, which is very attractive right now is causing the delay in more allocations to fixed income. 
+The other part of why I'm more encouraged is we are finding a growing interest in high-performing active fixed income strategies alongside private market strategies. So I think that we stand to bode very well once you see some changes in the yield curve.
+
+Executives - Founder, CEO & Chairman
+Let me just add, operator, to Ken's question. Ken, I do believe as an industry, the large pension funds that have an overallocation of private equity and the rotation of money in the private equity area has slowed down precipitously. We are also seeing evidence that more and more clients are keeping a higher balance of cash to meet their liability discharges. And so without the momentum and the velocity of money in private equity, they actually have to keep higher cash balances, too. So I think that is something to be watched, too. 
+If there was an unlock in the movement of private equity, I do believe you would see a factor allocation for the industry in fixed income and other income-producing products.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Alex Blostein with Goldman Sachs.
+
+Question
+Analysts - Lead Capital Markets Analyst
+My question is related to private markets and GIP. Larry, you referred to it again this morning as a transformational deal for BlackRock, maybe similar to some of the other large ones you've done. Does this give you enough in terms of what you're trying to accomplish in the private markets broadly? Or do you expect to pursue more acquisitions that are related in this area?
+And I guess somewhat related to that, growth in private markets, retail products has been quite significant and still early days. Maybe just remind us on how BlackRock is pursuing that opportunity.
+
+Answer
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+It's Martin. I'll offer a few thoughts and then Larry will jump in. Let's say, look, all of our clients continue to increase their allocations to private markets. That's what drove our acquisition of eFront. It's what drove our planned acquisition of GIP. And it's also a great focus of the organic investments we've made to build in illiquid alternatives business of size.
+There are sort of illiquid alternatives business. We've reached $167 billion of assets, roughly $140 billion fee paying. We had a good quarter there. Infrastructure and private credit deployment added $1 billion of inflows offset by a return of capital that I talked about. We're getting close on our final closes for our BlackRock Infrastructure IV fund for decarbonization partners, which has been a great first time funded vintage. We've got $30 billion of committed, but uninvested capital. So there's good dry powder in the system. 
+As Larry mentioned, we're originating really strong unique transactions there. So we think our capabilities are expanding in a way that's going to plan. Just yesterday, we announced an infrastructure debt deal with Santander where we're going to be financing about $600 million of infrastructure loans in a structured transaction. 
+And we just see good fundraising momentum, which we think we can kick into next year with GIP. Since 2021, we've had $140 billion of gross capital across the platform, continue to see good momentum with clients. 
+And to the topic you mentioned, we've been building out our semi-liquid products for retail with credit strategies. Our credit strategy is interval funds and our nontraded credit BDC BDEBT have a combined $1 billion-plus of AUM. We received a really important placement for BDEBT at a national wirehouse. So we think that will be a strong seller in for organic growth. 
+And then finally, that planned acquisition with GIP is going to really extend our capabilities. We think the business can be a much stronger platform for capital formation of scale and build on this philosophy we have in illiquid alternatives. 
+We also think there's a great opportunity to bring GIP's capabilities to private wealth globally, retail retirement platforms in the U.K. and Europe with the LTIP and LTAF structures. And obviously, we'll keep you updated on our progress.
+
+Executives - Founder, CEO & Chairman
+I would just add that the feedback we're having from clients, including a dinner I had with a major energy company last night, the opportunity we have for driving more unique proprietary origination is going to be driving accelerated growth for us in the private markets, especially in infrastructure. I do believe the combinations of our 2 organization is going to open up so many more avenues. Avenues with companies, but also avenues with countries. 
+And that being said, look, we're always in the market and looking for different opportunities and we're not slowing down looking at different opportunities. We're not here to suggest we're doing anything that is forthcoming because the #1 through 5 thing to do is to close GIP. But the doors are knocking at BlackRock to see if there's other opportunities we want to pursue. And if it makes sense one day, we will continue to be open minded to pursue more private market opportunities.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Dan Fannon with Jefferies.
+
+Question
+Analysts - Senior Equity Research Analyst
+Martin, for your comments on improving trends throughout the quarter for flows, can you put in a context what that means for maybe exit fee rate? 
+And also on this pipeline of activity that's building, can you talk about the mix of fees and products more specifically and how that might inform your base fee outlook going forward?
+
+Answer
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Yes. So thanks, Dan. As I mentioned, we see good base fee momentum. At the end of Q4, we were running at hotter than target. At the end of this quarter, we're at target. And as I mentioned, when we look at the trends over months, not days, we feel like we're half or halfway plus to our target growth. So we've got good base fee momentum.
+First quarter base fees, excluding securities lending, were $3.6 billion, which is up 9% year-on-year, which is largely due to the impact of market movements on AUM and organic growth. And the Q2 entry fee rate ex fee lending is pretty much flat compared to the Q1 fee rate on a day count equivalent basis. 
+But overall, I think as we see good flows into active with the $15 billion we've had, as I mentioned, retail flows of $7 billion coming in, we see good fee rate trends, which we think are about -- mostly about mix. 
+We focus really on driving organic base fee growth in the most efficient way possible, focusing on the clients, focusing on the investments they want to make. We don't focus on a specific fee rate or product. We focus on the clients and the fee rate is more of an output. But the trends in terms of where we're raising assets on the fee rates we think are good. But as I mentioned, Q2 fee rate -- Q2 entry fee rate ex fee lending is flat compared to the Q1 fee rate on the same day count.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Bill Katz with TD Cowen.
+
+Question
+Analysts - Senior Analyst
+Appreciate the update. Maybe a different vein, your performance fees continue to run pretty high. And just sort of wondering, are we reaching a new level of normalized performance fees? And how might that translate into sort of the comp ratio as we look ahead, particularly as you continue to migrate to a bigger pool of private markets post-GIP?
+
+Answer
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Thanks, Bill, for the question. We appreciate it. So on the performance fees of $204 million in the quarter, obviously, they're up about 4x year-on-year. If you could put yourself in a time machine and think back to that first quarter in '23, it was a really difficult market. We had SVB. We had some vol in the rate markets, et cetera. So I think it was a tough time. 
+This quarter, we've really seen good performance coming through on our teams, which has been very, very strong and I think reflected in those performance fees.
+Rough [ justice ], about half of that performance fee is coming from kind of our private equity funds and private equity programs where we had some very successful realizations that Larry talked about last year, which was creating some of the distributions associated with that. And the other half is more in liquid hedge funds, in our strategic equity hedge funds and some of our systematic strategies as well. 
+Ultimately, our goal is to deliver long-term performance with clients. And where we see performance fee revenues picking up, obviously, there's healthy alignment there. And more supportive markets and stronger markets and strong performance, we'd expect a lot of that leverage to drop to a lower comp-to-revenue ratio. But ultimately, talent is one of our key investments and we'd expect it to be on a go-forward basis.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Brian Bedell with Deutsche Bank.
+
+Question
+Analysts - Director in Equity Research
+Maybe just to focus on the multi-asset category and a couple of areas within that. I think, Martin, you were talking about obviously the build of the organic growth pipeline, and also in conjunction with, Larry, with your comments about the conversation pipeline. Can you talk about 2 areas, in particular, as that developed throughout the year, that would be OCIO deals and then also as we start up LifePath Paycheck, how you anticipate that contributing to organic growth, I guess, as the year unfolds. Obviously very early, but even over the next couple of years.
+
+Answer
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Sure. Thanks so much for the question. Appreciate it. I guess maybe I can start with a little color on the multi-asset flows and then Larry can comment on LifePath Paycheck. 
+So multi-asset strategy saw inflows in the quarter of about $5 billion after we had a really strong 2023 with $83 billion. Those strong inflows were driven by the continued demand for our LifePath Target Date offerings. And obviously, we see significant growth ahead in that core business, but also in the upcoming launch of LifePath Paycheck. 
+Our LifePath Target Date franchise has about $470 billion in assets, generated $9 billion of flows in the first quarter, thanks to the funding of several large mandates. We have about an organic growth rate of 8%. So we're leading the market there in terms of growth and we continue to outperform relative to the industry. Again, we're building on a strong core business there. We had $25 billion of flows in '23, which was about 7% growth. 
+We're the #1 DC investment-only, DCIO firm. We have 70,000 DC plans. And we're the only provider, I think, that's really global. Most of the assets at BlackRock are investing to finance retirement, and we've been at the forefront of innovation and advocacy for retirement solutions throughout our history. It's a key part of our growth. And the innovation that we're doing in LifePath Paycheck, we think, is exciting and a significant area of our future organic growth.
+
+Executives - Founder, CEO & Chairman
+As I said in my prepared remarks, we have 14 corporations that are preparing to transform their defined contribution plan to LifePath Paycheck. So the conversations we're having with so many other clients is enormous. Many clients wanted to see the actual implementation of these plans. As we said in the prepared remarks, the first implementation of the first plan is going to be in the next few weeks. We'll have many announcements about that, and we plan to really make that a big issue for us going forward. 
+We believe, as I said before, this is going to change retirement. The movement away from defined benefits to defined contributions have left many, many individuals stranded in making the decisions of their own retirement by themselves. And this eliminates some of the uncertainty for retirement. 
+The Target Date has eliminated a lot of the variability of retirement, but there has been no transformation in terms of bringing -- once you are retired, how do you know what you have? And through this innovation of integrating investment strategies around insurance wrappers can really narrow the outcomes that the individual can have a very narrow corridor of what the dollar amount that they're going to be earning each month. 
+And as I said in my letter, with growing longevity, retirement is going to become a bigger and bigger issue. And having this type of certainty really will alleviate some of the fear. As I said, our conversations are broad. And let me be clear, the conversations are also now beginning in Europe and other places, too. So we look at this as a major component of our future growth rates over the next 3 to 5 years. 
+Obviously, it's not the highest fee-based product. It is like a Target Date product. But -- so it's -- but it can generate more connectivity with more clients, deeper relationships with all our clients. And so this is something that I'm very proud of what the firm has created, and I do believe it's going to transform BlackRock as a leader in retirement benefits.
+
+Question and Answer Operator Message
+Operator
+We'll go back to Patrick Davitt with Autonomous Research.
+
+Question
+Analysts - Senior Analyst of US Asset Managers
+My question is on Europe ETFs. Obviously, the active to passive equity flow mix continues to track more like the U.S. in Europe so far this year. 
+So firstly, could you update us on the defensibility of your positioning around that theme? And to what extent you're seeing more aggressive price competition? 
+And finally, higher level, to what extent you're seeing a real change in how ETFs are bought and sold in Europe that could portend this so-called catch-up trend continuing more indefinitely?
+
+Answer
+Executives - Senior MD, CFO & Global Head of Corporate Strategy
+Thanks, Patrick. Really appreciate the question. As we mentioned, we had about $67 billion of iShares inflows in the first quarter, led by core fixed income IBIT. The business is running in a very strong way, high single-digit asset growth, mid-single digit base4 fee growth. All the trends globally are very strong.
+But we have been stressing and I'm glad for the question, just the real strength and competitive position of the iShares business in Europe. European iShares continues to lead the market with about 30% market share of inflows. That's 2x the inflows of the #2 player. And our inflows exceed the 2 and 3 players combined. Our iShares franchise in Europe is $850 billion AUM, that's bigger than next 5 players combined. 
+So we think we have a real outsized opportunity to grow ETFs in the U.K. and Europe. And obviously, the competitive dynamics there, I think, are very, very different than they are here in the United States in terms of the buying units, how buying units are sold. This is largely a private banking market that uses exchange-traded funds through discretionary private management programs, and iShares is really a very strong and preferred provider. 
+I want you to think about it this way. The United States built trillions and trillions of dollars ETF business with a national best bid, best offer system, a unified securities regulator, national exchange. Europe has more fragmented markets and has been growing, growing and growing. So we really see, obviously, regulation is trending favorable in Europe, the buying dynamics as very favorable and iShares is in a great market leadership position there, we think, to post outsized growth.
+
+Question and Answer Operator Message
+Operator
+Thank you. Ladies and gentlemen, we have reached the allotted time for questions. Mr. Fink, do you have any closing remarks?
+
+Answer
+Executives - Founder, CEO & Chairman
+Yes, operator, one last comment. I want to thank everybody for joining us this morning and for your continued interest in BlackRock. 
+Our performance is a direct result of our steadfast commitment to serving our clients, in each and every client, and evolving for the long-term trends ahead of their needs. 
+We started 2024 with great momentum, and I strongly believe that there are more opportunities ahead for BlackRock more than any other time before. Thank you, everyone, and have a great quarter.
+
+Question and Answer Operator Message
+Operator
+This concludes today's teleconference. You may now disconnect.
+

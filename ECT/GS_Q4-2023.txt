@@ -1,0 +1,318 @@
+﻿The Goldman Sachs Group, Inc., Q4 2023 Earnings Call, Jan 16, 2024 - 
+
+Presentation Operator Message
+Operator
+Good morning. My name is Katie, and I will be your conference facilitator today. I would like to welcome everyone to The Goldman Sachs' Fourth Quarter 2023 Earnings Conference Call.  
+On behalf of Goldman Sachs, I will begin the call with the following disclaimer, the earnings presentation can be found on the Investor Relations page of The Goldman Sachs website and contains information on forward-looking statements and non-GAAP measures. This audio cast is copyrighted material of The Goldman Sachs Group, Inc. and may not be duplicated, reproduced or rebroadcast without consent. This call is being recorded today, January 16, 2024.  
+I will now turn the call over to Chairman and Chief Executive Officer, David Solomon; and Chief Financial Officer, Denis Coleman. Thank you. Mr. Solomon, you may begin your conference.
+
+Presenter Speech
+Executives - Chairman & CEO
+Thank you, operator, and good morning, everyone. Thank you for joining us. 2023 was a dynamic year. The U.S. economy proved to be more resilient than expected despite a number of headwinds to growth, including a significant tightening of financial conditions, regional bank failures and an escalation of geopolitical tensions.  
+Against this backdrop, this was a year of execution for Goldman Sachs. In addition to narrowing our strategic focus, we further strengthened our core businesses. As we enter 2024, the potential for rate cuts in the first half of this year has renewed optimism for a soft landing. We are already seeing signs of potential resurgence in strategic activity, which is reflected in our backlog. I'm starting today's presentation with a strategic update and Denis will provide comments on the financial results.  
+Beginning on Page 1. We aspire to be the world's most exceptional financial institution, united by our shared value client service, partnership, integrity and excellence. And over the last 155 years, we have created one of the most aspirational brands and financial services. Goldman Sachs is the preeminent global investment bank and a leader across asset and wealth management. We've continued to simplify our strategy today as an opportunity to take stock of our progress as well as highlight avenues for further growth. Strategic objectives on this page underscore our relentless commitment to serve our clients with excellence to further strengthen our client franchise.  
+As we show on Page 2, we have two world-class and interconnected franchises that are well positioned to achieve these strategic objectives. First, Global Banking & Markets, which includes our top rank investment bank with an unparalleled merger franchise and our leading capital markets business. It also includes our #1 equities franchise and top 3 FICC franchise, we are uniquely positioned to serve our clients across geographies and products.  
+And second, our unified Asset & Wealth Management business, where we are a leading global active asset manager with a top 5 alternatives business and a premier ultra-high net worth wealth management franchise. This is a scaled business with over $2.8 trillion in assets under supervision, and where we see significant opportunity for further growth. Across these two businesses, our extraordinary talent and unmatched execution are bolstered by our One Goldman Sachs operating ethos.  
+On Page 3, we lay out our progress across a number of key priorities that we discussed at our most recent Investor Day in February 2023. Global Banking & Markets, we've maintained and strengthened our leadership positions across investment banking. In FICC & Equities, we have improved our standing with the top 150 clients. We generated record total financing revenues across these businesses in 2023 and have demonstrated impressive growth over the last 4 years.  
+In Asset & Wealth Management, we've driven solid investment performance and consistent growth and a more durable revenue base of management and other fees and private banking and lending revenues. This past year, we reduced our historical principal investments by $13 billion and also surpassed our 5-year alternatives fundraising target one year ahead of schedule.  
+I will talk more about each of these businesses in a moment. Before I do, I would like to speak about how we've narrowed our strategic focus. We made several important decisions and swiftly executed on them. We exited the market's lending business and sold substantially all of our markets loan portfolio. We sold our Personal Financial Management business. We announced the sale of GreenSky, which remains on track to close this quarter. We also sold the majority of our GreenSky loan portfolio, which settled in the fourth quarter.  
+We've also reached an agreement with General Motors regarding the process to transition the credit card program to another issuer. We remain committed to supporting the products and servicing customers through the various transition agreements in our consumer activities.  
+I firmly believe companies should innovate and seek out new opportunities for growth, but it is also important to be nimble and make tough decisions when needed. Our consumer ambitions have produced over $150 billion of deposits, which we expect to go further from here. These deposits have materially improved the firm's funding profile. Now we are focusing our growth in other areas where we have a proven right to win. We recognize that scale matters as it allows us -- it allows the firm to operate more efficiently and manage incremental regulatory and other costs, making unit economics more favorable and we need to be measured and focused on our execution. Our narrowed strategy is now focused on our two core businesses where we have a proven right to win with our leadership position, scale and exceptional talent.  
+On Page 4, in Global Banking & Markets, our leading and diversified franchise, has produced average revenues of $32 billion over the last 4 years across a number of different market environments, demonstrating the diversity and relative durability of this business in aggregate. In the last several years, we made a concerted effort to grow our wallet share and financing revenues, which have clearly raised the revenue floor for these businesses. We have also generated attractive returns with an average ROE fully allocated of over 16% over the last 4 years.  
+Turning to Page 5, a key part of enhancing the durability has been executing on our strategic priorities. Our efforts to materially strengthen the client franchise are evidenced by wallet share gains of roughly 350 basis points since 2019. We've maintained our league table ranking of #1 in announced and completed M&A, #1 in equity and equity-related underwriting, #2 in high-yield debt. In FICC & Equities, we're in the top 3 with 117 of our top 150 clients. These competitive positions are a reflection of our One Goldman Sachs approach and our clients' confidence in us. In addition, we have significantly increased more durable financing revenues. FICC & Equities financing together have grown at a 15% CAGR since 2019 to a new record of nearly $8 billion.  
+Turning to Asset & Wealth Management on Page 6. We continue to make progress on bolstering more durable revenue streams. Management and other fees in private banking and lending revenue together have grown at a CAGR of 12% since 2019. We have also made swift progress in reducing our historical principal investments and are already approaching our pretax margin target on an adjusted basis.  
+Turning to Page 7. Our solid investment performance across both traditional and alternative channels has driven inflows. Over 75% of our traditional funds performed in the top half of Morningstar funds while on Alternatives over 90% of our funds were in the top half of Cambridge funds, both over the last 5 years. The fourth quarter represents our 24th consecutive quarter of long-term fee-based net inflows across our platform.  
+I want to reiterate that we have reached a milestone by raising over $250 billion in Alternatives since 2019, surpassing our $225 billion target a year early. This fundraising success has been the result of our continued innovation in developing new strategy as well as our ongoing focus on investment products where we have deep expertise and long-standing track record. Fundraising has been broad-based across geographies and asset classes with approximately 40% coming from our ultra-high net worth relationships.  
+Very proud of this achievement. When we were preparing for our first Investor Day 4 years ago, I remember how big a reach our initial target of 150 billion seats. We surpassed not only that target, but also our increased target of $225 billion one year ahead of schedule demonstrates the power of our platform and the exceptional depth of talent we have in this business.  
+Putting all this together on Page 8, you can see how much we've improved the durability of revenues across the firm. On this slide, baseline revenues are shown in gray, which represent the sum of the trailing 10-year lows for each of the businesses that are considered more cyclical, namely advisory, underwriting and intermediation. We believe this is a very conservative measurement because it's unlikely that every one of these businesses would ever hit a low point all at the same time. In fact, in all of the years since we became a public company, it has never happened.  
+In dark blue, you can see the more durable revenues from financing management and other fees as well as private banking and lending, which in aggregate have grown at 13% CAGR since 2019. Taken together, these two components make up over 70% of revenues in 2023. On top of that, we consistently generate upside across different market environments because of our diversified franchise. The increase in the consistent baseline and more durable revenue streams, coupled with the diversification of our scaled franchise and our ability to capture upside, demonstrate the revenue generating power of our firm.  
+Narrowing our strategic focus, our leadership team spent a significant amount of time in 2023 realigning the firm's priorities with our strategic vision, our values and our strengths, which we highlighted on Page 9. You've heard us talk about many of these elements before, starting with our strategic objectives.  
+First, the harness One Goldman Sachs to serve our clients with excellence; second, to run world-class differentiated and durable businesses; third, to invest and operate at scale. As you can see on the page, our execution focus areas for 2024 are aligned with these strategic objectives. Taking one example, investing in our people and culture, exceptional quality of our people, supported by our unique culture of collaboration and excellence is critical in solving our clients' most consequential problem, and it's imperative that we continue to invest in them. All in these objectives and execution focus areas will result in our desired outcomes. We continue to be a trusted adviser to our clients, to be an employer of choice for our people and to generate mid-teens returns through the cycle and strong total shareholder return.  
+With everything we achieved in 2023, coupled with our clear and simplified strategy, we have a much stronger platform for 2024. I feel very confident about the future of Goldman Sachs, our ability to continue to serve our clients with excellence and that we will continue to deliver for shareholders.  
+I will now turn it over to Denis to cover our financial results.
+
+Executives - Chief Financial Officer
+Thank you, David. Good morning. Let me start on Page 10 of the presentation. In 2023, we generated net revenues of $46.3 billion, net earnings of $8.5 billion and earnings per share of $22.87. As David highlighted, we made significant progress this year in narrowing our strategic focus. We provide details on the financial impact related to these decisions as well as the impact of the FDIC special assessment fees on the slide. In aggregate, these items reduced full year net earnings by $2.8 billion, earnings per share by $8.04 and our ROE by 2.6 percentage points.  
+Turning to performance by business, starting on Page 12. Global Banking & Markets generated revenues of $30 billion for the year, down 8% as higher equities revenues were more than offset by a decline in FICC revenues and investment banking fees versus last year. In the fourth quarter, investment banking fees of $1.7 billion fell 12% year-over-year, driven by a decline in advisory revenues versus a very strong quarter in 2022.  
+For 2023, we maintained our #1 league table position in announced and completed M&A as well as in equity and equity-related underwriting and ranked second in high-yield debt underwriting. Our backlog rose quarter-on-quarter, driven by a significant increase in advisory. As David mentioned, we are encouraged by the robust level of dialogues with our corporate client base. And though we're only two weeks into the new year, there have been solid levels of capital markets activity in both the U.S. and Europe.  
+FICC net revenues were $2 billion in the quarter, down 24% from strong performance last year amid lower activity in rates and other macro products. In FICC financing, revenues rose to a record $739 million. Equities net revenues were $2.6 billion in the quarter, up 26% year-on-year. The year-over-year increase in intermediation revenues was driven by better results in derivatives. Financing revenues of $1.1 billion rose year-over-year with continued strength on higher average balances. Across FICC & Equities, financing revenues rose 10% in 2023, consistent with our priority to grow client financing.  
+Moving to Asset & Wealth Management on Page 14. For 2023, revenues of $13.9 billion rose 4% year-over-year as an increase in more durable revenues, including record management and other fees and record private banking and lending revenues offset a decline in equity investment revenues and incentive fees. Fourth quarter management and other fees of $2.4 billion were up 9% year-over-year. Full year management and other fees were $9.5 billion, putting us on track to hit our $10 billion target in 2024, notwithstanding the sale of our PFM business. Equity investments produced net revenues of $838 million, higher year-over-year driven by modest gains in our public portfolio versus losses in the fourth quarter of last year. Results in this line item also included a gain of $349 million from the sale of PFM.  
+Moving on to Page 15. Total firm-wide assets under supervision ended the quarter at a record $2.8 trillion, driven by market appreciation as well as strong net inflows across fixed income and alternative assets, and representing our 24th consecutive quarter of long-term fee-based net inflows.  
+Turning to Page 16 on alternatives. Alternative assets under supervision totaled $295 billion at the end of the fourth quarter, driving $571 million in management and other fees for the quarter and $2.1 billion for the year, surpassing our $2 billion target for 2024. Gross third-party fundraising was $32 billion for the quarter and $72 billion for the year. As David mentioned, third-party fundraising since our 2020 Investor Day now stands at over $250 billion.  
+On-balance sheet alternative investments totaled approximately $46 billion, of which roughly $16 billion is related to our historical principal investment portfolio. In the fourth quarter, we reduced this portfolio by over $4 billion, including sales of $3 billion of CIEs across over 40 positions, bringing reductions for the year to $13 billion. We continue to focus on exiting this portfolio over the medium term, though we don't expect portfolio reductions in 2024 to be at the same pace as in 2023.  
+I'll now turn to Platform Solutions on Page 17. Full year revenues were $2.4 billion, up 58% versus 2022. Quarterly net revenues of $577 million were up 12% year-over-year on higher consumer platform results amid growth in average credit card balances. As David mentioned, we reached an agreement with General Motors regarding a process to transition their credit card program to another issuer, the impact of which was to move the loans to held for sale and release the associated loan loss reserves of approximately $160 million. We have no additional updates regarding our credit card partnerships at this time.  
+On Page 18, Firmwide net interest income of $1.3 billion in the fourth quarter was down 13% relative to the third quarter, reflecting an increase in funding costs supporting trading activities. Our total loan portfolio at quarter end was $183 billion, modestly higher versus the third quarter, reflecting an increase in other collateralized lending, which includes the pools of Signature Bank's capital call facilities we won an auction in October. Our provision for credit losses was $577 million. In relation to our consumer portfolio, provisions were driven by net charge-offs and seasonal balance growth, partially offset by the GM reserve release I mentioned. For our wholesale portfolio, provisions were driven by impairments that were generally in line with the last two quarters with roughly half related to CRE.  
+Let's turn to expenses on Page 20. Total operating expenses for the year were $34.5 billion. Excluding severance-related costs of $310 million, compensation expense was flat year-over-year, amidst solid core performance and as the market for talent remains competitive. As of the fourth quarter, we achieved our goal of $600 million in run rate payroll efficiencies, which allowed us to continue investing in our talent. Quarterly noncompensation expenses were $4.9 billion, and included CIE impairments of $262 million. The year-over-year increase in non-comp expenses was driven by the FDIC special assessment fee of $529 million. Our effective tax rate for 2023 was 20.7%. For 2024, we expect a tax rate of 22% to 23%.  
+Turning to capital on Slide 21. Our common equity Tier 1 ratio was 14.5% at the end of the fourth quarter under the standardized approach, 150 basis points above our current capital requirement of 13%. In the fourth quarter, we returned $1.9 billion to shareholders, including common stock repurchases of $1 billion at an average price of $311 and common stock dividends of $922 million. While we expect to remain nimble with respect to capital return, given the ongoing uncertainty around the Basel reproposed rule, our capital management philosophy is unchanged. We prioritize supporting client deployment opportunities, sustainably growing our dividend, and returning excess to shareholders in the form of buybacks, particularly when valuation levels are attractive.  
+In conclusion, we made solid progress on narrowing our strategic focus in 2023 with our execution driving a much stronger platform for 2024. Our best-in-class core businesses are well positioned to execute on our strategic objectives. We will continue to harness One Goldman Sachs to serve our clients with excellence, run world-class differentiated and durable businesses and invest to operate our businesses at scale. Additionally, the execution focus areas we've identified for 2024 will help us drive the outcomes of delivering for clients, our people and our shareholders.  
+With that, we'll now open up the line for questions.
+
+Question and Answer Operator Message
+Operator
+Thank you. Ladies and gentlemen, we will take a moment to compile the Q&A roster. [Operator Instructions] We'll go first to Glenn Schorr with Evercore.
+
+Question
+Analysts - Senior MD & Senior Research Analyst
+So I wanted to get a mark-to-market, you've been rightfully cautious, but optimistic on green shoots becoming reality in investment banking. You definitely saw some momentum in the fourth quarter. So curious -- and you mentioned that the pipeline is up quarter-on-quarter, so maybe just differentiate between what you're seeing on the corporate side versus sponsor side and just get the mark-to-market on how you're feeling.
+
+Answer
+Executives - Chairman & CEO
+Sure. Sure, Glenn. I mean just at a base level, I'm pretty optimistic given the way we've got the firm position, and there's no question that these capital markets and M&A activity levels have been depressed. As I've said before, I don't think that continues year on year on year, and we really started to see in the second half of this year, real improvement. 
+As Denis highlighted, the M&A backlog saw a really strong replenishment and improvement in the fourth quarter. And I just highlight, and I know this is obvious, but I think it's worth stating, we put up $1 billion of M&A revenue. If the backlog is growing, that means we've got to replace the $1 billion that we put up plus then have growth. And so that's a very, very strong replenishment. And I would just say the level of strategic dialogue has definitely increased, and we're seeing it across our platform.  
+I'm encouraged by capital markets activity. I'm not going to say it's running back to 10-year averages right away, but it has materially improved. I do think you're going to see some more meaningful IPOs in 2024, and we are just across debt and equity issue and see more activity, more engagement. At the end of the day, people had done a lot of funding that takes them out for a period of time, but they've got to start thinking about their capital structures and accept the reality of the market, and we're seeing that come through.  
+So when I look broadly, it feels better. There's a lot going on in the world. And so I think one of our jobs is to always be a risk manager and worry 98% of the time, about the 2% of things that can go wrong. So we're going to continue to take a cautious view in terms of the overall operation of the firm. But I do think the firm is incredibly well levered to this pickup and it feels better, is the way I'd frame it.
+
+Question
+Analysts - Senior MD & Senior Research Analyst
+All right, cool. Maybe just a follow-up on that note. Reducing the on-balance sheet investments, as you mentioned, is an important part of the ROE improvement for us in wealth and for Goldman overall. So with that said, the markets are higher, pipelines better, how come the balance sheet reduction of on-balance sheet investments might be slower this year, when the intent, I think, is to get rid of all of it at the right price?
+
+Answer
+Executives - Chairman & CEO
+Yes. I -- first of all, I think we've made a lot of progress last year. And so if you look at what we accomplished, I think what we accomplished last year was pretty meaningful, especially given the environment. 
+One of the things that happened is we pulled some stuff forward that we didn't expect to monetize in 2023 -- into 2023. And so to be clear, our focus is to get that to 0 as quickly as possible. If you're operating inside this firm and you're operating in that business, you feel enormous focus on reducing that as quickly as possible, but we want to make sure that we manage expectations appropriately. We set a clear target over the next 3 years to get to 0. My guess is we've got a good shot if we executed doing that quicker than that.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Ebrahim Poonawala with Bank of America.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+I just wanted to spend some time on the FICC business. So if I'm looking at the right numbers, it feels like FICC revenues are now back to pre-COVID levels if you go back to 1Q of '19. Maybe if you can unpack it, just looking at Slide 13, it seems like most products were quite weak. Give us some perspective around -- does both the intermediation piece of FICC, does that feel like we are close to trough and unlike seasonality, we should see some improvement in FICC from here? If you can just provide some perspective there.
+
+Answer
+Executives - Chairman & CEO
+Sure. I mean at a high level, what I would say this quarter, intermediation activity was quiet and particularly in the back half of the quarter, kind of late November and December, clients are quiet. If you look at the whole year, I don't think it's fair -- I don't have the numbers in front of me, but I don't think it's fair to say the whole year is back to '19 levels. The overall activity levels were up and down during the year. 
+We have a big diversified business. When our clients are active, we execute on it. We continue to grow the financing revenues, which make it overall more durable, but it was a quiet quarter, particularly the back half in terms of intermediation. I don't expect it to continue at that pace. I think Denis' comments in the opening, we're seeing more activity in the first few weeks of the year. But we'll watch it. And as you know, that activity, particularly in that segment can move up and down based on what's going on in the macro environment.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+Got it. Maybe just sticking to FICC or maybe both FICC & Equities. On the financing side, if you don't mind reminding us of the opportunity to grow financing over the next year or over the medium term?
+
+Answer
+Executives - Chief Financial Officer
+So thanks, Ebrahim. So we've been clear over the last several years that we see opportunities to grow both FICC & Equities financing, and it's a virtuous activity for us. It dovetails well with our focus on clients and our focus on market share. We have a lot of expertise in this space and we see a lot of demand from clients for us to deploy both into FICC & Equities. We now have leading equities franchise overall. Our equities financing business is in a leadership position and at scale. It has grown significantly, and we continue to see opportunities to increase the activities that we do with our existing clients and bring new clients onto the platform. 
+So we look out into 2024 and 2025. We continue to be very focused. I think there's good opportunities across both FICC & Equities financing in GBM.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Brennan Hawken with UBS. Mr. Hawken?
+
+Question
+Analysts - Former Executive Director and Equity Research Analyst of Financials
+Sorry about that. So just curious about the impact that we should be thinking about around the potential exit from the Apple relationship. I know it's an ongoing thing, but maybe is there anything that you could provide that might help us think about how that impact could flow through?
+
+Answer
+Executives - Chairman & CEO
+Denis said in his comments, we've got no other updates on the credit card partnerships other than what he stated. We continue to work with Apple on a partnership with them to serve our customers and to continue to reduce the drag from the partnership, and we continue to make good progress. And the drag in 2024 will be materially less.
+
+Question
+Analysts - Former Executive Director and Equity Research Analyst of Financials
+Okay. Appreciate that. And then when you think about the deposit platform, Marcus, that's been a pretty bright spot on the consumer front and definitely seems to have worked well. What has been your views? Or how has the beta on that deposit base played out versus your expectations? And do you have any plans to adjust your thoughts around, earlier you talked about wanting to be in the top decile of payouts for that product. Is that still the goal? Or has that adjusted as the platform has matured?
+
+Answer
+Executives - Chief Financial Officer
+Sure, Brennan. Thank you for that question. Our Marcus deposit platform has been a real strategic advantage to us in terms of overall firm-wide funding. We did set out a strategy to set our pricing at the higher end of the pricing envelope to maintain, sustain and grow our balances across that platform. 
+We haven't adjusted our strategy at this point. We saw good growth across our various strategic deposit funding channels last year, not just Marcus. Overall, deposits were up over $40 billion on the year. And I would just say, as we move into 2024, we continue to focus on driving growth across the strategic channels and be thoughtful about our overall funding mix.
+
+Question and Answer Operator Message
+Operator
+Thank you. We'll go next to Mike Mayo with Wells Fargo Securities.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+David, you started off the call saying that 2023 was the year of execution. And that's a year when you had an ROE of 8%, and if we throw in some of the charges, it's 10%, and that's not really executing at your 15% or so desired return. So can you give us a kind of waterfall chart in words on how you get from that core 10% ROE to 15%? And if you could define medium term?
+
+Answer
+Executives - Chairman & CEO
+Sure. So I appreciate the question, Mike. And obviously, we're very focused on it. It wasn't an A environment for our core business. In fact, I don't even think it was B environment when investment banking is operating at low levels that is an impact overall. 
+I do think that it's important to look at our core business of banking and markets, which is a very significant portion of the firm and do know on a fully allocated basis in this environment, which was not a B+ or an A environment, given the investment banking activity, it had a 12% ROE. We continue to believe through the cycle that, that business is a mid-teens business. And so I don't think we're going to see -- stay at the level of activities that we've been at, and we have that business positioned very well. And so you'll get some upside returns there in a better environment. 
+And then secondarily, on Asset & Wealth Management, we continue to reduce the balance sheet. The balance sheet has been a drag on returns, but I think we've been pretty clear that we can drive the Asset & Wealth Management with a smaller balance sheet to mid-teens returns are better with a 25% margin. We're on that journey. We're making progress. I think we'll make very good progress over the next 2 years. 
+And if you look at those two businesses, that's the vast, vast majority of the firm, and I think they can operate mid-teens. We've significantly reduced the other drags. We got a lot of it behind us in this year. That doesn't mean there won't be anything, but the drag from platforms in 2024 will be materially reduced from what it's been. And so I think we're making good progress in the medium terms over the next couple of years, provided that it's a reasonable environment. And so I think you'll see good progress on the overall positioning of the firm over the next 3 to 5 years.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+And then just to follow up. The other drag you said would be a lot less than 2024 from Platform Solutions, and can you dimension that a little bit? And also as it relates to principal investments, do the higher stock markets help the disposition or not so much?
+
+Answer
+Executives - Chairman & CEO
+They absolutely do. I mean when markets improve, they help the disposition. There's no question. I also -- when you look at the last 2 years, we've had real headwinds in terms of revenue against the balance sheet that we could have more of that, but on a much smaller balance sheet in 2024. 
+With a better market, you actually might have some benefit to revenue performance. But we're focused on reducing that broadly. You see, you have more transparency now in the platforms as we continue to close on GreenSky, move GM to held for sale. And so you have more transparency on that. We think the drag will be significantly reduced in 2024. When we're comfortable providing more specific color on that, we will provide it. But small in the overall context of the firm and the firm's performance.
+
+Question and Answer Operator Message
+Operator
+We'll go back to Devin Ryan with JMP Securities.
+
+Question
+Analysts - MD, Director of Financial Technology Research & Equity Research Analyst
+David and Denis, a question just on kind of interplay between a recovery in investment banking versus trading intermediation. And I know there's probably a lot of assumptions that need to go in here. But if you think about kind of the environment with macro conditions settling down, which would likely support investment banking, I'm assuming some areas of trading could also slow down. And then maybe other areas could pick up as well. 
+So just love to maybe hear a little bit about kind of the puts and takes, kind of what you've seen historically there, easier? And just really kind of the key question is just whether you can grow investment banking revenues and trading ex financing at the same time?
+
+Answer
+Executives - Chairman & CEO
+Yes. So at a high level, Devin, I appreciate the question. I think we can continue to grow our financing activity given the scale and the size of the market, the way market activity is growing. And we will normalize investment banking activity. And obviously, over time, given our position, and if you assume growth in the world, growth in market cap of the world, we will continue, as we have for the last 25, 35 years, grow our investment banking activity. 
+When there's real disruption in the world, we find that FICC can be a little bit countercyclical in some way, shape or form. But that's not the same as saying a normalization of investment banking activity means a slowdown in intermediation on market activity. I think there's a lot going on in the world, the trajectory of rates. There's a point of view on rates and inflation, but it's certainly not certain to me. I think people are going to be active as they adjust to the environment. There's debates about how the Fed continues on its quantitative tightening or it doesn't continue on its quantitative tightening. 
+And so all of this, I think, will continue to play into people being active in markets. So I do think just at a high level, look, this is a high level. I think the environment in 2024 feels like it will be better for our mix of businesses than it was in 2023. But I'm not a good predictor and we're prepared to operate in whatever environment we have to operate in.
+
+Question
+Analysts - MD, Director of Financial Technology Research & Equity Research Analyst
+Understood. I appreciate that, David. Maybe a quick follow-up for Denis. Just commercial real estate, clearly a big headwind in 2023, I appreciate all the disclosure, their office on balance sheet to only $1 billion now. So when you think about just the environment relative to current marks, how do you feel about kind of the pain being behind the company and just characterize the environment where maybe there still could be material marks? And then just more broadly, kind of expectations for marks as you exit the historical CRE on balance sheet principal investments?
+
+Answer
+Executives - Chief Financial Officer
+Sure, Devin. Thank you. And as you know, we have a new disclosure the last couple of quarters on CRE, in particular, on the nature of the loans in that sector and then as well as the on balance sheet, both CRE and office. In particular, you can obviously see from those disclosures we've made substantial progress moving down the positions over the course of 2023, gave disclosure on the number of CIE positions that we moved down recently, and we've made really significant progress. We disclosed on prior calls and then our office exposures from an impairment and marks perspective, we're sitting at roughly 50%. 
+So we think that based on the visibility that we had and the activity that we had over the course of 2023 that, that portfolio and the broader portfolio for that matter, sits at the right place. As we move into 2024, there should be opportunities for further dispositions and will remain very focused on what the mix of that disposition activity is. 
+When David was reviewing our expectations with respect to HPI sell-down on the forward, in addition to moving towards our medium-term target. We're also mindful of what the long-term franchise impact of those sell-down activities are. So just to give you a sense for why we may have cautioned on pace. We have some meaningful credit exposures where we enjoy a position of incumbency. And for the long-term benefit of the franchise, we very much hope that we will remain as a lender and a supporter of those clients. To exit those positions in advance of a potential refinancing would be to surrender our incumbency position. And so we're being thoughtful so that we can continue to reduce our risk while continuing to grow the third-party fund management business while supporting clients in the process.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Ryan Kenny with Morgan Stanley.
+
+Question
+Analysts - Equity Analyst
+So you highlighted in the prepared remarks that Goldman surpassed your fundraising target and alternatives. And so as we look forward, can you give some more color on your strategy to grow particularly in private credit? Any update on how big you expect to get in private credit, how it complements your DCM and wealth franchises and maybe any risks that we should be thinking about would be helpful.
+
+Answer
+Executives - Chairman & CEO
+Sure. I appreciate the question. It's obviously something Ryan, we're very, very focused on. We feel good about the fundraising progress we've made. I think when you look forward in 2024, you could expect us to raise another $40 billion to $50 billion of alternatives. We're obviously very focused on private credit. We do operate at scale in private credit. We have over $110 billion of private credit. 
+But I think the opportunity for us to continue to grow and scale in private credit, especially given the way our franchise is positioned and the origination connection we have with our broad banking business gives us a unique platform and a unique competitive advantage. So we're going to continue to keep this focus. 
+It doesn't stop because we met our goal. Our goal was meant to frame the opportunity set 3.5 years ago, but you'll see us continue to raise money on a year-to-year basis, and we've got some big funds that we're going to be in the market within 2024, and we'll continue to build the partnerships with that client base and both myself, John Waldron and the broad team across our Asset Management division are spending a lot of time with the big capital allocators all over the world and continuing to invest in those relationships.
+
+Question
+Analysts - Equity Analyst
+And then Basel Endgame comment letters are due today. So now that you and other G-SIBs have had time to digest the proposal, could you give us an update on how Goldman might plan to adapt if potential final rule comes through and how the proposal as written might impact your 15% to 17% through the cycle ROTCE target?
+
+Answer
+Executives - Chairman & CEO
+Sure. Well, obviously, today marks the end of the comment period and what I would say, it's certainly not the end of the process. In fact, I would say it's the end of the beginning of the process. And so we're moving into the next phase and continue to be highly engaged with regulators and the broad set of government stakeholders, given our significant concern with the proposed rules. 
+You'll see comment letters from us, from our peers. You'll also see many letters from end users, including pension funds, insurance companies, corporates, who are particularly concerned about how this rule could affect their access the capital and their ability to ensure and mitigate risk in their business. 
+And I think this is really rooted in the fact that the magnitude of these proposed changes would be felt well beyond the banking industry, and also, I think, disadvantages the U.S. from a competitive perspective. So to be clear, my view is the rule is not proposed appropriately, and it should be withdrawn and reproposed. I don't think speculating on the impact of the rule, as proposed, I think there's a pretty significant view out there that the Fed is listening carefully. They're taking in the feedback and I don't think there is anyone that's looking at a base case that this is going to move forward as proposed. 
+We're very flexible with our capital, as I've said before. If the rules put certain changes in place, we'll also adjust businesses or pricing of businesses and certain activity to adapt. I think to speculate as to how we'll talk about this once it's in place before we have any idea what the world is going to look like is premature. But we've got a lot of capital flexibility, and we've proven over time, we can be particularly nimble. And so we'll continue to focus.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Dan Fannon with Jefferies.
+
+Question
+Analysts - Senior Equity Research Analyst
+As you think about your efficiency targets, what's a reasonable level of growth for noncomp expense as we -- excluding obviously all the one-timers this year and maybe what the areas of investment are -- priorities when you think about 2024?
+
+Answer
+Executives - Chief Financial Officer
+Thanks, Dan. So the efficiency ratio is something we are laser-focused on. We continue to orient the firm to drive towards our 60% target. You mentioned the impact of selected items. I mean, if you take the impact over the course of 2023, the efficiency ratio would have been more like 65%. That's obviously not where we want it to be, but significantly better than the fully reported number. 
+We have a number of initiatives across the firm to get after our noncompensation expense. We had a very structured process we implemented once we put out some of the efficiency targets at the end of last year, rigorously marking to market our business plan and our execution against it over the course of the year. There's a -- we have a ton of different categories. We're in the process of reviewing each and every category of our noncompensation expense, benchmarking it, reviewing KPIs, thinking about our processes, incentive structures, governance, things that we can do to continue to drive that expense as efficiently as possible. 
+We do see an impact of inflation across these activities. And it's for that reason that we need to implement the types of processes to mitigate those impacts and manage it as closely as possible. I think as we look into 2024, if you take a look at the disclosure around selected items, we don't expect those types of activities to repeat and we'll be very, very -- remain very, very focused on maintaining our overall noncomp expense spend. 
+And the other component of the efficiency ratio is obviously compensation expense. And you saw that over the course of this year. We maintained our pay-for-performance orientation with respect to how we size that, and you should expect the same on the forward into 2024. That is obviously a performance-based and variable component of our overall expense. There are also a number of other items within our expense base that are variable. Our largest items, both compensation as well as transaction expenses are variable. So we will have to see how the types of activities unfold into 2024 and what the mix of our activities are to ultimately determine where we land on an aggregate expense base and an efficiency ratio.
+
+Question
+Analysts - Senior Equity Research Analyst
+Great. And follow-up on Wealth Management. You disclosed 40% of the alternative inflows since 2019 have come from the Wealth channel. Just curious if that was consistent throughout that time period and whether you view that level of contribution as sustainable. And also just the economics to Goldman Sachs, how it differs between that 40% in Wealth and the 60% externally, how does that -- what's the difference in revenues?
+
+Answer
+Executives - Chairman & CEO
+Well, at a high level, that comment is -- looks over the past 4 years that we've grown our Asset Management business, Asset & Wealth Management business, and it highlights the alternative raising over that period, this initial period of investment, what the mix has been between wealth, the institutional client base or other channels like third-party wealth, retail, et cetera. 
+When you look at our strategy, Dan, we -- if you go back 20 years, most of our fundraising for these activities came from our Private Wealth channel and the percentage of the money we manage was much higher than 40% from Private Wealth. So as we continue to invest in broad institutional partnerships in the pension community, the sovereign wealth community areas, where historically we had not raised a lot of alternative funding, that percentage of Wealth funding will probably decrease, but I'm not going to speculate exactly where it will go. 
+At scale, the economics associated with all these alternatives are extremely attractive. They're attractive in the Private Wealth channel and they're attractive in our institutional partnerships. But as I think you all know, they're not exactly identical. And people that allocate or enter a partnership with you and allocate $10 billion, definitely have a different economic proposition than somebody that's giving you $50 million or $100 million. And that's been consistent in the business for a long, long time. 
+So we're continuing to scale the business. We have real margin targets for the business. I think we've got lots of opportunities, and we're still in the early stages of using the platform of Goldman Sachs to cement and invest these broad distribution channels for the benefit of our scale Asset & Wealth Management platform, and I'm confident we'll continue to make good progress.
+
+Question and Answer Operator Message
+Operator
+Thank you. We'll go next to Matt O'Connor with Deutsche Bank.
+
+Question
+Analysts - Research Analyst
+There's obviously all the uncertainty on the capital as was discussed earlier. But just in the near term, how do you think about top allocation? You're obviously continuing to lean into financing, which is capital intensive, depending on how banking and if banking comes back, banking consume capital. And then just touch on interest in bolt-on deals and then obviously, ending on buybacks which were pretty solid in '23.
+
+Answer
+Executives - Chairman & CEO
+I'll start and Denis can add some comments. We've always said that when there's activity to support our clients, that's our primary focus on where we can allocate capital. We've increased the amount of capital allocated to our franchise, our client franchises over the course of the last 5 years. And I think one of the reasons why our big broad Global Banking & Markets franchise has performed on a relative basis in different environments, the way it's performed is we've been very, very focused on making sure we have the capital and the financial resources to serve our client base well. 
+Where we see opportunities, we will continue to deploy capital there, and that's in our broad capital planning program. We do generate a lot of capital from earnings. And to the degree that we don't see opportunities to deploy it with our clients, we will return it to shareholders. At the moment, we're taking a more conservative posture around that, just given some of the uncertainty around Basel III Endgame, although, again, I think that's going to continue to evolve. And I also think we have a long track record of being very, very nimble with our ability to deploy. 
+So we're going to continue to focus on making sure we've got the right resources to serve our clients. And as we generate capital, we have confidence in our capital position, we'll return capital to shareholders. And we've been very focused, as you've seen on growing the dividend, and we plan to continue to do that.
+
+Question
+Analysts - Research Analyst
+And then just separately, following up on the exit of legacy on balance sheet principal investment, is there an expense reduction opportunity as those investments in some of the infrastructure goes away over time?
+
+Answer
+Executives - Chairman & CEO
+There's an operating leverage story, which is one of the reasons why the margin in our Asset & Wealth Management business will continue to improve. When we were running an on-balance sheet business with lots and lots and lots of on balance sheet position, the number of people that you need to manage those positions and serve those positions creates a business that scale differently than a traditional fund management business that you would see on someone else's alternative platform. 
+And so we're early in the journey, I'll just give a simple example. We went out last year, 1.5 years ago and raised our first growth equity fund. We used to do that business on balance sheet. We have lots and lots of positions and therefore, a very, very broad team to service that. We raised our first fund. We needed smaller team to manage that fund, but when you go and you raise your second fund, you don't need to increase the scale of the team. And so there's real operating leverage, and that's part of our margin improvement story in Asset & Wealth Management over time. 
+So the answer is yes. I don't want to overstate this because it's not a massive part of the story, but it is a place we have some operating leverage and improvement as we continue to move from balance sheet into fund firm.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Gerard Cassidy with RBC.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+David, in your prepared remarks, David, you were talking about -- I think it was Slide 5 or 6, but about the success in growing the relationships with those top 100 FICC & Equities clients, and you identified that the FICC & Equities financing contributed to that success, and that's been a real hallmark for you guys over the last 2 or 3 years, the growth in that business. 
+Can you dig down first and share with us what has attributed to the success? Is it the capital you put into that business, the hiring of additional folks or people in the business and as well as competition? Is the competition been more challenged than some of your competitors, all Credit Suisse, of course, is no longer around. But if you could just give us a little more color on what's driving that success?
+
+Answer
+Executives - Chairman & CEO
+Sure, Gerard. At a high level, I'd point to a couple of things, but I'd start with the fact that business is a scale business, and we happen to be in the privileged position of being one of a handful of firms that really does operate those businesses at scale. And I think that's just important to the baseline. 
+But I think there are a handful of things that we've done well. First, One GS and One GS ethos, if you go back historically, we operated these businesses much more in silos with much less coordination across broad client experience and clients would come into the firm in different places and get different experiences. And we spent a lot of time, and this goes back to 2019 really thinking about how do these clients experience the firm, and we went out, we talked to them, we listened to their feedback. They really wanted to deal with the firm as a partner, One partner. I think we've made through One GS and that ethos real progress in dealing with these very large clients in this business in an integrated approach that's improved their experience. And because it's improved their experience, they feel more partner-like with us, and therefore, that's improved our wallet share. 
+Secondarily, we become a much bigger financer of their activities. And when you finance their activities, you get rewarded in other ways through the ecosystem. And number three, we've also tried to really take the same way we have with investment banking clients for a long view, a very long-term approach to transacting with them. They need our help sometimes with things that aren't that economically attractive, we want to be there. If you do that, you do that consistently, you wind up getting opportunities that are more attractive. 
+And so I think those three things combined with our scale platform have really helped us when we look at our wallet shares. We continue to spend a lot of time, John and I spend a lot of time and Denis too, talking to these clients in addition to the people running the business, asking for their feedback. And as we take that feedback, we'll continue to make adjustments to make sure we can serve them with real excellence. And as you saw from the presentation that we put up, one of the things that we're really focused on is how our One GS operating ethos allows us to serve our clients with excellence and distinction. It's a big, big tenet of what we're trying to do.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Very good. And then I know you've talked about the pipelines and your comments about what we might be able to see in ECM and other areas this year. Can you also give us a little flavor on what parts of the -- since you're obviously a global force, what parts of the globe are you seeing the best potential? Is it the Americas? Is it Europe? Or is it Asia?
+
+Answer
+Executives - Chairman & CEO
+Well, it's scale. The Americas is the biggest part of the activity level. And just given the resilience of the U.S. economy, I think you've seen a material pickup there proportionally that's broader than other places. But we are seeing more activity across Europe, particularly strategic dialogue. 
+I'd say the one place where I think is slower obviously is in Asia with respect to China. And just given the nature of economic activity there and where things are positioned, that still seems slower, both the M&A side and the capital market side. But those are comments that make it a high level, Gerard.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Thank you. Always appreciate the insights. Thank you.
+
+Question and Answer Operator Message
+Operator
+We'll take our next question from Steven Chubak with Wolfe Research.
+
+Question
+Analysts - Director of Equity Research
+So I wanted to ask a couple of questions about comp leverage and operating margins. And maybe just to start off, Denis, you noted the adjusted efficiency ratio set at 65% versus the reported figure in the mid-70s. When we try to adjust for various items, at least in the public disclosure, it looks like the core adjusted efficiency somewhere in the upper 60s. And I was hoping you can maybe just help us reconcile some of the different items to get down to that 65% figure and whether that's the appropriate jumping off point that we should be thinking about as we look ahead to '24?
+
+Answer
+Executives - Chief Financial Officer
+So Steven, I'd say, I think the 65% is a good jumping off point for 2024. And as the business evolves from there, as I indicated on a prior question, we have to ultimately be mindful of the mix of the business that comes into the firm. Certain of our activities attract different degrees of transaction-based and other expenses as we prosecute those activities. And so we'll have to be mindful of what the ultimate business mix looks like. We'll have to be mindful, obviously, what the ultimate scale and magnitude of the activities is as we roll forward in 2024. 
+I think on the compensation side of the equation, you noticed our disclosure, that was roughly flat on a year-over-year basis. Our revenues net of PCL in the year were up 1%, and our compensation roughly flat. We observed that we thought that the performance of our core businesses was solid and that we had a year of significant execution activity, and we want to make sure that we're in a position that we have the talent in place to deliver for clients as we look forward into '24 with a bit more optimism for what types of activity we could see. 
+In terms of trying to get a handle on the selected items and the degree of repeat potential, most of those are pretty discrete items associated with the exit of activities and the one-off FDIC special assessment. The one area we'll continue to manage carefully is on CIEs as we continue to manage down the balance sheet as we've discussed.
+
+Question
+Analysts - Director of Equity Research
+That's great. And just for a follow-up relating to the comments you just made, Denis, on comp leverage, specifically. It looks like the expectation is for revenues to grow about $4 billion this year for The Street. The comp dollars are expected to increase only about $600 million. You do have a good track record of delivering incremental operating leverage or strong marginal margins. 
+But I just wanted to get a sense, given you were alluding to the fact that you're going to pay for talent and you're going to compensate people appropriately that execute well on the platform, how we should be thinking about incremental comp leverage, is an 85% comp margin a realistic expectation given where the revenue growth is ultimately going to come from?
+
+Answer
+Executives - Chief Financial Officer
+Steven, I'll make a comment. David wants to make another one as well. We're very focused on driving operating leverage across the platform. We're also focused on driving scale across the platform. And meanwhile, we're staying true to our mantra of pay-per-performance. It's what our people expect, and it's one of the things that enables us to attract such exceptional talent and deliver excellence for our clients. 
+The ultimate compensation payout relative to the results in 2024 really are going to come down to what the ultimate mix of those activities are and what we feel is the appropriate amount of compensation to reflect the performance of the team being mindful of talent retention, service of clients as well as driving operating leverage and delivering results for shareholders.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Mike Mayo with Wells Fargo Securities.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+I was just wondering what you're going to do about the Lead Independent Director, who I guess is no longer on your Board, Bayo, I guess, his firm got purchased and now you need to get a new lead director. Is that someone from the Board currently, someone from outside Goldman Sachs, what type of person is the Board looking for?
+
+Answer
+Executives - Chairman & CEO
+So I appreciate the question, Mike. As you highlight, at the end of last week, Bayo sold his business to BlackRock. Bayo still is the Lead Director. That deal won't close until sometime in the third or fourth quarter. Bayo is the Lead Director. We have a governance process in place. Our Board has met and at the appropriate time, we'll make announcement as to the transition. 
+But at this point, other than the fact that because of the sale, it will create a transition. I have nothing more to say other than Bayo is still the Lead Director, and we'll manage the transition in an orderly process and no surprises.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+Okay. So what? You would consider people outside of Goldman Sachs currently for that or?
+
+Answer
+Executives - Chairman & CEO
+Well, we're always adding people to our Board, Mike. But I'm not going to make comments. I'm not going to make forward comments about our governance process and our Board looks at this at the time that the Board takes action. We announced a clear transition. I'll be happy to answer questions and talk about it.
+
+Question and Answer Operator Message
+Operator
+At this time, there are no additional questions in queue. Ladies and gentlemen, this concludes The Goldman Sachs Fourth Quarter 2023 Earnings Conference Call. Thank you for your participation. You may now disconnect
+

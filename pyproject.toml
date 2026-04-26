@@ -1,0 +1,33 @@
+[project]
+name = "earnings-call-sentiment"
+version = "0.1.0"
+description = "Starter package for earnings call sentiment analysis."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Earnings Call Sentiment Team" }
+]
+dependencies = [
+  "ollama>=0.4.0",
+  "json-repair>=0.30",
+  "python-dateutil>=2.9",
+  "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+earnings-call-sentiment = "earnings_call_sentiment.main:main"
+
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q"
+testpaths = ["tests"]

@@ -1,0 +1,295 @@
+﻿Advanced Micro Devices, Inc., Q1 2025 Earnings Call, May 06, 2025 - 
+
+Presentation Operator Message
+Operator
+Greetings, and welcome to the AMD First Quarter 2025 Conference Call. [Operator Instructions] And as a reminder, this conference is being recorded. 
+It is now my pleasure to introduce to you Matt Ramsay, Vice President, Financial Strategy and Investor Relations.
+
+Presenter Speech
+Executives - Vice President of Financial Strategy & Investor Relations
+Thank you, and welcome to AMD's 2025 First Quarter Financial Results Conference Call. By now, you should have had the opportunity to review a copy of our earnings press release and the accompanying slides. If you have not had the chance to review these materials, they can be found on the Investor Relations portion of amd.com. 
+We will refer primarily to non-GAAP financial measures during today's call. The full non-GAAP to GAAP reconciliations are available in today's press release and the slides posted on our website. 
+Participants on today's conference call are Dr. Lisa Su, our Chair and Chief Executive Officer; and Jean Hu, Executive Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on our website. 
+Before we begin, I would like to take note that Mark Papermaster, our Executive Vice President and Chief Technology Officer, will attend the TD Cowen TMT Conference on Wednesday, May 28. And Jean Hu will attend the Bank of America Global Technology Conference on Tuesday, June 3. 
+Today's discussion contains forward-looking statements based on our current beliefs, assumptions and expectations, speak only of today, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations. Please refer to the cautionary statement on our press release for more information on factors that could cause actual results to differ materially. You will also find a detailed discussion of our risk factors in our filings with the SEC, in particular, AMD's most recent quarterly report on Form 10-Q and annual report on Form 10-K. 
+And with that, I would like to hand the call over to Lisa.
+
+Executives - Chair, President & CEO
+Thank you, Matt, and good afternoon to all those listening today. 
+We delivered an outstanding start to the year despite the evolving dynamics related to tariffs and the regulatory environment. Growth accelerated for the fourth consecutive quarter year-over-year driven by strength in our core businesses and expanding data center and AI momentum. 
+Revenue and EPS both exceeded consensus estimates as Instinct AI accelerator, EPYC and Ryzen CPU sales grew significantly year-over-year. As a result, first quarter revenue increased 36% year-over-year to $7.4 billion as our Data Center and Client & Gaming segments both grew by a large double-digit percentage. 
+We expanded gross margin year-over-year for the fifth straight quarter and increased net income by 55% driven by a higher overall percentage of Data Center product sales and a richer Ryzen processor mix. 
+Despite the uncertain macroeconomic backdrop, our first quarter performance highlights the strength of our differentiated product portfolio and execution and positions us well for strong growth in 2025. 
+Turning to the segments. Data Center segment revenue increased 57% year-over-year to $3.7 billion. We gained server CPU share driven by the ramp of our latest fifth-gen EPYC Turin processors and sustained demand for 4th Gen EPYC. Hyperscaler demand remains strong as cloud providers expanded EPYC deployments to power their critical infrastructure and public services. More than 30 new instances launched from Alibaba, AWS, Google, Oracle, Tencent, and others in the quarter, including the initial wave of 5th Gen EPYC Turin instances. 
+In addition, AWS launched new FPGA accelerated instances in the quarter, powered by EPYC processors with Xilinx Virtex FPGAs that are optimized for data and compute-intensive workloads like genomics, multimedia processing, network security and cloud-based video broadcasting. Every major cloud provider is deep in development on Turin programs with a steady stream of public instances and internal deployments expected to ramp into production over the coming quarters. 
+Enterprise adoption of EPYC instances was very strong in the quarter. The number of EPYC-powered cloud instances activated by Forbes 2000 enterprise customers more than doubled year-over-year, including new wins with Internet native streaming, transportation, financial services, and social media companies. For example, CrowdStrike achieved major performance in cost improvements by broadly deploying EPYC instances across its multi-cloud infrastructure. 
+At the same time, we're also actively partnering with leading application and cloud providers to deploy EPYC-optimized solutions tailored for specialized industry verticals. Siemens launched their latest software-defined vehicle solution powered by EPYC CPUs and Radeon Pro GPUs on Azure, leveraging digital twin technology to significantly speed up automotive design and validation. 
+Oracle launched a new version of its Exadata database platform, which is used by more than half of the Fortune Global 100. The latest Exadata X11M has been optimized for 5th Gen EPYC processors to deliver up to 25% faster performance in transaction processing and analytics compared to the prior generation. 
+Turning to enterprise on-prem adoption. EPYC CPU sales grew by a large double-digit percentage year-over-year for the seventh straight quarter driven by new public sector wins and high-volume deployments with large automotive, semiconductor, financial services, retail, energy, and technology companies. 
+We have built significant enterprise momentum over the last few years as our partners expanded the number of EPYC-based platforms to more than 450 and we scaled our joint go-to-market programs. As a result, EPYC is now deployed by all of the top 10 telecom, aerospace, and semiconductor companies, 9 out of the top 10 automotive, 7 out of the top 10 manufacturing, and 6 out of the top 10 energy companies on the Forbes 2000. We expect enterprise adoption to accelerate over the coming quarters as more than 150 Turin platforms become broadly available from Dell, Cisco, HPE, Lenovo, Super Micro and others. 
+Looking forward, we see a clear path to continued share gains as customers ramp their 5th Gen EPYC offerings that deliver unmatched performance, efficiency and TCO across every major cloud and enterprise data center workload. We passed key milestones in April to begin manufacturing 5th Gen EPYC at TSMC's new Arizona fab, with first production shipments expected in the second half of 2025. Longer term, we announced our next-gen EPYC Venice processors, our lead HPC products for TSMC's 2-nanometer process node. Venice silicon is in our labs and performing well with bring-up and validation progressing to support a 2026 launch. 
+Turning to our Data Center AI business. Revenue increased by a significant double-digit percentage year-over-year as MI325X shipments ramped to support new enterprise and cloud deployments. More than 35 MI300 Series platforms are in production from all the leading service providers, supporting the expanding number of Instinct GPU deployments with cloud, enterprise and AI customers. Several hyperscalers expanded their use of Instinct accelerators to cover an increasing range of generative AI search, ranking and recommendation use cases. We also added multiple Tier 1 cloud and enterprise customers in the quarter, including one of the largest frontier model developers that is now using Instinct GPUs to serve a significant portion of their daily inference traffic. 
+The depth and breadth of our customer engagements continues to expand as breakthroughs in large-scale AI models like OpenAI's o3 and DeepSeek's R1 drive increased demand for traditional inferencing and increasingly, as a critical part of pretraining. The industry-leading memory capacity and bandwidth of our Instinct portfolio is ideally suited for these workloads, and we are actively working with multiple customers to scale Instinct from single-node deployments to distributed inferencing clusters. 
+Training engagements also ramped in the quarter as multiple Tier 1 hyperscale, AI and enterprise customers scaled Instinct GPU clusters to train internal and frontier models. In parallel, we're making meaningful progress with sovereign AI deployments as countries expand investments to establish domestic nation-scale AI infrastructure. In February, we announced a strategic partnership with G42 to build one of France's most powerful AI compute facilities powered by Instinct accelerators. 
+On the AI software front, we significantly accelerated our release cadence in the first quarter, shifting from quarterly ROCm updates to delivering ready to deploy training and inferencing containers on a biweekly basis that include performance optimizations and support for the latest libraries, kernels and algorithms. We expanded our open source community enablement in the quarter, making significantly more Instinct compute infrastructure available to enable developers to automatically build, test, and deploy updates to ROCm code nightly. As a result, more than 2 million models on Hugging Face now run out of the box on AMD. 
+We're also enabling an increasing number of models to launch with Day Zero support for Instinct accelerators, including Meta's Llama 4, Google's Gemma 3, and DeepSeek's R1 models that were released in the first quarter. 
+Beyond launch, we are delivering regular software updates that increase performance for new models. For example, in the weeks following the launch of DeepSeek's R1 model, we introduced ROCm optimizations that enabled MI300 to deliver leadership inferencing throughput. We released ROCm 6.4 in the quarter with major upgrades that increased training and inferencing performance across popular AI frameworks like PyTorch, JAX and vLLM. The release also adds multiple ease-of-use features, including new cluster management tools that simplify the scaling and optimization of large-scale Instinct deployments. 
+Turning to our AI solutions capabilities. Earlier this quarter, we completed our acquisition of ZT Systems, adding world-class systems design expertise to complement our silicon and software leadership. With ZT, we can provide ready-to-deploy rack-level AI solutions based on industry standards built with AMD CPUs, GPUs and networking, reducing deployment time for hyperscalers and accelerating time to market for OEM and ODM partners. The team is fully engaged and already co-designing with key customers and rack-level designs optimized for our upcoming MI400 series and working with customers and OEM partners to accelerate time to market for our MI350 series. We have received significant interest in ZT's manufacturing business and expect to announce a strategic partner shortly. 
+We began sampling our next-gen MI350 series with multiple customers in the first quarter and remain on track to begin accelerated production by midyear. MI350 Series performance is very strong based on the advances in our CDNA 4 architecture. We designed CDNA 4 to deliver leadership performance across a wide range of AI workloads, increasing memory capacity and bandwidth 1.5x, adding support for new data types and improving network efficiency to deliver 35x higher throughput and performance compared to MI300x. Customer interest in the MI350 Series is very strong, setting the stage for broad deployment in the second half of this year. As one example, we are partnering with Oracle to deploy a large-scale cluster powered by MI355x accelerators, 5th Gen EPYC Turin processors and Pollara 400 AI NICs. This multibillion-dollar initiative highlights the expanding AMD and OCI partnership and the growing demand for AMD Instinct to power the next wave of large-scale AI infrastructure. 
+Looking ahead, our MI400 Series development remains on track to launch next year. The MI400 Series is designed to deliver leadership performance for both inferencing and training, scaling seamlessly from single servers to full data center deployments. Early customer feedback has been very positive, marking a major step forward in our Instinct road map and significantly expanding our AI accelerator TAM as customers plan broader Instinct deployments to power a larger share of their AI infrastructure. 
+I'm looking forward to sharing more details on the MI350 Series, future MI400 rack-scale solutions and the growing customer adoption of our Instinct platforms at our Advancing AI event on June 12. 
+Turning to our Client & Gaming segment. Segment revenue increased 28% year-over-year to $2.9 billion. Client revenue grew 68% year-over-year, marking our fifth consecutive quarter of revenue share gains. We delivered record client CPU ASP driven by a richer mix of high-end desktop and mobile Ryzen processors. Desktop channel sell-out increased by more than 50% year-over-year. We set new sell-out records in multiple regions as our latest-generation Ryzen processors became the CPU of choice for gamers, topping bestseller lists at leading global e-tailers. To build on this momentum, we extended our desktop CPU portfolio with the launch of our 16-core Ryzen 9950X 3D processor that delivers significantly higher gaming and productivity performance than the competition. 
+In mobile, AMD-based notebook sell-through was very strong in the quarter. We also saw strong demand for our latest generation AI PC processors as sales ramped, increasing by more than 50% quarter-on-quarter. The first notebooks powered by our new high-end Ryzen AI MAX+ and the first mainstream Ryzen AI 7 and 5 300 Series processors launched to very positive reviews. These new processors set the standard for traditional computing and graphics performance while also delivering unmatched AI capabilities in battery life, positioning Ryzen as a CPU of choice for gaming, ultrathin and commercial notebooks. 
+Demand for AMD-based commercial PCs was also very strong in the quarter. Ryzen PRO PC sell-through grew more than 30% year-over-year driven by new end customer wins and an 80% increase from 2024 in the number of AMD-powered commercial systems from HP, Lenovo, Dell and Asus. We closed multiple wins with large auto, energy, health care, financial services and telecom companies in the quarter. Looking more broadly across the PC market, we remain confident we can grow client processor revenue well ahead of the market in 2025 led by expanding adoption of our desktop channel and consumer and commercial notebook portfolio as well as a richer mix. 
+Turning to our Gaming business results. Gaming revenue decreased 30% year-over-year as higher Radeon graphics sales were more than offset by low semi-custom sales. While our semi-custom SoC sales declined year-over-year, console channel inventories have normalized as demand sales have strengthened for 2025. For PC gaming, we launched our Radeon 9070 series to strong demand as our new RDNA 4 architecture delivers leadership performance for mainstream gamers. First week sell-out set a record and was more than 10x higher than our previous best Radeon launch. Demand remains very strong, and we are working closely with our board partners to replenish inventory weekly and need to sustain demand. 
+We also introduced FSR 4, our first machine learning-based rendering technology that delivers significantly higher frame rates and more immersive gaming experiences. FSR 4 is already enabled in over 30 games with support expected to reach 75 titles by year-end. 
+Turning to our Embedded segment. First quarter revenue decreased 3% year-over-year to $823 million. Embedded demand continues to recover gradually. We expect improving demand in the test and measurement, communications and aerospace markets will drive a return to growth in the second half of 2025. We completed initial shipments of our cost-optimized Spartan UltraScale+ FPGAs and second-generation Versal AI Edge SoCs to meet growing demand for AI at the Edge. 
+As a part of continuing to grow our Embedded x86 business, we launched our EPYC Embedded 9005 Series CPUs that deliver leadership performance for networking, storage and industrial edge applications. Cisco selected our new EPYC Embedded processors for their latest high-end firewall solutions, and IBM is using them to power its latest storage-scale System 6000 for performance-intensive enterprise analytics and AI workloads. We also released our latest Vitis AI software suite, expanding support for the latest models and accelerating Edge AI deployment across a broader range of applications, further strengthening our leadership in the rapidly emerging Edge AI market. 
+In summary, our strong first quarter results and second quarter outlook reflect the momentum we are building across our business. While we face some headwinds from the dynamic macro and regulatory environments, including the recently announced export controls for Instinct MI308X shipments to China, we believe they are more than offset by the powerful tailwinds from our leadership product portfolio. Against this backdrop, we remain confident we can deliver strong double-digit percentage revenue growth in 2025 based on accelerating share gains with our latest generation of Zen 5 EPYC and Ryzen CPUs and Radeon GPUs and ramping production of our Instinct MI350 Series accelerators in the second half of the year to support an expanded set of customers and AI workloads. 
+We also expect full year growth in our semi-custom business, and for our Embedded business to return to year-over-year growth, in the second half of the year driven by the reduced inventory levels and improving demand environment. 
+To capitalize on our unprecedented growth opportunities and deliver our next major growth arc, we are expanding investments in our product and technology road maps, go-to-market initiatives and full stack AI software and data center scale solutions capabilities. We're also doubling down our execution to deliver and, where possible, accelerate our industry-leading road maps. 
+We view the current environment as a strategic opportunity to further differentiate AMD as we deliver an expanding product portfolio that combine leadership compute and AI capabilities for data centers, edge, PCs and embedded end devices. 
+Now I'd like to turn the call over to Jean to provide some additional color on our first quarter results. Jean?
+
+Executives - Executive VP, CFO & Treasurer
+Thank you, Lisa, and good afternoon, everyone. I'll start with a review of our financial results and then provide our current outlook for the second quarter of fiscal 2025. As a reminder, for comparative purposes, our first quarter fiscal year 2025 financial statement disclosures include the combination of our Client & Gaming businesses into a single reportable segment to align with how we manage the business. We continue to provide distinct revenue disclosures for our Data Center, Client & Gaming and Embedded businesses.
+We are pleased with our record first quarter revenue of $7.4 billion, exceeding the high end of our guidance, up 36% year-over-year, driven by 57% revenue growth in the Data Center segment and a 28% revenue growth in the Client & Gaming segment. Revenue declined 3% sequentially due to lower revenue in the Embedded and Data Center segments, partially offset by sequential growth in the Client & Gaming segment. Gross margin was 54%, up 140 basis points from a year ago.
+Operating expenses were $2.2 billion, an increase of 28% year-over-year as we continue to invest aggressively in go-to-market activities and in R&D to address the significant growth opportunity ahead of us. Operating income was $1.8 billion, representing a 24% operating margin. Taxes, interest expenses and the other was $213 million. 
+For the first quarter of 2025, diluted earnings per share was $0.96, an increase of 55% year-over-year.
+Now turning to our reportable segments, starting with the Data Center. Data Center segment revenue was $3.7 billion, up 57% year-over-year, primarily driven by continued CPU server share gains across both the cloud and enterprise customers and strong growth of AMD Instinct GPUs. On a sequential basis, Data Center segment revenue decreased 5%. Data Center segment operating income was $932 million or 25% of revenue compared to $541 million or 23% a year ago.
+Client & Gaming segment revenue was $2.9 billion, up 28% year-over-year, driven primarily by strong customer demand for our latest generation Zen 5 AMD Ryzen processors, partially offset by lower semi-custom revenue. Client revenue was $2.3 billion, up 68% year-over-year. More than half of the growth was driven by higher ASPs from a richer mix of high-end Ryzen processors. On a sequential basis, Client & Gaming segment revenue increased by 2%, primarily driven by stronger-than-seasonal performance of our Client product portfolio and increased semi-custom product revenue. Client & Gaming segment operating income was $496 million or 17% of revenue compared to $237 million or 10% a year ago driven by operating leverage on higher revenue. 
+Embedded segment revenue was $823 million, down 3% year-over-year. Embedded demand continues to recover gradually. Sequentially, Embedded was down 11%, consistent with our expectations. Embedded segment operating income was $328 million or 40% of revenue compared to $342 million or 41% a year ago.
+Turning to the balance sheet and the cash flow. During the quarter, we generated $939 million in cash from operations, and our free cash flow for the quarter was $727 million. We returned $749 million to shareholders through the repurchase of common stock in our repurchase program. We have $4 billion remaining in our share repurchase authorization. 
+At the end of the quarter, cash, cash equivalents and short-term investments was $7.3 billion. Within the quarter, we reached $1.5 billion of debt and issued $950 million of commercial paper to help fund our acquisition of ZT Systems, which was completed on March 31.
+Now turning to our second quarter 2025 outlook. As a reminder, in April, a new export license requirement was put in place for MI308 shipments to China, the impact of which is included in our guidance. We expect revenue to be approximately $7.4 billion plus or minus $300 million. This includes an estimated $700 million revenue reduction as a result of the new export license requirement. Despite this headwind, the midpoint of our guidance represents 27% year-over-year revenue growth.
+For the full year 2025, we estimate the revenue impact due to the export license requirement to be approximately $1.5 billion. Sequentially, we expect Client & Gaming segment revenue to increase by double-digit percentage, Embedded segment revenue to be flattish, and we expect Data Center segment revenue to decrease due to the exclusion of MI308 revenue. 
+In addition, we expect second quarter non-GAAP gross margin is estimated to be 43%, inclusive of approximately $800 million in charges for inventory and related reserves. Excluding this charge, our non-GAAP gross margin would be approximately 54%; non-GAAP operating expenses to be approximately $2.3 billion, which includes approximately $50 million in OpEx due to the addition of the ZT Systems design team. The financials for the ZT manufacturing business will be reported as discontinued operations starting in the second quarter. 
+We expect net interest and other expenses to be $5 million due to the debt associated with the ZT System transaction; non-GAAP effective tax rate to be 13% and the diluted share count is expected to be approximately 1.64 billion shares, which includes 9 million shares related to the ZT transaction.
+Looking forward, despite ongoing macro and trade policy-related uncertainties, we believe the investments we are making will position us well to address the large growth opportunities ahead as AI expand the use of high-performance computing across all our end markets. 
+In closing, 2025 is off to a strong start as we continue to execute on key strategic and financial goals. We delivered strong top line revenue growth, expanded gross and operating margins and closed the key acquisition of ZT Systems to expand and accelerate our Data Center GPU and the systems road maps. 
+With that, I'll turn it back to Matt for the Q&A session.
+
+Executives - Vice President of Financial Strategy & Investor Relations
+Thank you very much, Jean. John, can you go ahead and pool the callers for the Q&A session, please?
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] And the first question comes from the line of Joshua Buchalter with TD Cowen.
+
+Question
+Analysts - Managing Director
+Congrats on the results. I was hoping you can maybe expand on the drivers of upside in both the print and in particular, the guide. How should we think about 2Q growth by segment? And wanted to double-click on Client in particular. That business is up 67% year-over-year in the first quarter, and there's obviously a lot of concerns on pull-in. So I was hoping you could walk through some of the drivers of the strength in Client in particular and how you're thinking about that in 2Q.
+
+Answer
+Executives - Chair, President & CEO
+Okay. Great, Josh. Thanks for the question. Look, we were very pleased with our performance in Q1. We actually saw strength across a number of our businesses. We saw strength certainly in the Client business, very strong desktop performance. We saw strength in our gaming business as well, which was really due to our strong Radeon launch. And we also saw some strength in our Data Center business across both stronger CPU and GPU. So those are some of the drivers for our Q1 performance.
+And in particular, on your question of Client performance, we've certainly looked very carefully at the ordering patterns and what customers are telling us. We have not seen a lot of tariff-related activity in that business. I would say, though, what we have seen is a real stronger mix and strength in our overall ASPs. So the desktop channel, which is an area where we have a very strong gaming products right now, actually performed well above seasonality in Q1, and that is really the strength of the ASPs there. So that's what we saw in Q1.
+And then to your question about the guide for Q2, as Jean mentioned, we do have the new export control limitation on MI308. So we have taken out that revenue, which is a $700 million headwind in Q2. But with that, we have a strong outlook given the strength across the rest of our businesses. So we continue to see strength in Client going into the second quarter. Again, the desktop business continues to perform above typical seasonality. We're also seeing the beginning of the commercial ramp, which is a place where we have traditionally been quite underrepresented.
+We see continued strength in Gaming, I would say, much better than typical seasonality. That is really our AIB business, with the Radeon products ramping. As well as consoles have now drained all of their inventory, and so they are starting their ramp into the year. And from a Data Center side, we see sequential growth on the CPU side. We see the GPU right on track minus the China export controls. And so for all of those reasons, we're pleased with where the performance of the business is right now.
+
+Executives - Executive VP, CFO & Treasurer
+Yes. I'll just add 1 point to what Lisa just said on the Client business. We had really strong performance in Q1. Sequentially, Client revenue is largely flattish versus Q4. When you look behind it, our units actually declined double digit. So the revenue flattish is largely driven by the ASP increase sequentially due to the richer mix Lisa just mentioned.
+
+Question
+Analysts - Managing Director
+To follow up, I wanted to ask about how the ex China, X308 (sic) [ 308X ] Instinct family performed in the quarter and how you're thinking about the back half of the year. I think you mentioned in the prepared remarks significant double-digit year-over-year. Could you maybe provide some color on how Instinct did in the first quarter, how you're thinking about the first half ahead of the 350 ramp next month?
+
+Answer
+Executives - Chair, President & CEO
+Sure. So on the Instinct ramp, I would say Q1 performance of Data Center GPU was in line with maybe a little bit better than expected. I think the key point that we've always said about the Instinct ramp is very excited about the MI350 launch. We're right on track for that launching midyear. I would say customer interest has been very high. So from a competitiveness standpoint, we feel really good about where it's positioned. Overall, I think one of the advantages that we have with the MI350 launch is that, from a systems overall environment, it's actually very similar to the MI300. So we believe it's going to ramp fast. And we already have a couple of deals that have been announced, including a very important relationship with Oracle in terms of the MI350 series for a number of joint customers.
+So we're excited about the overall AI business. I think we continue to see strength there. I know there are some uncertainties as it relates to tariffs and other things. But this is one of those areas where, from an infrastructure standpoint, there continues to be investment in AI infrastructure. And so with that, we would expect strong growth into the second half of the year.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Timothy Arcuri with UBS.
+
+Question
+Analysts - MD and Head of Semiconductors & Semiconductor Equipment
+Lisa, you said that Data Center GPU grew significant double digit, but it was like $600 million last March. So I would think that -- I mean, I think a lot of us thought it was going to be like $1.7 billion to $1.75 billion. Is that the wrong way to sort of interpret that because it seems like it more than -- it went up triple digits at least? So can you help us there? And also, I'm curious, the additional $100 million that sort of has to come out from the ban, does that all come out in September? Or is there some remnants to have to come out in the fourth quarter as well?
+
+Answer
+Executives - Chair, President & CEO
+Yes. So again, what I would say is the Data Center GPU business did perform very well in the first quarter. I think we have to go back and look at what you had for first quarter 2024. But overall standpoint, it performed right where we would expect. Relative to your conversation as to where does it come out, I would say the vast majority already comes out in the September quarter. So think about -- Jean mentioned $1.5 billion. You would see the majority of it in Q2 and Q3 with very little in Q4. So we had always expected that the fourth quarter, because it would be very focused on the MI350 family, would be non-China revenue, and that's how it was planned.
+
+Question
+Analysts - MD and Head of Semiconductors & Semiconductor Equipment
+Got it. And then, Jean, just on the inventory, it was up a lot. Is that just due to ZT? Or is there something else happening there?
+
+Answer
+Executives - Executive VP, CFO & Treasurer
+Well, on the inventory side, we built some inventory primarily to support very strong client and server ramp and also the second half Data Center GPU ramp. As you probably know, the lead time is really long to build. For the Q3, Q4 ramp, we really need to start the wafers right now. That's why the inventory has increased.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Harlan Sur with JPMorgan.
+
+Question
+Analysts - Executive Director and Head of U.S. Semiconductor & Semiconductor Capital Equipment
+I know there's been a lot of focus in your upcoming MI350 Series, Lisa, but MI400 next year is where you potentially close the competitive gap in a big way, right? You're bringing frontier class model training performance GPU in a rack-scale solution. More and more, the challenges has been standing up these rack-scale platforms, power, cooling, footprint, networking, connectivity, telemetry, et cetera, right, lots of well-telegraphed issues with standing up these rack-scale architectures. So as you've shared your MI400 rack-scale solution architecture with customers, like what is the AMD team doing to potentially address the ease of these deployments with the MI400? And just in general, what's the overall feedback been like on MI400?
+
+Answer
+Executives - Chair, President & CEO
+Yes, Harlan, thank you for the question. I think, look, we're excited about the MI350 Series launch that's coming up, but we are extremely excited as well about the MI400 Series and the road map there. I think we've been very active with customers on our road map. As you know, this is one of those areas where you absolutely have to be planning many quarters in advance for that. One of the primary reasons we acquired ZT Systems was exactly to address this rack-scale architecture. And so from that standpoint, the closing of the ZT acquisition has been very timely. What we're doing right now is, together with our ZT design team as well as our customers' design teams and our own systems design capability, really actively planning what those rack-scale systems are going to look like.
+I would say the MI400 Series enthusiasm from customers is high. And there's a lot of activities that are going on right now to ensure that we do, in fact, learn from some of the, let's call it, some of the challenges that have occurred with some of the recent deployments.
+
+Question
+Analysts - Executive Director and Head of U.S. Semiconductor & Semiconductor Capital Equipment
+And then I continue to be impressed, I mean, 7 consecutive quarters of strong year-over-year growth in your EPYC enterprise and on-prem traction, right? You have high-30s, low-40s type share of the overall server market in enterprise and on-prem. Your share is probably in the sort of low-20% range but significant share momentum. Can you just remind us like what has the AMD team done? What have you put in place, sort of go-to-market wise, to drive the strong tailwind here in what has been a very, very tough market segment to crack?
+
+Answer
+Executives - Chair, President & CEO
+I think there are a couple of things, Harlan. First of all, the strength of the product cannot be undersold, right? At this moment, with 5th Gen EPYC, the overall cloud adoption has been fantastic. And then on the enterprise side, we've really broadened the product portfolio for Turin that includes, let's call it, low core count up through the highest core count and frequency ranges. So that's very helpful.
+But probably the largest impact has been in go-to-market. In the go-to-market space, we have added significant head count and capability to address end users directly. And with the use cases, I think some of the things that we talked about across industries, we're actually learning from each deployment and replicating that across many of the industrial partners. So overall, I think it's been a strong effort on enterprise. And we're really still in the very early stages of that. I would say we're still quite underrepresented in enterprise. But with the platform coverage and the processor coverage, I think we feel good about the opportunities.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Aaron Rakers with Wells Fargo.
+
+Question
+Analysts - MD of IT Hardware & Networking Equipment and Senior Equity Analyst
+Going back to kind of the Data Center business and particularly the GPU business, I think last quarter, you had alluded to the fact that you had expected the Data Center revenue to be roughly flat in the first half of the year. I guess if we were to take out the $700 million impact from China, would the expectation still be flat for the year? Is that a fair assumption?
+
+Answer
+Executives - Executive VP, CFO & Treasurer
+Aaron, so you're right. Last time, we did mention the first half Data Center GPU, it's flattish versus second half. The way to think about it, what Lisa mentioned, is the $1.5 billion impact largely will be in Q2 and Q3. And so when you take out $700 million in Q2 and the majority in Q3, that is what impacted in Q2 and Q3. But remember what Lisa mentioned is we do see second half weighted, as we launch MI355, we will see significant ramp. Year-over-year, we see strong double-digit growth of our Data Center business and the GPU business also.
+
+Question
+Analysts - MD of IT Hardware & Networking Equipment and Senior Equity Analyst
+Okay. And then as a quick follow-up, kind of thinking about the gross margin, obviously, this quarter's guidance is reflective of the charge that you're taking. Should we assume that in the back half, with mix attributes to be considered, that you would see a return to that 54-plus percent gross margin in the second half of the year. Is that a fair assessment?
+
+Answer
+Executives - Executive VP, CFO & Treasurer
+Yes, Aaron, thank you for the question. Yes, there are a few puts and takes on the gross margin. If you think about Q2, excluding $800 million charge related to MI308, our gross margin actually is around 54%. So at the company level, right, the mix is less favorable because the Client and the Gaming business is growing sequentially, but we do have a few drivers to drive the gross margin up. First, as I mentioned earlier, if you look at our Client business, the gross margin has been improving because the richer mix of our latest-generation product portfolio, that really helps. And also secondly, within Data Center, when we expand the enterprise market share, we do see gross margin improvement. 
+Of course, in addition, MI308 Data Center GPU gross margin is on the low end for our Data Center GPU margin. So that also helps us overall, when we think about the second half, we actually think the gross margin will improve slightly because Data Center continues to be a very strong growth driver, #1 growth driver, second half versus the first half, which will be partially offset by continued strength on the client and the gaming side. Hope that answers your question.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Thomas O'Malley with Barclays.
+
+Question
+Analysts - Research Analyst
+I just wanted to understand your view on system-based architectures and whether you feel like you have what you need right now. Obviously, UALink 1.0 is coming out. You can use third-party providers to kind of do the interconnect. ZT Systems does do a lot for you in terms of the system architecture. But from the interconnect side, do you think that you need more? Is that something that you're going to do internally, look externally? Just want to understand where you think the portfolio is today and whether you can address system-based architectures with what you have today.
+
+Answer
+Executives - Chair, President & CEO
+Tom, absolutely. I think we feel like we have all the pieces required as well as deep partnerships in the ecosystem. And I consider it a system-level optimization between CPU, GPU networking capability, rack-scale architecture. I think all of those pieces are things that we are investing in. And we're also partnering with others in the industry who are offering these capabilities. I think when we look at the architectures that our customers want, our customers are really asking for one that we have a reference architecture that works but also that we work with them as they want to interchange various pieces. Particularly on the networking side, I think there are a couple of different solutions out there. And we are very much focused on ensuring that we interoperate across the spectrum.
+
+Question
+Analysts - Research Analyst
+Helpful. And then if we look at the full year, I mean, we'll get the units with the filing, but it looks like there's some material share gains here in the first quarter. When you look at the full year, just to level set us on share gains versus market growth, could you maybe talk about what you see the Client business growing at a base level? And then just obviously, it's difficult to kind of predict where share will go. But just any comments on what you're seeing thus far. Is a couple of points of shares kind of what you're seeing in the first quarter as well? We'll get a little more later, but mostly just on the market growth for 2025.
+
+Answer
+Executives - Chair, President & CEO
+Sure, Tom. So if you're asking about share in the Client business, I think that was the conversation, look, we are very pleased with our Client business performance over the last couple of quarters. I think we are seeing unit growth, particularly in desktop, but where we're seeing probably the most growth is overall revenue share. And so we're gaining share in the right places, which is in sort of high-end notebook and commercial as well as in desktop overall. So from that standpoint, that's where we think we're going. 
+As we go through the year, I know there's a good amount of conversation about what happens in the macro and what happens with tariffs and does that change things going forward. We are spending quite a bit of time ensuring that we are aligning with our customers, looking at inventory levels, looking at sort of consumption and overall sell-through. And we believe that we have a good overall inventory position, and there is not, let's call it, a tremendous amount of pull-ins or other things that are coming into play. And we will continue to be very agile in how we look at that going forward.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Vivek Arya with Bank of America Securities.
+
+Question
+Analysts - MD in Equity Research & Senior Semiconductor Analyst
+I had 2 questions as well. On the first one, just near term, Lisa, your GPU sales grew sequentially in Q1? How much was MI308 in that number? And if you look at 2025 overall, do you think GPUs can still grow despite this China headwind that you've mentioned relative to the $5 billion-plus you did last year?
+
+Answer
+Executives - Chair, President & CEO
+Yes, sure, Vivek. So let me answer the second question first. We absolutely believe the Data Center GPU will grow, and we think it will grow strong double digits. We had a plan that was second half weighted, and it still is. Relative to the MI308 situation, it's certainly a headwind, but one which we think is well contained given everything else that we have going on. And relative to the Q1 performance of Data Center GPU, it was down very modestly from Q4, which is what we expected. We did see good overall demand actually in the first quarter driven by MI325. So we had a significant adoption by a large foundational model company, which was very positive there. And as we go forward, we expect that we will continue to broaden both customers as well as workloads within our current customers for the Instinct portfolio.
+
+Executives - Executive VP, CFO & Treasurer
+And Vivek, in Q1, MI325 and MI300 are a majority of our revenue.
+
+Question
+Analysts - MD in Equity Research & Senior Semiconductor Analyst
+Great. And then longer term, Lisa, in the past, you described, I believe, almost a $500 billion or so addressable market for AI accelerators. How much of that roughly is China because that now seems to be somewhat restricted for the U.S. companies? And then also kind of related to that, how should we think about these AI diffusion rules that I think there is an implementation date that is coming up on May 15. I'm curious what you have heard. So just sort of the implication of China restrictions and these AI diffusion rules on thinking about the addressable opportunity for you longer term.
+
+Answer
+Executives - Chair, President & CEO
+Yes, Vivek, I think it's a good question. I think overall, it is a very dynamic market, so you will appreciate that. On the China export controls, I think we always expected that there would be some amount of, let's call it, limitation on sort of leading-edge GPUs going into China. So that was factored in to our TAM expectation when we talked about $500 billion. So I don't think that dramatically changes the TAM.
+But what I will say is, on the AI diffusion side, what we're very actively working with the government, they're thinking through these rules, and it's a very fine balance that we have to have. At the end of the day, when we look at sort of the U.S. AI companies, we have leading-edge technology. We want to ensure that the rest of the world can really use us as the primary platform. So I think it will be important to work through the AI diffusion rules and all of that as we think about longer-term TAM. And we're certainly spending quite a bit of efforts trying to ensure that it's well understood, the importance of the overall ecosystem and having the rest of the world really adopt the U.S. ecosystem given our strength and leadership overall.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of C.J. Muse with Cantor Fitzgerald.
+
+Question
+Analysts - Senior MD & Semiconductor Research Analyst
+I wanted to revisit your assumptions around Client. If you were to just flatline the Q1 actual, you would grow the business about 30%. You're obviously very bullish on taking share. You talked about huge tailwinds from ASPs. But curious, when you put it all together, how should we think about traditional seasonality into the second half, particularly with the potential of some pull-ins here in the first half?
+
+Answer
+Executives - Chair, President & CEO
+Sure, C.J. It's a fair question. Look, we want to be very clear that our Client business performance is primarily driven by the strength of the product portfolio. And it's driven by some of the desktop channel products that traditionally are not so well tracked if you look at sort of the IDCs of the world. We are planning for, let's call it, second half sub-seasonal given that we're off to such a strong start in the first half of the year. And that is what we're putting into our sort of internal planning number. So you wouldn't see necessarily typical seasonality since the first half is better than seasonal.
+That being the case, I think we feel strongly that, from a consumption basis standpoint, we see the data. So when we look at the Q1 performance, it was a very, very strong Q1 in terms of sell-out and consumption for our desktop business. And as we start Q2, we're now 4 weeks into it, we see those patterns continuing. So we're in an upgrade cycle right now. Gaming CPUs are usually repurchased when there are gaming GPUs that come out in new cycles. And I think we're benefiting from that on both the CPU and the GPU side, which is great. I mean, we're very happy with that, and we're ramping up production to ensure that we keep the channel full.
+
+Question
+Analysts - Senior MD & Semiconductor Research Analyst
+Very helpful. And then, I guess looking to next year, can you talk about 400 Series and rack-level solution go-to-market strategy? You talked about kind of trying to obtain partners. Is there a certain number that you're targeting? And then how are you thinking about kind of getting through some of the learning curve challenges of getting the rack-scale working with your OEM partners such that you can deliver that ramp in 2026?
+
+Answer
+Executives - Chair, President & CEO
+Sure, C.J. So I think the right answer is we're getting a very early start, and that's what we have to do so that we maximize the overall learning cycle that is required for rack-scale solutions. We are working very closely with a number of our hyperscale partners today to define those solutions and make sure that we're thinking about all of the various areas that could require work. And we're also working with our OEM partners who also have, let's call it, learned quite a bit over the past couple of months and quarters as other rack-scale solutions have been coming online. So I think we're doing everything to, let's call it, move ahead the learning cycle. And again, we have the benefit of the MI350 Series being a relatively, let's call it, not large lift. And so the focus on the rack-scale stuff is on MI400.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Stacy Rasgon with Bernstein Research.
+
+Question
+Analysts - Senior Analyst
+For the first one, given the China Data Center GPU headwinds in Q2 and Q3, do you think that GPU business actually grows year-over-year in Q2 and Q3, understanding your comments for the full year on it? But do you think given those headwinds in Q2 and Q3, it can actually grow year-over-year?
+
+Answer
+Executives - Chair, President & CEO
+I think your -- let's see. Stacy, the best way to answer that question is, in Q2, it's not going to grow year-over-year just given what we've said about the $700 million coming out of Q2 and how we had previously talked about the evolution. But we do believe that we'll grow year-over-year going forward, in Q3 and Q4 certainly, for us to do the full year with strong double-digit growth.
+
+Question
+Analysts - Senior Analyst
+Okay. So you do think it can grow year-over-year in Q3? Okay. For my second question, I wanted to ask about kind of the trends in Q1. So you said Data Center GPU was down, I guess, modestly in Q1, as expected. But again, if I go back to your sort of double-digit year-over-year comments, I mean, it couldn't have been any more than like $1.4 billion in Q1 for DC GPU, and it feels like it's less than that, which means it would have been down at least 20% sequentially, maybe more, which also implies that the server CPUs in Q1 were up sequentially, which was also well above seasonal, similar to Client. I guess what I'm asking is, are those trends correct? Am I modeling that correct? And I guess, what are the implications in that case of server CPUs actually up well above seasonal in Q1 given this environment?
+
+Answer
+Executives - Executive VP, CFO & Treasurer
+No, I think -- Stacy, this is Jean. I think when you think about the Q1 Data Center performance, it's declined 5% so it's a little bit better from a server perspective because it has declined sequentially. Same thing like Data Center GPU, like Lisa mentioned earlier, it did decline. So I think that is the overall Data Center performance. I think -- I don't know about your model, but that is how we really look at the numbers, how we think about it.
+
+Question and Answer Operator Message
+Operator
+And the next question comes from the line of Ross Seymore with Deutsche Bank.
+
+Question
+Analysts - Managing Director & Semiconductor Analyst
+I'm going to go to the Embedded space. I know it's not the biggest one, but everything else has been addressed pretty detailed. You mentioned the second half getting up to year-over-year growth. It seems like that requires some significant double-digit growth sequentially in both quarters just to get the full half there. What gives you the confidence in that sort of ramp?
+
+Answer
+Executives - Executive VP, CFO & Treasurer
+Yes. Ross, thank you for the question. On the Embedded side, we started to see a gradual recovery. I think there are signs, especially the order pattern, the book-to-bill ratios, we see improving. In like aerospace, defense and also test management side, we see a very visible improvement. In industrial side, the improvement is less so, their inventory still among different customers. But overall, the trend, the demand pattern does improve. I think Q2, we did guide sequentially flattish. And I think we'll start to see Q3, especially Q4, you will see a year-over-year increase, especially in Q4.
+
+Question
+Analysts - Managing Director & Semiconductor Analyst
+And I guess my last question would be on the OpEx side of things. You guided to the number for the second quarter, $2.3 billion. You said there's $50 million from ZT in there. Is that the entirety of the ZT side of things? Or what should we think for kind of full year OpEx or the second half, however you want to discuss it?
+
+Answer
+Executives - Executive VP, CFO & Treasurer
+Yes, Ross, thank you for the question. For the ZT design team, we view it as quarterly, the incremental OpEx is about $50 million. That $2.3 billion include everything from ZT because we closed the transaction on March 31. I think when you look at the overall, our OpEx increase year-over-year, we continue to drive revenue growth to increase more than OpEx. Looking at Q2, at the middle point of our guidance, revenue will be increasing 27%, and we do expect the earnings per share growing much faster than the top line revenue growth. So OpEx side, we'll be very disciplined to continue to manage it.
+
+Question and Answer Operator Message
+Operator
+And the final question comes from the line of Joe Moore with Morgan Stanley.
+
+Question
+Analysts - Executive Director
+One of the things your cloud customers have been talking about is this kind of growth in inference costs, the sort of reasoning models using a lot of inference compute and some tightness. Can you talk about that from AMD's perspective? Are you seeing that in your business? Does that change the focus that you have going forward?
+
+Answer
+Executives - Chair, President & CEO
+Sure, Joe. So I think overall, what we're seeing is that with these new reasoning models, the inferencing is more important. And there's also a move to more distributed inferencing. So I think that plays into our strengths. I think we have demonstrated with MI300 that we are an excellent inference solution, and that holds true for 325 and 350 Series as well. So we continue to see with our memory bandwidth and memory capacity advantages, that's a positive.
+I will say that as we're going into this, the number of workloads that we're seeing overall is expanding. So we're seeing both training and inferencing as important workloads that we're working on and our customers continue to demonstrate. I think the desire that we're seeing probably from a trend standpoint is that there are many models that people are using today. So they're not necessarily using 1 model. They're actually using several different models and the optimizations around that are the things that we're doing with our ROCm software suite.
+
+Question
+Analysts - Executive Director
+Great. And then just an update on your thoughts on competing with custom silicon with ASICs in the AI space. Most of your largest customers also have a custom silicon offering. So will they invest in both AMD and ASICs? And just how do they decide how to apportion that investment?
+
+Answer
+Executives - Chair, President & CEO
+Yes. I mean, Joe, I view them as really two different things. I think one of the primary aspects as we've talked about the $500 billion TAM and the opportunities there, look, we think ASICs have a place. We happen to think GPUs have a larger piece of that because the models are changing so much. And from our standpoint, it's really important to have competitive TCO. And people want choice to get there, especially as inference costs become so important, and we're working on trying to expand the overall inferencing sort of capability out there. So I don't think it's an either/or. I think it's, "Let's get the best solutions out there," and we will certainly believe that we're very competitive in inferencing. And I think we are also becoming a much more sort of solution for training as well.
+
+Question and Answer Operator Message
+Operator
+And ladies and gentlemen, that does conclude the question-and-answer session, and that also concludes today's teleconference. We thank you for your participation. You may disconnect your lines at this time.
+

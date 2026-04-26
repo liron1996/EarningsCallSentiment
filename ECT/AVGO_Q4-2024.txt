@@ -1,0 +1,257 @@
+﻿Broadcom Inc., Q4 2024 Earnings Call, Dec 12, 2024 - 
+
+Presentation Operator Message
+Operator - nan
+Welcome to the Broadcom Inc.'s Fourth Quarter and Fiscal Year 2024 Financial Results Conference Call. At this time, for opening remarks and introductions, I would like to turn the call over Ji Yoo, Head of Investor Relations of Broadcom Inc.
+
+Presenter Speech
+Executives - Director of Investor Relations
+Thank you, Sherry, and good afternoon, everyone. Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; and Charlie Kawwas, President, Semiconductor Solutions Group. 
+Broadcom distributed a press release and financial tables after the market closed, describing our financial performance for the fourth quarter and fiscal year 2024. If you did not receive a copy, you may obtain the information from the Investors section of Broadcom's website at broadcom.com. 
+This conference call is being webcast live and an audio replay of the conference call can be accessed for 1 year through the Investors section of Broadcom's website.  During the prepared comments, Hock and Kirsten will be providing details of our fourth quarter and fiscal year 2024 results, guidance for our first quarter of fiscal year 2025 as well as commentary regarding the business environment. 
+We'll take questions after the end of our prepared comments. Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call.  
+In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release. Comments made during today's call will primarily refer to our non-GAAP financial results.  
+I will now turn the call over to Hock.
+
+Executives - President, CEO & Executive Director
+Thank you, Ji, and thank you, everyone, for joining us today. Well, this has been a transformative year for Broadcom. Our fiscal year 2024 consolidated revenue grew 44% year-over-year to a record $51.6 billion. Now excluding VMware, our revenue grew over 9% organically. So fiscal '24 operating profit, excluding transition costs, grew 42% year-over-year, and we returned a record $22 billion in cash to our shareholders, up 45% year-on-year through dividends, buybacks and eliminations.  
+There were 2 significant drivers of this transformation this year. First, we closed the acquisition of VMware in the early weeks of fiscal '24 and have focused VMware on its technology leadership in data center virtualization. The integration of VMware is largely complete. Revenue is on a growth trajectory, and operating margin reached 70% exiting 2024.  
+We are well on the path to delivering incremental adjusted EBITDA at a level that significantly exceeds the $8.5 billion we communicated when we announced the deal. We're planning to achieve this much earlier than our initial target of 3 years. 
+The second driver in 2024 was AI. Our AI revenue, which came from strength in custom AI accelerators, or XPUs, and networking grew 220% from $3.8 billion in fiscal '23 to $12.2 billion in fiscal '24 and represented 41% of our semiconductor revenue. This drove semiconductor revenue up to a record $30.1 billion during the year.  
+Okay. Now let's move on to the fourth quarter and give you more color. Consolidated net revenue of $14.1 billion was up 51% year-on-year. Excluding VMware, organic growth was 11%. And operating profit of $8.8 billion was up 53% year-on-year. 
+For the details on infrastructure software in Q4, this infrastructure software segment revenue was $5.8 billion, up 196% year-on-year, flat sequentially, even as multiple deals slip over into Q1.  In VMware, we booked $21 million total CPU costs in the quarter versus $19 million a quarter ago. Of these, about 70% represent the VMware Cloud Foundation of this year, the full software stack virtualizing the entire data center. And this translated into annualized booking value, or ABV as we call it, of $2.7 billion for VMware in Q4, up from $2.5 billion in Q3.  
+Since closing the acquisition just over a year ago, we've signed up over 4,500 of our largest 10,000 customers for VCF. VCF enable customers to deploy private cloud environments on-prem as an alternative to running the applications in the public cloud. And in doing all this, we continue to drive down spending in VMware. We brought spending down to $1.2 billion in Q4, down from $1.3 billion in Q3. By reference, VMware spending was averaging over $2.4 billion per quarter prior to the acquisition with operating margin less than 30%.  
+Moving on to Q1 outlook for infrastructure software. We expect Q1 revenue to grow to $6.5 billion, up 11% sequentially and 41% up year-on-year. For VMware, ABV is expected to exceed $3 billion compared to $2.7 billion in the preceding quarter. 
+Turning to semiconductors. Let me give you more details by end markets. Networking. Q4 revenue of $4.5 billion grew 45% year-on-year. AI networking revenue, which represented 76% of networking, grew 158% year-on-year. This was driven by a doubling of our AI XPU shipments to our 3 hyperscale customers and 4x growth in AI connectivity revenue, driven by our Tomahawk and Jericho shipments globally. In Q1, we expect the momentum in AI connectivity to be as strong as more hyperscalers deploy Jericho3-AI in their fabrics.  
+Our next-generation XPUs are in 3 nanometers and will be the first of its kind into market in that process node. We are on track for volume shipments at our hyperscale customers in the second half of fiscal '25. 
+Turning on to server storage. From its bottom 6 months ago, Q4 server storage connectivity revenue has recovered some 20% to $992 million. And in Q4, we expect server storage revenue to continue to grow. 
+Turning to wireless. As we expected, seasonal launch by our North American customer drove Q4 wireless revenue to $2.2 billion, up 30% sequentially. This was up 7% year-on-year because of higher content. We continue to be very engaged with this customer in multiyear road maps across various technologies we have leadership in, including RF, Wi-Fi, Bluetooth, sensing and touch. 
+In Q1, reflecting seasonality, we expect wireless to be down sequentially, but still be flat year-on-year. In Q4, broadband reached bottom at $465 million, down 51% year-on-year. We have seen significant orders across multiple service providers during this quarter. And reflecting this trend, we now expect broadband to show recovery beginning in Q1.  
+Finally, on to industrial, which only represents 1% of the total revenues. Measured on resales, Q4 industrial resales of $173 million declined 27% year-on-year. We only expect a recovery in the second half 2025.  
+Before I sum up and provide you Q1 fiscal '25 guidance, let me outline a longer-term perspective on how we see our semiconductor business evolving over the next 3 years. On the broad portfolio of non-AI semiconductors with its multiple end markets, we saw a cyclical bottom in fiscal '24 at $17.8 billion. We expect a recovery from this level and the industry's historical growth rate of mid-single digits.  
+In sharp contrast, we see our opportunity over the next 3 years in AI as massive. Specific hyperscalers have begun their respective journeys to develop their own custom AI accelerators or XPUs as well as network these XPUs with open and scalable Ethernet connectivity. For each of them, this represents a multiyear, not a quarter-to-quarter journey.  
+As you know, we currently have 3 hyperscale customers, who have developed their own multi-generational AI XPU road map to be deployed at varying rates over the next 3 years. In 2027, we believe each of them plans to deploy 1 million XPU clusters across a single fabric. We expect this to represent an AI revenue serviceable addressable market, or SAM, for XPUs and network in the range of $60 billion to $90 billion in fiscal 2027 alone. We are very well positioned to achieve a leading market share in this opportunity and expect this will drive a strong ramp from our 2024 AI revenue base of $12.2 billion.  Keep in mind though, this will not be a linear ramp. We'll show quarterly variability. 
+To compound this, we have been selected by 2 additional hyperscalers and are in advanced development for their own next-generation AI XPUs. We have line of sight to develop these prospects into revenue-generating customers before 2027 and could, therefore, expand this SAM significantly.  
+So the reality going forward for this company is that the AI semiconductor business will rapidly outgrow the non-AI semiconductor business. Recognizing this, we will now shift to guiding our semiconductor business by AI and non-AI revenue segments.  
+So summarizing Q4. Semiconductor revenue of $8.2 billion grew 12% year-on-year and 13% sequentially. Q4 AI revenue grew a strong 150% year-on-year to $3.7 billion. Non-AI semiconductor revenue declined by 23% year-on-year to $4.5 billion, but still a 10% recovery from the bottom of 6 months ago.  
+Now moving on to our outlook for Q1. We expect semiconductor revenue to grow approximately 10% year-on-year to $8.1 billion. AI demand remains strong and we expect AI revenue to grow 65% year-on-year to $3.8 billion. We expect non-AI semiconductor revenue to be down about mid-teens percent year-on-year. And so in total, summing this all up, we're guiding consolidated Q1 revenue to be approximately $14.6 billion, up 22% year-on-year. And we expect this will drive Q1 adjusted EBITDA to approximately 66% of revenue.  
+With that, let me turn this call over to Kirsten.
+
+Executives - CFO & Chief Accounting Officer
+Thank you, Hock. Let me now provide additional detail on our Q4 financial performance. Consolidated revenue was $14.1 billion for the quarter, up 51% from a year ago. Excluding the contribution from VMware, Q4 revenue increased 11% year-on-year. Gross margins were 76.9% of revenue in the quarter, up 260 basis points from the year ago quarter. R&D was $1.4 billion, and consolidated operating expenses were $2 billion, up year-on-year primarily due to the acquisition and consolidation of VMware.  
+Q4 operating income was $8.8 billion and was up 53% from a year ago, with operating margin at 63% of revenue. Adjusted EBITDA was $9.1 billion or 65% of revenue. This figure excludes $156 million of depreciation. 
+Now a review of the P&L for our 2 segments, starting with semiconductors. Revenue for our semiconductor solutions segment was $8.2 billion and represented 59% of total revenue in the quarter. This was up 12% year-on-year. Gross margins for our semiconductor solutions segment were approximately 67%, down 220 basis points year-on-year, driven primarily by a higher mix of AI XPUs. Operating expenses increased 11% year-on-year to $914 million on increased investment in R&D, resulting in semiconductor operating margins of 56%. 
+Now moving on to infrastructure software. Revenue for infrastructure software was $5.8 billion, up 196% year-on-year primarily due to the contribution of VMware and represented 41% of revenue. Gross margins for infrastructure software were 91% in the quarter. And operating expenses were $1.1 billion in the quarter, resulting in infrastructure software operating margin of 72%. Excluding transition costs, operating margin was 73%.  
+Moving on to cash flow. Free cash flow in the quarter was $5.5 billion and represented 39% of revenues. Excluding cash used for restructuring and integration of $506 million, free cash flows of $6 billion were up 22% year-on-year and represented 43% of revenue. Free cash flow as a percentage of revenue has declined from the same quarter a year ago due to higher cash interest expense from debt related to the VMware acquisition, higher cash taxes due to a higher mix of U.S. taxable income, the continued delay in the reenactment of Section 174, and recent proposed regulations on corporate AMT. We spent $122 million on capital expenditures.  
+Days sales outstanding were 29 days in the fourth quarter compared to 31 days a year ago. We ended the fourth quarter with inventory of $1.8 billion, down 7% sequentially. We continue to remain disciplined on how we manage inventory across the ecosystem. We ended the fourth quarter with $9.3 billion of cash and $69.8 billion of gross principal debt. During the quarter, we replaced $5 billion of floating rate debt with new senior notes. We used cash on hand to pay a mix of senior notes, which came due in Q4, and additional floating rate debt, reducing debt by $2.5 billion.  
+Following these actions, the weighted average coupon rate and years to maturity of our $56 billion in fixed rate debt is 3.7% and 7.6 years, respectively. The weighted average coupon rate and years to maturity of our $14 billion in floating rate debt is 5.9% and 3.2 years, respectively. We expect to repay approximately $495 million of fixed rate senior notes coming due in Q1.  
+Now let me recap our financial performance for fiscal year 2024. Our revenue hit a record $51.6 billion, growing 44% year-on-year, including VMware, and 9% organically, excluding VMware. Semiconductor revenue was $30.1 billion, up 7% year-over-year. Infrastructure software revenue was $21.5 billion, up 181% year-on-year and up 19% year-on-year, excluding VMware.  
+Fiscal 2024 adjusted EBITDA was $31.9 billion and represented 62% of revenue. Free cash flow grew 10% year-on-year to $19.4 billion and up 22% year-on-year to $21.9 billion, excluding restructuring and integration costs. 
+Turning to capital allocation. For fiscal 2024, we spent $22.2 billion, consisting of $9.8 billion in the form of cash dividends and $12.4 billion in share repurchases and eliminations. Aligned with our ability to generate increased cash flows in the preceding year and off of a larger share count base from the acquisition of VMware, we are announcing an increase in our quarterly common stock cash dividend in Q1 fiscal 2025 to $0.59 per share on a split-adjusted basis, an increase of 11% from the prior quarter. We intend to maintain this target quarterly dividend throughout fiscal '25, subject to quarterly board approval.  
+This implies that our fiscal 2025 annual common stock dividend to be a record $2.36 per share on a split-adjusted basis, an increase of 12% year-on-year. I would like to highlight that this represents the 14th consecutive increase in annual dividends since we initiated dividends in fiscal 2011.  
+Now moving on to guidance. From a year-on-year comparable basis, keep in mind that Q1 of fiscal '24 was a 14-week quarter and Q1 of fiscal '25 is a 13-week quarter. As we are now past 1 year following the close of the VMware acquisition, starting in Q1 of fiscal 2025, we will no longer break out VMware revenue and costs on a stand-alone basis. We will continue to report infrastructure software segment revenue and profitability, which includes Brocade Fibre Channel SAN, CA mainframe, enterprise security, and VMware.  
+Our guidance for Q1 is for consolidated revenue of $14.6 billion, with semiconductor revenue of $8.1 billion, up approximately 10% year-on-year, and infrastructure software revenue of $6.5 billion, up 41% year-on-year. We expect Q1 adjusted EBITDA to be a record 66% and Q1 non-GAAP diluted share count to be approximately 4.9 billion shares.  
+For modeling purposes, we expect Q1 consolidated gross margins to be up 100 basis points sequentially on the higher revenue mix of infrastructure software and product mix within semiconductors. Note that consolidated gross margins through the year will be impacted by the revenue mix of infrastructure software and semiconductors and product mix within semiconductors. We expect the non-GAAP tax rate in fiscal year 2025 to be approximately 14.5% as tax deductions related to interest expense are reduced as we pay down and refinance debt under more favorable interest terms. GAAP net income and cash flows in Q1 will be impacted by higher taxes, restructuring and integration-related cash costs due to the VMware acquisition.  
+That concludes my prepared remarks. Operator, please open up the call for questions.
+
+Question and Answer Operator Message
+Operator - nan
+[Operator Instructions]. And our first question will come from the line of Blayne Curtis with Jefferies.
+
+Question
+Analysts - Equity Analyst
+It's kind of a clarification and a question. I thought I heard you say that AI networking revenue was 76% of networking. I just couldn't get that math right, but maybe the broader question is you've seen growth off that low point in April in AI. Can you just talk about ASIC strength versus networking, the trends you're seeing in kind of October into January?
+
+Answer
+Executives - President, CEO & Executive Director
+Well, that's a very interesting question. Both were growing, not at the same rate, but we've been shipping, I believe, a lot more of network AI connectivity, networking components in the back half of this year, compared to the first half of this fiscal year. And we suspect a lot of that will continue in the first half of next fiscal year before more XPUs next year. As I indicated, more of the new generation of 3-nanometer XPUs will start ramping very much in the back half of '25.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of C.J. Muse with Cantor Fitzgerald.
+
+Question
+Analysts - Senior MD & Semiconductor Research Analyst
+I guess, Hock, I wanted to hit on the $60 billion to $90 billion revenue range for fiscal '27 for AI. I was hoping you could speak to the mix you see there between XPU and networking. And within that construct, are you including all kind of the customers that you see out there in hyperscale and vertically integrated consumers? Or any sort of help in terms of what you're including in that potential mix would be very helpful.
+
+Answer
+Executives - President, CEO & Executive Director
+Thank you. Well, thanks for the question. Give me an opportunity here to clarify and be very specific. First, on the total dollars, this not revenue, by the way. It's the revenue opportunity for us. It's what I call a serviceable addressable market, as we all term SAM. Not TAM, SAM. And it's serviceable addressable market for 3 of our hyperscale customers. That's it. 
+It's a very narrow serviceable addressable market we're talking about. And we're talking about XPUs and AI connectivity. At that scale, AI connectivity could probably estimate to run approximately close to 15% to 20% of the dollar content.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Joe Moore with Morgan Stanley.
+
+Question
+Analysts - Executive Director
+I wonder if you could talk to the XPU market. How are your customers sort of reacting to some of the rack scale products from your -- the merchant competitor from NVIDIA? How do they sort of get the connectivity to multiple XPUs inside the rack? Just how does that present a competitive dynamic for you?
+
+Answer
+Executives - President, CEO & Executive Director
+Well, everybody is trying to figure out when you start -- when you connect a cluster on a single fabric of 10,000 XPUs or GPUs, say GPU, and scale it up to 100,000 and on to 500,000 and 1 million, it's a whole new game in terms of architecture. 
+And so you guys hear the differences of when you do these racks, you have what you call scale out. And then you have joining rack to rack because you have no choice. You can't get to 1 million or for that matter 100,000 otherwise. You call it scale out. And that's a continuing evolving architecture. But I think each of these hyperscale customers of ours have, at this point, kind of figured out how to get there. Hence, a road map that will keep growing from 100,000 to 1 million XPU cluster on pretty much similar architecture basis over the next 3, 4 years.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Harlan Sur with JPMorgan.
+
+Question
+Analysts - Executive Director and Head of U.S. Semiconductor & Semiconductor Capital Equipment
+Hock, I know the team has been putting out an AI guide for fiscal '25. And I appreciate the multiyear sort of SAM opportunity outlook. But for this year, can we look at what your customers on the networking and custom accelerators are thinking about from a data center CapEx spending perspective? 
+So for example, our latest roll up is that the top 4 cloud and hyperscalers are going to grow their CapEx 35%, 40% in fiscal '25. I would expect that your AI business would sort of closely mirror this trend, maybe even think about it as a base case when we think about Ethernet taking share from InfiniBand, ASICs growing faster than merchant GPUs. Maybe the profile of your AI business can go even faster than the CapEx trend. Either way, plus or minus, is that how we should think about the growth in the AI business? Roughly in line with CapEx growth trends of your large cloud and hyperscale customers?
+
+Answer
+Executives - President, CEO & Executive Director
+Harlan, no, it doesn't. I mean I think the hyperscalers tend to give you an overall CapEx numbers. I'm not sure they really break out between what's AI and what's non-AI out there. And clearly, the spend in AI outstrips the spend in non-AI even on the CapEx. And so no, I won't necessarily stop at that.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Stacy Rasgon with Bernstein.
+
+Question
+Analysts - Senior Analyst
+I have a more tactical question. So you have software pushouts into Q1, which is elevating it. Should we think about that -- those pushouts start rolling off as we get into Q2 and the back half of the year? And like what are the implications on the shape of software for the year as well as gross margins? 
+Because I guess maybe in the back half, you'll have like software a little weaker versus Q2 as well as the XPU stronger. So should we be thinking about the gross margin trajectory of the current elevated base kind of like easing as we get in the back half? So just anything you can tell us around the shape of the software around the pushouts and implications for revenues and gross margins.
+
+Answer
+Executives - President, CEO & Executive Director
+Well, number one, it's a slip. And I think you're overthinking this whole project. It's just a slip, pick it up, and you see the differences between Q4 growth and Q1 re-acceleration. That's all it is. One...
+
+Question
+Analysts - Senior Analyst
+I'm asking, should Q2 be lower because you had pushout into Q1 is what I'm asking.
+
+Answer
+Executives - President, CEO & Executive Director
+No, it doesn't. Not Q2, no. I don't -- it won't have a material impact on the rest of the fiscal '25.
+
+Question
+Analysts - Senior Analyst
+Do you think software can kind of hold at these levels or even grow off of these like $6.5 billion levels as we go through the year?
+
+Answer
+Executives - President, CEO & Executive Director
+I'm not giving you guidance. I might remind you for the rest of the year. I'm just giving you guidance for Q1, but I'm just telling you your analysis is kind of defective.
+
+Question and Answer Operator Message
+Operator - nan
+And one moment for our next question. And that will come from Benjamin Reitzes with Melius.
+
+Question
+Analysts - Partner & Head of Technology Research
+Nice quarter there, Hock. I wanted to ask you about the $60 billion to $90 billion with a little more clarity. Previously, you've talked about a cumulative TAM from your customers. So -- and that -- is this a run rate TAM or a cumulative TAM? Kind of meaning, do we take the $12.2 billion then add some growth for the next 2 years, and then think of it that way? Or do we think of -- we take a share of like a $75 billion TAM and what your revenue yield is? 
+And then I just also was hoping you could clarify. You're not including those 2 new customers. Do those 2 customers have the same $20 billion to $30 billion TAM each that the current 3 do? Or do you think they're smaller or bigger? Sorry about the multipart question there.
+
+Answer
+Executives - President, CEO & Executive Director
+No. I think you asked -- the first part was very similar to an earlier question, but I'd be pleased to clarify. No, the $60 billion to $90 billion, it's not -- we are not talking cumulative SAM or TAM anymore. We are putting for you a destination, so to speak, a milestone, which happens to be 3 years hence, 2027, possibly slip a bit part of '28, but 2027. We are seeing a destination 2027 or a milestone, the other one, where the deployment of those large-scale AI clusters, each on single fabric pretty much to run those large LLM models, will come to $60 billion to $90 billion in the 1-year period. And collectively, all 3 of them.
+And to answer the second part too, possibly, yes, at least one of them, we believe, yes. But you know what, I don't want you adding 1 plus 1 equals 2 here. Those are not validated in our view under our model as customers. So please don't do your addition to the $60 billion to $90 billion SAM that I have postulated in my remarks.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Ross Seymore with Deutsche Bank.
+
+Question
+Analysts - Managing Director & Semiconductor Analyst
+I want to talk about the cash return side of things. Great job on the dividend increase. The other 50%, is fiscal '25 a year where you're going to still be paying down debt? Share repurchases in the mix? Or Hock, you mentioned that VMware, the integration is largely now behind you. Usually, that puts you on the prowl looking for deals. 
+Is that something we should, in general, think about? Or is there regulatory issues that are still a concern? Just trying to figure out what that other 50% is going to go towards this year.
+
+Answer
+Executives - President, CEO & Executive Director
+Well, to start with, yes, the other 50% of cash that is -- will be generated that we will not use, that is beyond dividends. We only one use for it -- 2 uses for it, we've always said. One is parking on balance sheet for the opportunity to buy someone else. But in reality, we're buying big enough companies, you almost say that 50% cash is sitting there is not adequate. 
+So the likely use of that 50% cash is, as Kirsten indicated in her prepared remarks, pay down debt. We do intend to use part of that 50% free cash flow that's not used for dividends to go de-lever ourselves, given the size of the debt load we are taking on or we have taken on since we acquired VMware.
+
+Executives - CFO & Chief Accounting Officer
+Yes, Ross. It's Kirsten. We want to focus on reducing interest expense, so we'll go after those term loans. So yes, the focus will be on paying down debt.
+
+Question and Answer Operator Message
+Operator - nan
+And one moment for our next question. That will come from the line of Vivek Arya with Bank of America.
+
+Question
+Analysts - MD in Equity Research & Senior Semiconductor Analyst
+Hock, back to AI. What do you think is the SAM in 2024, so we can get a baseline view of what your $12.2 billion in sales represent? And is your assumption that you maintain the share, right? You grow it? Or what happens to that share over time? 
+And then sort of related question to that is what happens to your semiconductor gross margins if AI grows, right, to such an extent? Because you gave us a mid-single digit for non-AI. And I'm wondering, if AI gets to be such a big part of semis, what happens to gross margin? So both kind of the baseline of what the SAM was this year and what happens to your share and margins over time?
+
+Answer
+Executives - President, CEO & Executive Director
+Okay. That's a very insightful question on the first one, which -- on the first one, anyway, where we are saying what is the baseline on the $60 billion to $90 billion in 3 years' time, where we are specifying down to these 3 customers of ours. And I would estimate this 2024 for that to be about less than $20 billion -- $15 billion to $20 billion at this point. In 2024, $15 billion to $20 billion, going to $60 billion to $90 billion, right?
+And in terms of margins, well, don't get too hung up about gross margin please, Vivek, because you're not wrong. Gross margin in semiconductors will dilute, you're [ correct ] in saying that. But see, the game here is the revenue will leverage so much on the spending we have to do to generate it that the operating margin will improve from where we are today.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Harsh Kumar with Piper Sandler.
+
+Question
+Analysts - Former MD & Senior Research Analyst
+Yes. First of all, guys, huge congratulations on successfully integrating VMware so much ahead of your time frame. And Hock, I had a 2-part question. Is there a simple dollar metric that we can think of for network attach to XPUs? For example, is $1 of networking to $1 of XPUs?
+And then for my question, in one of your posts, you talked about sovereign data centers and VMware. I guess my question is, is there a play for Broadcom outside of the software piece? In other words, are you noticing that sovereign guys are wanting to use XPUs? Or are they strictly sticking to merchant silicon?
+
+Answer
+Executives - President, CEO & Executive Director
+Let me answer your question backwards, the easiest one first. Sovereign guys are like most of the other -- it's pretty much like enterprise market, which is simply merchant. Sovereign guys do not have the capability necessarily to create first, the hardware, but more importantly, the software stack to enable transistors in the hardware to translate itself into high-level language, which then the LLM, the large language models, and AI applications can operate on. So they'll stick to what's available, which is merchant silicon and the available ecosystem of software layers that allow that translation. So it will be done very much that way on XPUs. 
+And on your first question of what's the ratio between AI connectivity, networking, that is you're saying, to XPUs, the compute, well, it's a changing number as the cluster expands, though there are some ratios to be looked at. And the simple ratio to look at is there is scale up and there is scale out. And as we expand into a single fabric cluster of XPUs or GPUs that grows bigger and bigger, guess what is more important? Scale up becomes more important. And the ratio we are talking about as we move up increases almost exponentially, which is why I'm saying from probably networking as a percent of AI content in silicon today of between 5% to 10%, you're going up to 15% to 20% by the time you hit 500,000 to 1 million XPU GPU clusters.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Toshiya Hari with Goldman Sachs.
+
+Question
+Analysts - Former Managing Director
+The $60 billion to $90 billion SAM forecast for fiscal '27, Hock, I'm curious if you guys have a view on the TAM. So just want to know how big the SAM is as a percentage of the total opportunity set.
+And then my main question is you talked about going for leading market share within your SAM, which makes sense. I assume you're not assuming 100% share. So the value of that $60 billion to $90 billion that you won't be capturing, is that a function of some of your hyperscale customers wanting to capture value internally? Or is that always having a backup or a second source? Is there a low-margin business that you just simply won't pursue? How should we think about the part of the $60 billion to $90 billion that you won't be going after or won't be capturing?
+
+Answer
+Executives - President, CEO & Executive Director
+Okay. First, to answer the bigger overarching question, I don't know the TAM. I don't make any parts of the 2 -- I don't think too far and hard about them. We don't think in macro approaches. We're looking at line of sight here. So I got customers, I try to figure out how much volume the -- where the road map of the customer is, not just product, technology, but what they are building out, what is their consumption pattern like. That's how we create our SAM. Actually, in a way, bottoms up, then top down. So I have no idea what the TAM is beyond customers we are serving closely, collaborating closely. So let's make it clear. 
+In terms of market share, I don't know. But as you all can see, it's a very large, substantial market opportunity. There's room for many players. All we're going to do is gain our fair share. We're just very well positioned today having the best technology, very relevant in this space. We have, by far, one of the best technology -- combination technology out there to do XPUs and to connect those XPUs. 
+The silicon technology that enables it, we have it here in Broadcom by the boatloads, which is why we are very well positioned with these 3 customers of ours. So we -- based on that, we are -- and based on the depth of our engagement today, this didn't just start. This has been going on now for a while in terms of deep engagement with engineering teams from the other side -- each of the other side. We are very well positioned, well underway to creating a multiyear road map for -- to enable these few customers of ours to get to where their ambition leads them to be in. And it's because of the great technology we have, where we are actually enabling in the areas we're very good at. We're talking about silicon design, packaging design and optical technology.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of William Stein with Truist Securities.
+
+Question
+Analysts - Managing Director & Senior Analyst
+I want to add my congrats to all the great results this year and for the quarter and outlook. But Hock, this is sort of a stunning turn of events in the last year with what we've been accustomed to thinking of as a sort of mature, slow growth business at its core, with all the M&A tacked on to it. And I wonder, with the sudden acceleration of the organic business given your exposure to these capabilities in ASICs to bring AI technologies to customers, does that change your interest level in M&A? And does it change your focus area of potential M&A going forward?
+
+Answer
+Executives - President, CEO & Executive Director
+No, it doesn't. We are open, still open, always open because that's been a core part of our strategy and business model of this company for the last 10 years, which is we're always interested in adding to our portfolio very good franchise assets, be they in semiconductors or be they in infrastructure software. As long as, as we always say, they meet the criteria, the fairly demanding criteria we look for, we would always be open to acquiring these assets and adding into our portfolio. So no, it hasn't changed our thinking at all.
+
+Question and Answer Operator Message
+Operator - nan
+One moment for our next question. And that will come from the line of Vijay Rakesh with Mizuho.
+
+Question
+Analysts - MD of Americas Research & Senior Semiconductor Analyst
+Hock, great results here. Just a question back on the AI custom silicon side. I guess it looks like of the $17.5 billion TAM here -- or SAM here, you have about 70% share. So assuming that 70% looking out to '27, your custom silicon AI revenues should be like $50 billion in fiscal '27. So are we -- do we have a good line of sight into fiscal '26, showing a pretty nice ramp to hit those numbers, maybe with Ultra Ethernet and all that to do the 1 million XPUs? How do you see that?
+
+Answer
+Executives - President, CEO & Executive Director
+I don't know. We don't have really a good enough line of sight to want to share it with you nor, for that matter, do we have a policy of giving you guidance beyond what we're doing, 1 quarter a year. But we do want to give you a sense of where this journey is headed. We want to give you a sense of where this could lead us, this company, in terms of its AI -- semiconductor AI revenue trajectory. 
+Given that we now made it very open, official almost, that we are going forward only are guiding AI revenue versus non-AI revenue, we figured at least give you a sense of what the AI trajectory is. On the non-AI, we have known it. You have known it with us for a long time. It's mature, it's stable, evolving, growing mid-single-digit GDP plus. 
+AI, we've never given you that. So that's why we take this step now, unprecedented in some ways, of laying that road map in terms of potential market for AI. 
+Now only market we have is the customers we have and the end markets we serve. So we create this SAM and we -- the clarity we see is, to some extent, in 2027. How that journey progresses with each of our customers is somewhat variable. It's the rate of the adoption and how -- of their own XPUs, and we'll be very much a part of their journey. But because of that, we expect to see a situation where there could be quarter-to-quarter variability, given there are only 3 customers and the fact that deployment comes in big chunks, typically. So my best answer to you is I can't give you any clarity beyond what I've given so far.
+
+Question
+Analysts - MD of Americas Research & Senior Semiconductor Analyst
+Got it. And the other 2 CSPs, when do you see them ramping?
+
+Answer
+Executives - President, CEO & Executive Director
+Well, first of all, I got to get into production. They got to get into production. So why don't we cross that bridge when we get to it? We are working very hard with them to get it production stage. We're pretty deeply engaged. We have tape-out chips. And -- but they got to get their software ready, they got to get it tested, and they got to get going on it. So now, I'm not sure. But definitely, over the next 3 years.
+
+Question and Answer Operator Message
+Operator - nan
+And thank you. That is all the time we have for our question-and-answer session. I would now like to turn the call back over to Ji Yoo, Head of Investor Relations, for closing remarks.
+
+Answer
+Executives - Director of Investor Relations
+Thank you, Sherry. Broadcom currently plans to report its earnings for the first quarter of fiscal year 2025 after close of market on Thursday, March 6, 2024. A public webcast of Broadcom's earnings conference call will follow at 2:00 p.m. Pacific Time. That will conclude our earnings call today. Thank you all for joining. Operator, you may end the call.
+
+Question and Answer Operator Message
+Operator - nan
+This concludes today's program. Thank you all for participating. You may now disconnect.
+

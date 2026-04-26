@@ -1,0 +1,326 @@
+﻿Fastenal Company, Q4 2023 Earnings Call, Jan 18, 2024 - 
+
+Presentation Operator Message
+Operator
+Hello, and welcome to the Fastenal 2023 Annual and Q4 Earnings Results Conference Call. [Operator Instructions] As a reminder, this conference is being recorded. 
+It's now my pleasure to turn the call over to Taylor Ranta of Fastenal Company. Please go ahead, Taylor.
+
+Presenter Speech
+Executives - Financial Reporting & Regulatory Compliance Accountant
+Welcome to the Fastenal Company 2023 Annual and Fourth Quarter Earnings Conference Call. This call will be hosted by Dan Florness, our President and Chief Executive Officer; and Holden Lewis, our Chief Financial Officer. The call will last for up to 1 hour and will start with a general overview of our annual and quarterly results and operations, with the remainder of the time being open for questions and answers. 
+Today's conference call is a proprietary Fastenal presentation and is being recorded by Fastenal. No recording, reproduction, transmission or distribution of today's call is permitted without Fastenal's consent. This call is being audio simulcast on the Internet via the Fastenal Investor Relations homepage, investor.fastenal.com. A replay of the webcast will be available on the website until March 1, 2024, at midnight Central Time. 
+As a reminder, today's conference call may include statements regarding the company's future plans and prospects. These statements are based on our current expectations, and we undertake no duty to update them. 
+It is important to note that the company's actual results may differ materially from those anticipated. Factors that could cause actual results to differ from anticipated results are contained in the company's latest earnings release and periodic filings with the Securities and Exchange Commission, and we encourage you to review those factors carefully. 
+I would now like to turn the call over to Mr. Dan Florness.
+
+Executives - CEO & Director
+Thank you, Taylor, and good morning, everybody, and welcome to the Q4 Fastenal earnings call. 
+I'm going to go right to the foot book, and on Page 3, we have a handful of slides here. So 2023 has seen 2 struggles in our organization. One, since November of 2022, so for 14 consecutive months, we've seen a sub-50 PMI that when you operate very heavily in the industrial space, that's a big deal for you. 
+And there's many benefits as to having Holden part of our organization, and one is his career before joining Fastenal, he has access to -- he's forgotten things about stuff that I don't even know. And so I asked him. I said, "Hey, how often does a period like this happen?" And he said, "Well, back to 1970, it's happened 6x that it's been sub-50 for an extended period of time, most recent being the Great Recession in the '08, '09 time frame. But it's a pretty tough period." And I said, "Okay." And so it's been pretty tough and you could look at that. 
+But the second item, the second struggle is we've executed better. And in 2022, and we put up good numbers. Inflation helped some. The rebounding economy from COVID helped some. The fact that we're pretty good at supply chain, and we were able to find stuff and keep people supplied helped because if you can't get it anywhere else, you come and get it from us. 
+And -- but there was some stuff under the hood that we weren't executing as well as we'd like to see. And we made some leadership changes earlier in the year. And I think we're poised really well as we go into 2024. But those are a couple of things that challenged the year. 
+Despite all that, in the fourth quarter, we grew our daily sales 3.7%. The team did a really nice job managing expenses. We had a few things that -- sometimes you have a few things that go your way. Sometimes, you have a few things that go against you. On par, things were generally favorable, and we grew our EPS 8.5% to $0.46. 
+If I think of our growth initiatives, kind of uneven. We've continued to see nice development in our installed base of on-site locations, maybe not as fast as we'd like. FMI devices, we did a really nice job. And we continued to increase our Digital Footprint that we've talked about in recent years. 
+Operating cash flow was a record at over $1.4 billion of operating cash that we generated, and it was a 52% increase of what we did in 2022. Now on the surface, that's a little bit misleading because 2022, and I'll touch on that in a second, consumed a lot of working capital because we were ensuring a reliable supply chain for our customers. 
+That brings us to the final bullet on the page, and we paid out a fifth dividend. We paid out $0.38 per share here in December. That's the fourth time that we've done a supplemental dividend like that since going public back in the late 1980s. The first time was in December of 2008. The world was in free fall. We had cash available. We looked at that cash as being this is owned by our shareholders. We don't know what needs they have for liquidity. We do know we won't need this in 2009 if the economy is doing what it does because our business is countercyclical. And we knew we'd throw off a lot of cash. And we -- and so we paid out a sizable dividend in December of 2008. 
+December of 2012, there was a lot of uncertainty in the United States. The federal government was having a fight amongst itself about what tax rates should be on dividends. We didn't know if tax rates were going to go up in 2013 and figured we're sitting on a bunch of cash. Let's pay it out to our shareholders, and we don't need it. We'd generate a lot of cash in the future. We'll pay it out and let the folks in Washington D.C. figure things out. It's nice to know that in today's Washington, D.C., things are much more calmer. Sorry for the sarcasm, I'm Midwestern. 
+December of 2020, we pay -- the world was in COVID. We had more cash than we needed, and we paid out a supplemental dividend. This one is different than the other 3. We invested a tremendous amount of cash into inventory in 2021 and 2022, an incredible amount, because supply change became erratic. You can't count -- it was not a reliable time frame of getting containers through ports and getting products. 
+And we're not a sorry company. We don't say to our customers, "Sorry, couldn't get it." We're a supply chain company. And if we feel that it's going to take an extra 40 or 45 days to get a container, we'll add 50 days of inventory, 6 days of inventory. So we consumed a tremendous amount of cash. 
+Fortunately, things have become more stable, and we harvested that cash in 2023. And we'll generate ample cash as we move into '24 and beyond. We didn't need it. We sent it to our shareholders. We feel we have a really conservative balance sheet, and we have plenty of gunpowder for anything that we need to do as we move into 2024. 
+Flipping to Page 4. 58 signings in the fourth quarter of '23. Not a particularly impressive number. Perhaps, the environment came a little bit tougher late in the year for signing Onsite. It's not the strongest of year for many of our customers. Perhaps, we had some district managers that are looking at their expectations for 2024, and maybe some Onsite signings split into 2024. 
+We're up 12.3%. We finished the year with 1,822 locations. Our older Onsites had a pretty tough year. That speaks more, I believe, to the PMI index than anything else. And -- but we still anticipate 375 to 400 signings next year. We think we're poised to do that. We think the energy is behind it, and we think the team is really focused on it. And that speaks back to some of our execution issues I mentioned on the prior page.
+FMI Technology. We had a good year with FMI. We did a nice job of signing. If I look at just below the bullet where we say we signed 24,126 MEUs, you divide that by 253 days, that's 95 per day over the span of the year. 
+One thing we've talked about a number of years ago was building our infrastructure to support signing 100 devices a day, and that was a long way away from what we were doing at the time, but that was kind of the number we had in our head. And I'm pleased to say that the team has essentially gotten there, and it came in at 95 per day for the year. Our intention for next year is to sign 26,000 to 28,000. It's a big number. I believe the team is up to it. 
+e-Commerce continues to grow well. A lot of that, obviously -- we're not growing 28%. So a lot of that is customers are changing how they engage with us, and we're not unique to that. And so I believe e-Commerce as a percentage of our business is about 25% of sales now. If I go back not too many years ago, it was 5% of sales. So it continues to grow. 
+And then finally, our Digital Footprint. That's where we engage electronically with our customer. It might be we deploy FMI. So a vending device, a bin with technology embedded, a mobility scanned bin, whatever it might be, but we engage with our customer, and then we added the e-Commerce on top of that, removed the double coning. And in January of 2020, that was 36% of sales. A year later, it was 38%. A year later, it was 46%. A year later, it was 53%. And now we ended this year at 58%, 59% type of neighborhood. 
+Flipping to Page 5. This is the last time you're going to see this chart. We started it a number of years ago. Back in -- so we have about 3,419 in-market locations. It's up 3.5% from where we were a year ago. Back in 2015, about 9% of our in-market locations were what we call an Onsite. 
+Now an Onsite might be we're physically inside the customer's facility. We are operating in a facility down the street from the customer that's dedicated to that customer. We might be operating a facility that's in the back of a branch because the customer doesn't have enough room for us to put everything in there, and we only put some stuff in there. And we backfill -- our backroom is the back of the branch. But it's where we engage in a discrete business with the customer, and it ramps up our ability to grow. 
+As we really look at this as being not just something that had happened once or twice back in the '90s. And the first one was, frankly, we couldn't find a building to rent in town. And the customer said, "I have some room," and then we moved in. So it was more borne out of necessity. 
+But as we realized this was really a business model that could help us grow, it prompted us to revisit our branch network. And so we peaked out in 2013. At that point in time, we estimated we were within a 30-minute drive of 95% of the manufacturing base in the United States, with our 2,600-or-so stores or branches, and that included our U.S. and Canadian network. 
+But we looked at it and said, if we pulled that back a bit, because some of the business that would be in a branch is going to be an Onsite over time, what would it look like? And we settled on a number of about 1,450. At 1,450 locations, that 95% access to the manufacturing base drops to about 93.5%. And we know if there's customers that are outside that 30-minute window and they're Onsite customers, the fact that our branch is 4 to 5 minutes away doesn't matter. So we saw this as the right density. 
+And I'll use some -- I'm always -- one beauty about being an organic grower of the year is all of our systems are in 1 system. You have access to a tremendous amount of information. And I did look at our oldest 4 states in the company. And if I go back to 2007, in Minnesota, Iowa, Wisconsin and Illinois, we did just under $400 million in revenues. It's about 19% of our sales. 
+We had 236 branch locations in those 4 states. We had 20 Onsites. In the next decade, that business -- those 4 states, we grew -- our CAGR was about 5.7% a year. And as you can appreciate, it's a nicely profitable business. It's above the company average by a few hundred basis points. And about 18% of our revenue was Onsite. 
+Since 2017, we've closed -- since 2013, we've closed a bunch of locations, but we opened a bunch of Onsites. In fact, we've gone from 200 -- we peaked out at 263 branches. Currently, we have 191, so we're down about 30% from our peak. 
+Our Onsite count says over -- is 221, so we have more Onsites than we have branches. In the last -- since 2017, that area has a CAGR of not 5.7%, it has a CAGR of 8.2%. So we took an old, mature, profitable part of the Fastenal business and grew it faster. 
+Today, it's about a $1.1 billion business. It's about 15% of our sales, and about 46% of our sales run through an Onsite. Sorry for taking us down memory lane there, but I thought I'd give a little insight on why we're excited about the rationalization of the branch network and the Onsite and the potential to expand our ability to grow. 
+With that, I'll turn it over to Holden.
+
+Executives - Former Executive VP & CFO
+Great. Thank you, Dan. Good morning, everybody. 
+I'm going to start on Slide 6. Total and daily sales in the fourth quarter of 2023 were up 3.7%. The quarter finished strong, with daily sales in December being up 5.3% and outperforming historical sequential patterns. Much of this strength relates to our warehousing end market, which represents sales into the fulfillment centers of retail-oriented customers. 
+This end market has grown significantly for us since the pandemic, helping to diversify our end market exposure and representing 3% to 4% of sales in 2023. It also grew 45% in the fourth quarter and roughly 60% in December. So strength in this end market was a significant contributor to the performance of our other end markets and our safety products categories in the period.
+Now if you remove warehousing, our sales results continue to reflect sluggish demand. For example, our manufacturing end market continues to grow, but at moderating rates, while our fastener product line experienced contraction in MRO and, for the first time this cycle, OEM products. 
+Trends in these markets and product categories tend to be more reflective of cyclical trends and are being impacted by PMI readings that remain sub-50 and soft industrial production, particularly for key components such as fabricated metals and machinery. 
+This setting is matched by muted feedback from regional leadership. But if conditions didn't get better in the fourth quarter of '23, they didn't get worse either. If we adjust warehousing out of our November and December daily sales rates, then the months would still have been very slightly ahead of normal sequentials. 
+As was the case in the third quarter of 2023, pricing was consistent and positive and within a typical range of 0% to 2%, with modest deflation within our fastener line. With the usual caveat that our forward vision is limited, we are constructive about 2024 with easier comparisons, channel inventories being in good shape and generally favorable customer outlooks from regional leadership. Entering the year, though, business activity remains subdued. 
+Now to Slide 7. Operating margin in the fourth quarter of 2023 was 20.1%, up 50 basis points year-to-year and achieving a 33% incremental margin. We view this as solid execution against the backdrop of soft growth and low seasonal volumes. Gross margin in the fourth quarter of 2023 was 45.5%, up 20 basis points from the year ago period. 
+We had year-over-year margin drag from product and customer mix, though the effect did moderate sequentially. This was offset by slightly higher fastener product margins and freight margins, though the impact of the latter moderated meaningfully from the prior quarter, and we had slightly positive price/cost. 
+Our view of price/cost is unchanged from what we described in the third quarter of 2023. It does not reflect any incremental pricing actions in the most recent quarter, but rather, the recapture of the negative price/cost that we had discussed in the fourth quarter of 2022. Our objective remains to be price/cost neutral over time. 
+SG&A was 25.3% of sales in the fourth quarter of 2023, improved from 25.7% in the year earlier period. This amounts to small improvements in a lot of areas, rather than significant improvement in just one or a few areas. For instance, more favorable comparisons and good expense discipline produced flattish costs and modest leverage around selling-related transportation, information technology and spending on travel, meals and supplies. 
+We experienced modest occupancy leverage as a result of vending devices used in a past lease locker program passing their depreciable lives. These were joined by contributions stemming from improvements in our supplier contribution -- collaboration programs. The Blue Team did a nice job tightening spending over the course of the year as business activity continued to slow. Putting everything together, we reported fourth quarter 2023 EPS of $0.46, up 8.4% from $0.43 in the fourth quarter of 2022. 
+Now turning to Slide 8. We generated $354 million in operating cash in the fourth quarter of 2023 or 133% of net income, and $1.43 billion in operating cash for the full year of 2023. Both dollar amounts represent record operating cash generation that was driven by reduced working capital needs. 
+This produced strong cash balances that allowed us to pay a supplemental fifth dividend in December of 2023, putting cash returned to shareholders through dividends at $1.02 billion for the full year. Even with this, we finished 2023 with a conservatively capitalized balance sheet, with debt being 7.2% of total capital, down from 14.9% of total capital at the end of 2022. 
+Working capital dynamics were similar in the fourth quarter of 2023 to what we experienced throughout the full year. Accounts receivable were up 7.3%, which is primarily a combination of total sales growth and a shift in mix towards larger customers, which tend to have longer terms. 
+Inventories were down 10.3%, owing primarily to the effects of slower customer demand, the unwinding of inventory layers built a year ago to manage supply constraints, our field and hub operations sustainably streamlining inventory processes and modest inventory deflation. 
+Net capital spending in 2023 finished at $161 million, little changed from the $162 million in 2022 and below our forecasted range of $180 million to $190 million. This shortfall has less to do with deliberate project deferrals than it does the slower business activity, reducing the need for certain investments to support immediate growth and timing delays outside our control for certain expenditures. 
+Our net capital spending expectations in 2024 is a range of $225 million to $245 million, which reflects catch-up spending for hub automation and capacity, the substantial completion of an upgraded distribution center in Utah, an increase in FMI spend in anticipation of increased signings and information technology. 
+2023 had its successes. While acknowledging that we didn't hit all our goals, we nonetheless closed the year with a higher installed base of Onsites and FMI devices and a greater proportion of our sales moving through our Digital Footprint. The organization adapted to 1 less selling day and slower growth than originally anticipated, effectively controlling expenses and defending our operating margin. 
+We improved our balance sheet and produced record operating cash, which allowed us to return record capital to our shareholders. Where we fell short of our expectations was in our ability to generate stronger sales growth. However, we are enthusiastic about the leadership changes made to our sales operations in 2023 and, regardless of macro conditions, expect these to lead to improved market share gains in 2024. 
+With that, operator, we'll turn it over to begin Q&A.
+
+Executives - CEO & Director
+Before we start Q&A, there's a few items I thought I'd share from a conversation we had this morning with our senior leadership from throughout the company. And part of it was sharing with them a little bit of a recap of our Board meetings over the last couple of days and some thoughts on the quarter and some thoughts on 2024, and I just thought I'd share. 
+First, some thoughts on the P&L., and Holden touched on some of these, but I thought I'd present it maybe in the way we talked about it with our own team internally. First one was when I think of 2023 and then going into 2024, so this is the last year that we've had -- that we'll have some branch closings. 
+Branch closings do 2 things for us. They do free up a little bit of occupancy. What we've found over time is, typically, when we're consolidating 2 locations into 1, some of that occupancy savings is spent on maybe a larger location for the 2 locations because the business doesn't fit. Or as we've seen in the last -- during the COVID period, a lot of buildings that we operated in became really attractive buildings for a lot of local distribution points for a lot of e-commerce. So there was some competition for the space, and competition doesn't make it cheaper. 
+But with that said, there's -- we've benefited from some occupancy savings there. Those benefits are going to be behind us, and we need to be thoughtful about that as we enter in 2024. 
+There's a flip side of that coin. Consolidating 2 locations in 1 is a heck of a lot of work, and it's a big distraction to the business, to our customers. And that distraction of our own selling energy, our own local energy is now behind us. And the challenge we put in front of everybody is to make sure that's translated into selling activity to grow the darn business. 
+The second, we had the benefit in 2023 of some lower bonus payouts, benefit to the P&L, not a benefit to the recipients. But 2022 was a really good year for us, and a lot of our folks are incented off of simple growth in earnings. And we grew earnings tremendously in 2022. With that falling off as we went into 2023, that contracted the bonuses. We won't -- we don't anticipate having that benefit in 2024 because we don't anticipate the P&L doing what it did in 2023. And that means we need to be really dialed in on everything else we do, so that can re-expand. 
+The final piece, and Holden touched on it, some vending depreciation. We had a runoff and then benefited the fourth quarter. The beauty of that is it will also benefit the first quarter and the second quarter and the third quarter until we anniversary that. So that will give us some benefit in 2024. 
+The next one was a challenge to everybody on that call. Whether you're in sales or not is our focus has to be on everything we're doing. It's helping our branch and Onsite locations hit their goal. In fact, I had to laugh after -- certainly after the call, and I suspect I need to thank John Soderberg for this. But out on the printer, there's a sign, "Help our branch and Onsites hit their sales goals in 2024." Thanks for that, John.
+And -- but that's where our head is at. We didn't feel good about 2023, and the best way to feel better about it, it may grow a little faster. The -- my compliments to our team that worked on ESG. A few years ago, we were probably a little bit slower to it, primarily because our operating style, frugality is naturally conserving. And as we stepped into the ESG world, what we really learned is we needed to do a better job telling our story. 
+And I've been pleased to say that while we've maybe formalized up some of our public-facing policies and things like that, most of the efforts we put into it is understanding what we do. It's a lot of work quantifying some things that we do, but really telling a better story. 
+And here in January, I'm pleased to say, for those of you who are familiar with EcoVadis, that's a rating agency per se for ESG. We had a bronze in the past. Here in January, we were upgraded. We now hold a silver in EcoVadis. I'm not aware of any other North American distribution businesses that have silvers. Perhaps, there are some. I'm not aware of any. So my compliments to the team for doing a great job telling our story. 
+Finally, earlier this week, I had an opportunity to tour our shop, and I say an opportunity. I've done it before. Tim Borkowski has led a big piece of our manufacturing for 29 years. He retired this week. And Tim is famous for giving you a 20-minute tour, but taking 60 minutes to do it because he loves what he does. He loves to explain it. He loves to describe it. Must be an engineering background thing. 
+But I had a really nice visit with him with a handful of us that are touring it. And one challenge I put out to our regional leadership today is I said, during COVID, we wore them out with virtual tours. And that's kind of gone radio silent in the last 2 years. 
+And I said to the group, I said, "When customers see our capabilities, it sells itself." We have 1,822 Onsites. We plan to sign close to 400 in the next 12 months. Well, I would think there's -- if just the Onsite each did a tour over the 253, 254 days of the year, that's 7 a day. Let's wear them out. And -- because right now, our own internal manufacturing capabilities represents between 9% and 10% of our fastener sales. We're really quite good at it. And when customers see that, that makes us special in their eyes. 
+With that, I'm going to shut up and open it up to Q&A.
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] Our first question today is coming from Michael Hoffman from Stifel.
+
+Question
+Analysts - Former MD & Group Head of Diversified Industrials Research
+So one of the things about looking at data inventories less orders would suggest PMI should be over 50. So when you look at your end markets, can you see pockets where this is starting to validate that thesis?
+
+Answer
+Executives - Former Executive VP & CFO
+For the most part, no. The feedback from the regional leadership has been fairly consistent through much of the year, much of the back half of the year, which is that our customers remain cautious. They remain fairly tight with their spending. 
+I will say that I think that when I asked the leadership about what their customers are saying about 2024, I would say that the forward-looking statements are probably on balance, more optimistic than the current statements. 
+I also suspect that's always true. But the -- if I look at the markets that are sort of shared with me through regional leadership, in general, I don't think there's been much of a change over the past 3 to 6 months.
+
+Question
+Analysts - Former MD & Group Head of Diversified Industrials Research
+Okay. And then you all have consistently talked about sort of price of 0% to 2%. Market share is 5% or better. We've had a little bit of metals inflation at the end of the year. Do we trend to the higher end of that 0% to 2%? And then what is your confidence about 5% or better in market share?
+
+Answer
+Executives - Former Executive VP & CFO
+Yes. In terms of inflation, I mean, we keep track of various steel indices. I would say that sort of the Chinese and Taiwanese industries are probably more relevant to us than, say, the U.S. or European ones are. 
+In general, yes, there's been some wiggle and some movement, but if you take the longer view, that wiggle and movement is kind of within the context of, I think, fairly stable steel pricing over the last 6 to 12 months. So I haven't heard anything suggesting that we believe that steel pricing is a catalyst to incremental price increases going forward. 
+The other thing to remember, Michael, is when you think about the total value of a fastener, only about, I believe, 30% of that is actually in the raw material itself. By the time you sort of wrap on to it the cost of transportation and various other elements of value add...
+
+Executives - CEO & Director
+Processing.
+
+Executives - Former Executive VP & CFO
+Yes, processing, it's just not a huge piece. So I'm not hearing anything to suggest that the environment is moving back to an inflationary one, with possibly one exception. 
+We're -- I think that there's been a lot of global conflict around the Suez Canal. I hear about a lot -- about very little water in the Panama Canal. And we are beginning to see shipping costs start to tick up again. I don't know how durable that will be. I don't know how far that will go. It's not creating any actions today, but that is something that we're watching fairly closely.
+
+Executives - CEO & Director
+One thing that was an interesting update we had this week, our Head of Transportation, we've done a lot of work over the last several years to improve our own ability to track product. 
+So if I'm in a branch, I can pull up a screen now. And if I'm looking for some product, I can look at it and say, "Oh, the truck that's bringing that is in the middle of Nebraska. And it's going to be here in 30 minutes, it could be here in 3 hours. Or it might be on a container." And we've gotten to the point now where we're tracking it, where we're seeing it at the container level. 
+So we can -- so he pulled up the screen the other day and the number of dots you saw on the map that went around the Southern tip of Africa were meaningful. And I didn't see any dots that went through the Suez Canal on the product we were moving. And that just was a snapshot at that point in time in the information.
+
+Executives - Former Executive VP & CFO
+Yes, so something to watch. And then as it relates to market share, this year has been unusual in that we didn't achieve market share at the levels we expect of ourselves. I don't think it reflects a change in our cultural attitude. We think that, ultimately, gaining market share is what we're here to do. 
+Structurally, we still have the tools to be able to do it. And I think we made changes to our approach and our leadership in the past 6 to 8 months, which have us very enthusiastic that we're going to kick that market share machine back up in 2024. So we expect it of ourselves, let me put it that way.
+
+Question and Answer Operator Message
+Operator
+Our next question today is coming from David Manthey from Baird.
+
+Question
+Analysts - Senior Research Analyst
+First question, I did want to ask you about these shipping containers. Clearly, we've seen an uptick. But is that -- is it primarily -- or is it focused on those containers that are coming through the Red Sea or Panama Canal? Or is there any impact that rolls over on those containers coming directly from Asia to California, say? Just thinking about where your main exposures are and how we should think about that if it does extend.
+
+Answer
+Executives - Former Executive VP & CFO
+Yes. I think you may have caught me with a question that's more granular than I studied, to be honest. What I can tell you is we've seen an uptick in recent weeks, a meaningful uptick in the cost of a container. How that looks route by route, I don't know.
+
+Executives - CEO & Director
+Yes. A lot of our products, Dave, does come in through the West Coast. In recent years, as our volumes have grown, we have more containers that would -- we'd bring in to the East Coast, so bringing it into our North Carolina facility, our Atlanta facility because when you're bringing full containers in. But historically, a lot of our product comes into the West Coast.
+
+Executives - Former Executive VP & CFO
+And I think -- this is probably some speculation, but I would say that the disruption moving from China to the West Coast ports is less than things moving the other direction. But if the existing capacity is going to be consumed on trips for a longer period of time, that's going to stress the entire global network, which is going to impact ultimately our cost as well. And that's what we've begun to see. Again, it's very early. We don't know how this plays out, but it's something we're watching.
+
+Question
+Analysts - Senior Research Analyst
+Yes. Fair enough. And then second, on -- via our channel work, we've been hearing about some suppliers cutting the number of distributors they deal with directly. And I'm wondering, have any of your suppliers actively consolidated their distributor partners that you know of?
+
+Answer
+Executives - CEO & Director
+I'm not aware of any, but it wouldn't surprise me. And -- because if you look at where the outgrowth is coming from, it's coming from fewer and fewer. So it wouldn't surprise me, but I'm not aware of any, David.
+
+Executives - Former Executive VP & CFO
+And I would say that over time -- so I can't speak to -- I don't know what period of time you're hearing about. It sounds like it's probably more recent. Over time, you have seen gradual consolidation just in terms of who we spend with and engage with. 
+It's an extensive list, but obviously, you have tiers. And I would say our higher tiers has consolidated slightly over time, and that's by design just as relationships evolve. But I haven't necessarily heard of anything that is a recent and deliberate initiative on the part of a lot of suppliers to consolidate. I haven't heard anything in that regard.
+
+Question and Answer Operator Message
+Operator
+Next question is coming from Chris Dankert from Loop Capital Markets.
+
+Question
+Analysts - Former Senior Vice President
+I guess, Onsite sales growth during the quarter was only slightly ahead of company average rate, which is a notable slowdown versus past performance here. I mean, do you think that's kind of a one-off due to some of the customer plant shutdowns exiting the year? I guess, how much or how little should we really make of that lower Onsite sales growth rate in the quarter?
+
+Answer
+Executives - Former Executive VP & CFO
+Yes. It's relevant. And I think what you're seeing is we've talked about how our signings this year were not at the level that we expected them to be. And I think that at the beginning part of the year, you were benefiting from the signings rolling through earlier that were greater than the year prior to that, which is being affected by the pandemic, right? 
+And so as you get the benefit of those, but then you have -- you layer in another year where your signings are slower, you're going to naturally have that effect roll through.
+So I think in many respects, it feels to me like it has a lot more to do just with the signings cadence, which, again, I think we've suggested we love the fact that our Onsite continues to grow in the mix. We love that the installed base continues to grow, but the signings pace has not been what we expected it to be. And I think what you're seeing is a byproduct to that.
+
+Executives - CEO & Director
+One thing, I think I've shared in prior calls, I have conversations with all of our district managers throughout the course of the year. And one thing that I've seen that's changed is our average DM has the opportunity for about 60 Onsites. 
+And so we're having these conversations. You could tell the ones that were really dialed in and the ones that aren't. The ones that are really dialed in are sitting there with, "Hey, here's my number of potential. Here's what we have, that's hot, that's warm, that's warming." And how good they are at communicating that tells me, "Hey, do they have a plan that you feel comfortable come into the year their pipelines is going to give them a couple of Onsites?" 
+With 240 district managers, if a high percentage have a really good plan to give them a couple of Onsites, maybe some have 3, maybe some have 1. But consistently, a couple of Onsites, you're at your number with cushion and you feel good about what's your pipeline.
+
+Executives - Former Executive VP & CFO
+I might also say that Dan started off his comments talking about how the year was marked by 2 things. One was difficult markets. The other was execution. I think I described the part of it that was the execution. 
+The other thing to think about is if you look at where industrial production has weakened, it's really weakened in sort of the machinery and fabricated metals parts of the industrial production spectrum. And those are areas that are relevant to us as a company, but they're particularly relevant...
+
+Executives - CEO & Director
+Extremely relevant.
+
+Executives - Former Executive VP & CFO
+In that Onsite world. And what we saw in the third -- in the fourth quarter, to give you a sense, is all year, we've had a fairly significant gap between OEM fastener growth and MRO fastener contraction, which is a reflection of the Onsites coming on. 
+In the fourth quarter, that gap narrowed appreciably. And I think what you're also seeing is simply the relative weakness in the machinery and fab metals is having a disproportionate impact on areas that disproportionately impact the Onsites. And so I think, again, it's a combination of market and our own execution.
+
+Question
+Analysts - Former Senior Vice President
+Got it. That's really helpful color. And I guess, maybe just touching on that last point. As those growth drivers impact gross margin, we saw mix was better this quarter. If these current trends hold, I guess, I would assume kind of the same story for '24. I guess, how do you think about the impact of mix on gross margin in this year kind of as you see it today?
+
+Answer
+Executives - Former Executive VP & CFO
+Yes. I think I try to predict what mix will be every year. It's a fairly thankless effort, to be quite honest. But I think I've used like 50 to 70 basis points in the past. I think it will be less than that, and I think it will be less than that for a few reasons. 
+One, we talked about fewer branch closures. If we have fewer branch closures, I think the rate of attrition in our smaller customer set will also slow. So you won't have the same order of magnitude impact from that.
+We have had slower Onsite signings. And again, that ripple effect, I think at least in the earlier part of the year, that's going to put less pressure on the channel mix impact. 
+I would also point out that over the balance of this year, you've had a dramatic difference in growth between fasteners and non-fasteners. And maybe there's a little element of both comparison and market here. But I would wager that next year, that gap is not going to be as wide. And that would relieve some pressure off of the product mix element as well.
+And so I still think mix will be negative. It's just the nature of our growth drivers. But I don't think it will be as negative as that as sort of the normal 50 to 70 that I've talked about in the past. I think it could be narrower than that.
+
+Question and Answer Operator Message
+Operator
+Next question is coming from Ken Newman from KeyBanc Capital Markets.
+
+Question
+Analysts - VP & Equity Research Analyst
+Just wanted to touch on the color on some of the warehousing demand that you saw this quarter. Just curious what really drove that increase. Is that really new customer acquisition? Is it gaining market share with existing customers? I know it's small for you now, but just where do you think that could go in terms of mix longer term?
+
+Answer
+Executives - CEO & Director
+Well, for really about the last 5, 6 years, we made a really concerted effort to go after that business. Because with our vending platform and our strength in the safety area, it's a natural fit for us to be a great partner to that type of customer. And we saw really nice growth in it. 
+And when I think of, like, when COVID hit, that ends in our government business. And our access to safety products were a lifeboat to helping us get through that very successfully because the industrial business was just hammered when we went through that period.
+And so it's become an ever larger piece. If I think about it discretely now, there's a number of things going on. There's -- we had -- I won't attribute it to necessarily customer acquisition. We're always adding locations with those customers because they're growing. 
+And -- but it continues to be deeper penetration, and we had examples where -- some other suppliers couldn't get stuff to them, and we stepped up to the plate and helped, which always helps our position to be a stronger partner and to gain market share with that customer because you rely on people you can rely on.
+And so those things really helped us. And they have a strong business environment themselves, and they're using more products. And we had some examples where there were some products they needed that we were uniquely situated to help them with. Sometimes, it was for the safety of their employees. Sometimes, it was moving some product around. And things just call us really well in the quarter.
+
+Executives - Former Executive VP & CFO
+I would point out maybe a couple of things. One, prior to the pandemic, that warehousing sector was less than 1% of our sales. And so oftentimes, you get asked, like what -- can you show that you actually have improved your business coming out of the pandemic? This is an example of a market where we retained business coming out of the pandemic that we gained because of what we were able to do there. And so again, we think it's -- we love having that customer set involved.
+The other thing I think I would point out, I think I sort of indicated that market was up 60% in December. Christmas doesn't come every month. President's Day doesn't have the same commercial value. I just wouldn't expect that kind of order of magnitude from that customer set as we go forward into 2024 that we experienced over the most recent holiday period.
+
+Question
+Analysts - VP & Equity Research Analyst
+Right. No, that makes sense. That's helpful. Just for my follow-up here. Just looking at the seasonal benchmark for this year, just assuming that '24 follows that seasonal benchmark as a baseline. It does imply quarterly ADS steps up pretty strongly here and, call it, the high single-digit range in the back half. 
+Just outside of the comps and the normal seasonality, I'm just trying to weigh that against maybe the slower Onsites and how that maybe ramps through the year. Is there anything to suggest that sales wouldn't necessarily follow those trends that we should be kind of aware of?
+
+Answer
+Executives - Former Executive VP & CFO
+I'm not getting into the business of predicting January, February and March DSRs. Here's I would tell you. Onsites could have an impact. Does it have an impact in January, specifically? I really don't know, right? 
+I've always said that there's a lot of value, a lot of value and sort of understanding how those trends work. But there's a lot of error variable anytime that you're talking about 20 days of activity and you're trying to apply a lot of meaning to it.
+Onsites, over a multi-month period of time, yes, I think that they may grow a little bit less quickly in the absence of a market improvement because of some of the signings. But I'll tell you, we're also seeing a little bit of an uptick in the sales activity in non-Onsite national accounts. And I think that could also pick up. 
+So there's just a lot of moving pieces that makes it difficult for me to say with any sort of definitiveness that you should expect us to beat or miss those DSR benchmarks.
+
+Executives - CEO & Director
+Probably, the piece that I'd throw out on that, it relates less to the question per se and more to an example. So we had our Board meeting last couple of days. And one thing I ask of all of our leadership team is, hey, be in one of the week of the Board meeting. You spend some time with your teams, with other folks and be here because we participate in the Board meetings in person. 
+We had 1 person that wasn't here because he was sitting at an airport in Nashville, Tennessee, and there was 8 inches of snow. And so he participated remotely, and I was sitting with him this morning, and he's kind of freaked out right now because the winter weather has not been our friend in January. And it's not been our industry's friend. It's not been our customers' friend.
+In fact, I received a picture the other day. It was actually from a supplier in the Memphis area, so a little bit further West from Nashville. And he had a picture of their warehouse, their distribution facility. And their head of sales sent it over to our traffic manager and said, "Every truck that was coming and picking up product today canceled, except for one." And he said, "There was a blue Fastenal semi that was here 15 minutes ago. I'm sorry it wasn't in the picture, but it was great to see you guys still run it."
+And so the weather is hammering the month pretty hard. Well, there's a lot of month left. We'll see how we dig out, no pun intended. But our distribution network is working. That's a beautiful thing, and that truck was there to pick up product.
+
+Question and Answer Operator Message
+Operator
+Next question is coming from Nigel Coe from Wolfe Research.
+
+Question
+Analysts - MD & Senior Research Analyst
+Yes, the weather is not our friend right now, that's for sure. So just going back to the Onsites, and it seems you firmly believe this is more of a cyclical factor. You've called out the networking kind of factor there. 
+Is there anything structural here that we need to consider, maybe some of the e-Com cannibalization? MSM is talking about their in-plant offerings as well. I'm just curious if there's a bit more, I don't know, pockets of structural headwinds here we need to consider.
+
+Answer
+Executives - CEO & Director
+When I think of Onsite, Onsite and e-Com don't even come into play. I could see -- because, really, what the Onsite is about is we're stepping into their shoes and we're operating inside their facility on something that they were probably doing themselves before and didn't really have the expertise or the tools or the visibility into the supply chain that we have to help operate it more effectively, more efficiently. 
+And then we arm that Onsite with all the tools we have in place, whether it be vending machines or technology-embedded bins or areas where we're scanning. It's just a much more efficient way to operate. And that's about logistics as much as it is ordering because, quite frankly, when we were there on Onsite, anything that's gone through FMI, and FMI is a high percentage of Onsite, anything going through FMI, the customers hasn't been really ordering it. 
+And so e-Commerce really isn't the thing there. e-Commerce is probably a bigger thing with smaller customers because oftentimes, smaller customers buy and sometimes the way you and I do. I buy a lot of stuff online.
+The other part it can play into is -- and we saw this really in 2020, a market change in activity in that when all of a sudden, people started working more remotely, you're ordering more things electronically than maybe you were before because we're delivering product in one of the facilities, they might catch us and order some stuff. They might phone us, and people tend to phone less when they're at home. They tend to do more things on the computer. At least that's what we're seeing.
+
+Executives - Former Executive VP & CFO
+And I would say as well, Nigel, I'm not sure I would agree with the underlying premise that there's some competition between Onsites and e-Commerce. I mean, the reality is if we look at our e-Commerce business, if you remember, it's an aggregation of EDI and web sales and a variety of different ways that we engage digitally. Roughly, 50% of our e-Commerce sales are going through Onsites.
+So it winds -- I don't believe that there is a one sort of channel approach by the customer set. I think the customer sets are -- the customers are looking for a range of solutions to solve different issues. And I don't think that they're in conflict.
+
+Executives - CEO & Director
+But a high percentage of that e-Commerce you're talking about is EDI.
+
+Executives - Former Executive VP & CFO
+Yes. Although showing me 35% to 40% of our web is also running through Onsites.
+
+Executives - CEO & Director
+Okay. That's fair, yes.
+
+Question
+Analysts - MD & Senior Research Analyst
+Okay. That's really helpful. And then just on the points that, are you seeing pocket competition on Onsite? Again, one of your biggest public competitors does talk about their in-plant offerings. 
+And just thinking about, Dan, you were very honest about the out growth in '23 fell below your expectations. Do you think that in '24, you'd be back to that sort of 5 points-plus of out growth versus the market?
+
+Answer
+Executives - CEO & Director
+Coming into the year, that would be our expectation. And -- but as far as competition, we have competition in everything we do. There's a lot of companies out there that  we compete with, that are local businesses that do Onsite. 
+What they don't have is maybe some of the tools. And a natural strength to our Onsite model is the fact that we have the branch network because what's really difficult and where a lot of organizations fail on pieces of Onsite, we have a natural density of people.
+So let's say you have an Onsite with 2 employees. Well, let's say employee is out on maternity leave. Let's say employee is out on vacation. Let's say employee, there's turnover. How do you replace that? Well, if you have 50 Fastenal employees that are in this market, it's Omaha, it's up in the Twin Cities, and we have more than 50 in Twin Cities. 
+But if you have employees in this market, you have redundancy to support that Onsite. So we have a natural advantage in that marketplace versus not necessarily a local competitor, but a national competitor because we have a footprint.
+
+Executives - Former Executive VP & CFO
+And maybe the only other thing I would add, this is largely anecdotal, again, I sort of asked the regionals how things are going every month. And they sort of just freewheeling give me answers. And oftentimes, there's comments about our competitors there. Sometimes, it's favorable to us. Sometimes, it's not favorable to us. 
+What I can tell you is I haven't noticed any difference in the cadence of that conversation over the course of this year. So I mean, if part of the question is are you seeing things intensify, I haven't gotten that from the feedback from the field.
+
+Question and Answer Operator Message
+Operator
+Next question is coming from Ryan Merkel from William Blair.
+
+Question
+Analysts - Partner & Co-Group Head of Industrial
+Congrats on a good quarter. So I had 2 questions, and I'll just ask them upfront. The leadership changes, Dan, what changes did you make? And why are you confident that, that will accelerate the share gains? 
+And then second question. Can you clarify the tweak to the business model where -- are the front doors open now on all of the branches? And I think the question I'm getting asked is, could that help sales in '24? Or is it not that impactful?
+
+Answer
+Executives - CEO & Director
+First off, we made a number of changes. We moved some -- within our National Accounts team, we moved some folks around. There are some folks that aren't in roles that they had before. We made some changes in our regional leadership. That was probably -- that wasn't necessarily performance. That was more of a case of just some natural -- we all get older and still some natural changes there.
+I think the fact that we have the U.S. under 1 leader now, over the last 15 years, the East and Western United States have been under dual -- 2 different leaders. And so over time, there's economic reasons why -- how the business changed a little bit, and there's personality reasons why the business changed a little bit. 
+If I were to characterize the Eastern U.S. versus the Western U.S., and I can think back to who's been the leaders of 2 business over time, both incredibly successful businesses. The -- I would say the way they go about being successful is different. 
+If I think of the Western U.S., I think of a business that they were groundbreaking early on in Onsites and -- particularly in the Midwestern part of the Western U.S. because it was a more mature business and we needed to figure out ways to keep growing. And so I think that part of the business is more -- is better at -- you have a large customer, we're better at getting deeper and deeper into our large customer. Earlier, I talked about our manufacturing division. I suspect there's a disproportionate mix of their business in the Western than there is in the Eastern. And I might be wrong on that. That's just me speculating.
+The -- if I think of the Eastern, there's nobody better at [ Hunton ]. Going out and finding new customers and growing their business than our Eastern business unit. And again, it emanates from the leaders that there's been over time. It also emanates from the industrial activity over the time. 
+And as it relates to our business, our front doors are open. And I think -- they weren't closed that long, but -- and they weren't closed everywhere. They were closed in pockets.
+There's a couple of exceptions. There's a couple of states where the rules are pretty onerous. And we've just said, you know what, California has too many requirements, so we just say we're keeping them closed. And there's one other state, I forget what it is offhand. I think it's Louisiana. 
+But we've been operating that way for years in Canada. And it was primarily because as a wholesaler, you just couldn't do retail transactions. So our front doors are open, but we had a much different business. We grow faster in Canada. I hope that answers your question.
+
+Executives - Former Executive VP & CFO
+And I think a couple of pieces of perspective I might add. I mean, Dan touched on it. When we started this process, we had a lot of different experiments in the fields going on, right? Some people closed, other people didn't close. Some people flipped counters, et cetera. Some people stuck with the traditional, the older CSP model. 
+And I think we wanted to come up with a more consistent model. And so having had the opportunity to evaluate all the different things we were doing, we wanted to sort of consolidate under sort of one approach.
+We have a lot of customers in a lot of places that share a company, and we want to make sure that we weren't creating conflict in that regard. So that was part of what went into that. 
+As it relates to the impact on growth, bear in mind that if you're talking about accounts that are smaller accounts, which tends to be what that walk-in is, because when we're talking about our larger customers, we're typically going to their locations. It represents mid-single digits of our total revenue. 
+So do you get some incremental revenue from that? In all likelihood, we will. I wouldn't overstate the overall impact to growth. It could contribute something at the margin, but I wouldn't overstate the potential on that.
+
+Executives - CEO & Director
+Most of our revenue don't even know where our location is.
+
+Executives - Former Executive VP & CFO
+Exactly.
+
+Executives - CEO & Director
+I don't know if there's any other questions in queue. We're at 3 minutes to the hour, so I think I'll call it there. If anybody got cut off -- if anybody was cut off, I apologize for that.
+I just want to close this one thought. I just got back 2 days ago from a week -- 8-day trip. I was over in Shanghai and Ningbo, China. And there's a lot of nascent level, global level wrangling that occurs in society, and I guess that's just the nature of life. I have to say, I was over there. 
+We celebrated 20 years of Fasco, our trading company, and 20 years of our sales organization over there. The people I met were incredible. I've spent a lot of time with our team right in Shanghai. I spent good time with our Fasco team, our handful of district managers, our RVP over there, our Senior VP that covers the European and Asian business. And I went down and visited a branch in South -- down by Suzhou, and I hope I pronounced that correctly.
+And great people and really impressed with what I saw and the dedication they have to what we're about, what our customers are about. And when I think of the -- our branch manager, I met down in Suzhou, what an outstanding young man. And the team he had, really impressive people. And I'm always amazed, their grasp of the English language. It's probably better than my grasp of the English language. 
+With that, thanks for your time today. And everybody have a great rest of day. Thank you.
+
+Question and Answer Operator Message
+Operator
+That does conclude today's teleconference and webcast. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today.
+

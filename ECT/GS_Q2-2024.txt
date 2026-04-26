@@ -1,0 +1,309 @@
+﻿The Goldman Sachs Group, Inc., Q2 2024 Earnings Call, Jul 15, 2024 - 
+
+Presentation Operator Message
+Operator
+Good morning. My name is Katie, and I will be your conference facilitator today. I would like to welcome everyone to the Goldman Sachs Second Quarter 2024 Earnings Conference Call. 
+On behalf of Goldman Sachs, I will begin the call following disclaimer: The earnings presentation can be found on the Investor Relations page of the Goldman Sachs website and contains information on forward-looking statements and non-GAAP measures. This audiocast is copyrighted material of the Goldman Sachs Group, Inc. and may not be duplicated, reproduced or rebroadcast without consent. This call is being recorded today, July 15, 2024.
+I will now turn the call over to Chairman and Chief Executive Officer, David Solomon; and Chief Financial Officer, Denis Coleman. Thank you. Mr. Solomon, you may begin your conference.
+
+Presenter Speech
+Executives - Chairman & CEO
+Thank you, operator, and good morning, everyone. Thank you all for joining us. I want to begin by addressing the horrible act of violence that occurred over the weekend, the attempted assassination of former President Trump. We are grateful that he is safe. I also want to extend my sincere condolences to the families of those who were tragically killed and severely injured. It is a sad moment for our country. There's no place in our politics for violence. I urge people to come together and to treat one another with respect civility, dignity, especially when we disagree. We cannot afford division and distrust to get the better of us.  I truly hope this is a moment that will spur reflection and action that celebrate what unites us as citizens and as a society.
+Turning to our performance. Our second quarter results were solid. We delivered strong year-on-year growth in both Global Banking & Markets and Asset & Wealth Management. I am pleased with our performance where we produced a 10.9% ROE for the second quarter and a 12.8% ROE for the first half of the year. We continue to harness our One Goldman Sachs operating approach to execute on our strategy and serve our clients in dynamic environments.
+Global Banking & Markets, we maintained our long-standing #1 rank in announced and completed M&A and ranked #2 in equity underwriting. Our Investment Banking backlog is up significantly this quarter. From what we're seeing, we are in the early innings of a capital markets and M&A recovery. And while certain transaction volumes are still well below their 10-year averages, we remain very well positioned to benefit from a continued resurgence in activity.
+We saw solid year-over-year revenue growth across both FICC and equities as our global broad and deep franchise remained active in supporting clients' risk intermediation and financing needs. We continue to be focused on maximizing our wallet share, and we have improved our standing to be in the top 3 with 118 of our top 150 clients. In Asset & Wealth Management we're growing more durable management and other fees in private banking and lending revenues, which together were a record $3.2 billion for this quarter.  Our assets under supervision had a record of $2.9 trillion, and total Wealth Management client assets rose to roughly $1.5 trillion. We delivered a 23% margin for the first half of the year and are making progress on improving the return profile of AWM.
+In alternatives, we raised $36 billion year-to-date. We completed a number of notable fund closings during the quarter, including $20 billion of total capital for private credit strategies and approximately $10 billion across real estate investing strategies. Given the stronger-than-anticipated fundraising in the first half of the year, as well as our current pipeline, we expect to exceed $50 billion in alternatives fundraising this year. This is a testament to our investment performance, track record and intense focus on client experience, and we are excited about the additional growth opportunities for our Asset & Wealth Management platform.  
+Let me turn to the operating environment, which remains top of mind for clients, which remains top of mind for clients.  On the one hand, there's a high level of geopolitical instability. Elections across the globe could have significant implications for forward policy and inflation is proving to be stickier than many had anticipated. On the other hand, the environment in the U.S. remains relatively constructive. Markets continue to forecast a soft landing as the expected economic growth trajectory improves and equity markets remain near all-time highs.
+I am particularly encouraged by the ongoing advancements in artificial intelligence. Recently, our Board of Directors spent a week in Silicon Valley where we spoke with the CEOs many of the leading institutions at the cutting edge of technology and AI. We all left with a sense of optimism about the application of AI tools and the accelerating innovation and technology more broadly. The proliferation of AI in the corporate world will bring with it significant demand-related infrastructure and financing needs, which should fuel activity across our broad franchise.
+Before I turn it over to Denis, I want to cover a couple of additional topics that are top of mind for me. First, our recent stress test results, the year-over-year increase in our stress capital buffer does not seem to reflect the strategic evolution of our business and the continuous progress we've made to reduce our stress loss intensity, which the Federal Reserve had recognized in our last three tests. Given this discrepancy, we are engaging with our regulators to better understand its determinations. Despite the increase in requirements, we remain very well positioned to serve our clients and will continue to be nimble with our capital.
+In the second quarter, we repurchased $3.5 billion of shares, which illustrates our ability to dynamically manage our resources and opportunistically return capital to the shareholders. Despite the increase in our repurchase activity, our common equity tier 1 ratio ended the quarter at 14.8% under the standardized approach, 90 basis points above our new regulatory minimum and above our ratio in the first quarter. We also announced a 9% increase in our quarterly dividend, which underscores our confidence in the durability of our franchise. Since the beginning of 2019, we have more than tripled our quarterly dividend to its current level of $3 a share.
+I'd also like to reflect on the significant milestone we hit in the second quarter, our 25th anniversary as a public company. We went public in 1999, which is also the year I joined the firm and it's been an eventful 25 year since then. We have persevered through a number of significant global events, including through the dot-com bubble, Nasdaq crash, September 11, the Financial Crisis and the pandemic. When I look back at how we overcame these challenges, I immediately think of our culture, one that has evolved, no doubt, but always stay true to our core values. I know that the preservation of our culture is paramount to serving our clients with excellence, maintaining our leading market positions, growing our businesses and continuing to attract and retain the most talented people.
+In closing, I'm very confident about the state of our client franchise. We are delivering on our strategy by leaning into our core strengths and effectively serving clients in what remains a complicated operating environment.  Now let me turn it over to Denis to cover our financial results in more detail.
+
+Executives - Chief Financial Officer
+Thank you, David, and good morning. Let's start with our results on Page 1 of the presentation. In the second quarter, we generated net revenues of $12.7 billion and net earnings of $3 billion, resulting in earnings per share of $8.62, an ROE of 10.9% and an ROTE of 11.6%.
+Now turning to performance by segment, starting on Page 4. Global Banking & Markets produced revenues of $8.2 billion in the second quarter, up 14% versus last year. Advisory revenues of $688 million were up 7% versus the prior year period. Equity underwriting revenues rose 25% year-over-year to $423 million as equity capital markets have continued to reopen, though volumes remain well below longer-term averages. Debt underwriting revenues rose 39% to $622 million amid strong leveraged finance activity. We are seeing a material increase in client demand for committed acquisition financing, which we expect to continue on the back of increasing M&A activity, Our backlog rose significantly quarter-on-quarter, driven by both advisory and debt underwriting.
+FICC net revenues were $3.2 billion in the quarter, up 17% year-over-year. Intermediation results rose on better performance in rates and currencies. FICC financing revenues were $850 million, a near record and up 37% year-over-year. Equities net revenues were $3.2 billion in the quarter, up 7% year-on-year as higher intermediation results were helped by better performance in derivatives. Equities financing revenues were $1.4 billion, down modestly from a record performance last year, but up 5% sequentially. Taken together, financing revenues were a record $2.2 billion for the second quarter and a record $4.4 billion for the first half of the year. Our strategic priority to grow financing across both FICC and equities continues to yield results as these activities increase the durability of our revenue base.
+I'm moving to Asset & Wealth Management on Page 5. Revenues of $3.9 billion were up 27% year-over-year. As David mentioned, our more durable management and other fees and private banking and lending revenues reached a new record this quarter of $3.2 billion. Management and other fees increased 3% sequentially to a record $2.5 billion, largely driven by higher average assets under supervision. Private Banking and lending revenues rose 4% sequentially to $707 million.
+Our premier ultra-high net worth Wealth Management franchise has roughly $1.5 trillion in client assets. This business has been a key contributor to our success in increasing more durable revenues and provides us with a strong source of demand for our suite of alternative products, a great example of the power of this unique platform. We expect continued momentum in this business as we also deepen our lending penetration with clients and grow our adviser footprint.
+Our pretax margin for the first half was 23%, demonstrating substantial improvement versus last year and approaching our mid-20s medium-term target.
+Now moving to Page 6. Total assets under supervision ended the quarter at a record of $2.9 trillion, supported by $31 billion of long-term net inflows, largely from our OCIO business, representing our 26th consecutive quarter of long-term fee-based inflows.
+Turning to Page 7 on alternatives. Alternative AUS totaled $314 billion at the end of the second quarter, driving $548 million in management and other fees. Gross third-party fundraising was $22 billion for the quarter, and $36 billion for the first half of the year. In the second quarter, we further reduced our historical principal investment portfolio by $2.2 billion to $12.6 billion.
+On Page 9, firm-wide net interest income was $2.2 billion in the quarter, up sequentially from an increase in higher-yielding assets and a shift towards noninterest-bearing liabilities. Our total loan portfolio at quarter end was $184 billion, flat versus the prior quarter. For the second quarter, our provision for credit losses was $282 million, primarily driven by net charge-offs in our credit card portfolio and partially offset by a release of roughly $115 million related to our wholesale portfolio.
+Turning to expenses on Page 10. Total quarterly operating expenses were $8.5 billion. Our year-to-date compensation ratio, net of provisions, is 33.5%. Quarterly non-compensation expenses were $4.3 billion and included approximately $100 million of CIE impairments. Our effective tax rate for the first half of 2024 was 21.6%. For the full year, we continue to expect a tax rate of approximately 22%.
+Next, capital on Slide 11. In the quarter, we returned $4.4 billion to shareholders, including common stock dividends of $929 million and common stock repurchases of $3.5 billion. Given our higher-than-expected SCB requirement, we plan to moderate buybacks versus the levels of the second quarter. We will dynamically deploy capital to support our client franchise while targeting a prudent buffer above our new requirement.
+Our Board also approved a 9% increase in our quarterly dividend to $3 per share beginning in the third quarter, a reflection of our priority to pay our shareholders a sustainable, growing dividend and our confidence in the increasing durability of our franchise.
+In conclusion, we generated solid returns for the first half of 2024, which reflects the strength of our interconnected businesses and the ongoing execution of our strategy. We made strong progress in growing our more durable revenue streams, including record first-half revenues across FICC and equities financing, management and other fees and Private Banking and lending. We remain confident in our ability to drive strong returns for shareholders while continuing to support our clients.
+With that, we'll now open up the line for questions.
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] We'll take our first question from Glenn Schorr with Evercore.
+
+Question
+Analysts - Senior MD & Senior Research Analyst
+So I like your forward-leaning comments on the IBC pipeline. And I think I heard you say the demand for committed acquisition financing is high. Does that infer anything about us being any closer to an inflection point in private equity-related M&A, sponsor-related M&A?
+And then how much of an advantage [ do you ] think you have as being maybe the big -- the only big bank that has a full-on private credit platform, obviously, VCM platform and lending platform?
+
+Answer
+Executives - Chairman & CEO
+Thanks for the question. We're forward leaning in our comments because we definitely see momentum pick up. And I just -- again, I want to highlight something that was definitely in my part of the script and I think Denis amplified, which was still despite the pick up, we're still operating at levels that are still significantly below 10-year averages.
+And so, for example, I think we've got kind of another 20% to go to get to 10-year averages on M&A. One of the reasons that M&A activity -- one of the reasons, not the only reason, but one of the reasons why M&A activity is running below those averages is because sponsor activity is just starting to accelerate. And so I think, especially given the environment that we're in, that you're going to see over the next few quarters into 2025 kind of a reacceleration of that sponsor activity. We're seeing it in our dialogue with sponsors. And obviously, it's been way, way below. The overall M&A activity has kind of another 10% -- 20% to get to 10-year averages, but sponsor has been running below that, and we're starting to see that increase.
+Now as that increases, I just think the firm is incredibly well positioned given the breadth of both our leading position. We've been top kind of 1,2, 3 in, what I'll call, leveraged finance activity from a lead table perspective and with the sponsor community, but we combine it with a very, very powerful direct lending private credit platform. And so I just think we're in a very, very interesting position.
+The size and the scope of the companies that are out there that have to be refinanced, recapitalized, sold, changed hands, the sponsors continue to look to distribute proceeds to their limited partners, I think, bodes well over the course of the next 3 to 5 years. Different environments, but the general trend will be more activity than we've seen in the last 2, 2.5 years.
+
+Question
+Analysts - Senior MD & Senior Research Analyst
+I appreciate that. Maybe one quickie follow-up on -- you mentioned in the prepared remarks -- in your printed prepared remarks that real estate gains helped drive the equity investment gains in the quarter. Can you talk about how material it was and what drove real estate gains during the quarter?
+
+Answer
+Executives - Chief Financial Officer
+Sure, Glenn. It's Denis. I think the important takeaway from the year-over-year performance in the equity investment line is that in the prior year period, we actually had significant markdowns as we were sort of an early mover in addressing some of the commercial real estate risk across our balance sheet. And the results that reflect in this most recent quarter do not have the same degree of markdowns as in prior period. So that is, I think, a large explain of the delta.
+
+Question and Answer Operator Message
+Operator
+We'll take our next question from Ebrahim Poonawala with Bank of America.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+I just wanted to spend some time on capital, post the SCB increase. One maybe just from a business standpoint, if you could update us whether the capital requirement changes anything in terms of how the firm has been leaning into the financing business? Do you need to moderate the appetite there or business as usual?
+So one, how does it impact the business? And second, Denis, your comments around buybacks moderating, should we think more like 1Q levels of buybacks going forward?
+
+Answer
+Executives - Chief Financial Officer
+Sure, Ebrahim. So a couple of comments. I guess, first, important to observe that the whole capital that we're operating with at the moment is reasonably consistent with where we've been over the last several years. So we feel that at that level of capital and with the cushion that we have heading into the third quarter, which at 90 basis points is at the wider end of our historical operating range, we have lots of capacity, both, to continue to deploy into the client franchise and with what we're seeing across the client franchise with backlog up significantly, there could be attractive opportunities for us to deploy into the client franchise, whether that's new acquisition financing, as David was referencing or the ongoing support of our clients across the financing businesses, we have the capacity to do that as well as to continue to invest in return of capital to shareholders.
+Given the $3.5 billion number in the second quarter, we thought it was advisable to indicate we would be moderating our repurchases, but we still do have capital flexibility. And based on what we see develop from the client franchise, we will make that assessment, we'll manage our capital to an appropriate buffer, but we're still certainly in a position to continue to return capital to shareholders.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+Got it. So assume no change in terms of how we're thinking about the financing business.
+And just separately, in terms of sponsor-led activity, we waited all year for things to pick up, is it a troubling sign that the sponsors are not able to monetize assets? Does it speak to inflated valuations that they're carrying these assets on? Just would love any context there David, if you could.
+
+Answer
+Executives - Chairman & CEO
+Sure. I mean, I appreciate that. I don't think it's troubling. I wouldn't use the word troubling. But I do think that there are places where sponsors hold assets and their ability to monetize them at the value that they currently hold them leads them to wait longer and keep the optionality to have that value compound. At the same point, there's pressure from LPs to continue to turn over funds, especially longer dated funds. And as they take that optionality to wait, the pressure just builds. And so I think we're starting to see a bit of an unlock and more of a forward perspective to start to move forward, accept the valuation parameters and move forward.
+But I just think this is a natural cycle and you're going to see a pickup in that activity for sure. I'm just not smart enough to tell you exactly which quarter and how quickly. But we are going to go back to more normalized levels.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Betsy Graseck with Morgan Stanley.
+
+Question
+Analysts - Managing Director
+Can you hear me, okay?
+
+Answer
+Executives - Chief Financial Officer
+We can hear you fine...
+
+Question
+Analysts - Managing Director
+All right. I did just want to lean on one question regarding how you're managing the expense lines as we're going through this environment because we've had this very nice pickup in revenues and comp ratio is going up a little bit, but I'm just wondering, is this a signaling to hold for the rest of this year? Or is this just a one-off given that some of the puts and takes you mentioned on deal activity earlier in the call.
+
+Answer
+Executives - Chief Financial Officer
+Sure, Betsy. So if you look at year-to-date change in our revenues, net of provision, that is tracking ahead of the year-to-date change in our compensation and benefit expense. We are sort of following the same protocol that we always do, which is making our best estimate for what we expect to pay for -- on a full year basis and doing that in a manner that reflects the performance of the firm as well as the overall competitive market for talent. So based on what we see, we think this is the appropriate place to accrue compensation, but we'll obviously monitor that closely as the balance of the year evolves.
+
+Question
+Analysts - Managing Director
+Okay. And as we anticipate a continued pick up here in M&A, given everything you mentioned earlier, I would think that that's positive operating leverage, that should be coming your way. Would you agree with that? Or do I have something wrong there?
+
+Answer
+Executives - Chief Financial Officer
+So we are certainly hopeful that the business will continue to perform and that we will grow our revenues in line with what the current expectation is based on backlog. And we would love to generate incremental operating leverage if we perform in line with our expectations.
+
+Question and Answer Operator Message
+Operator
+We'll take our next question from Brennan Hawken with UBS.
+
+Question
+Analysts - Former Executive Director and Equity Research Analyst of Financials
+You flagged, Denis, the record financing revenue, which clearly shows momentum behind the business. And it would be my assumption that given rates have been more stable for quite some time now, it seems to reflect balanced growth. So one, I want to confirm that, that's fair. And could you help us understand how we should be thinking about rate sensitivity as it seems as though maybe a few rate cuts might be on the horizon?
+
+Answer
+Executives - Chief Financial Officer
+Sure. Thank you, Brennan. So we have been on a journey for several quarters and years in terms of committing ourselves to the growth of the more durable revenue streams within Global Banking & Markets. We have our human capital and underwriting infrastructure setup in place. We have relationships with large suite of clients that are frequent users of these products. The business is very diversified by sub-asset class, and it's a business that we are looking to grow on a disciplined basis.
+We've had opportunity to deploy capital in a manner that is generating attractive risk-adjusted returns. So that's something that we're going to remain mindful of. But we believe, given the breadth of that franchise that we should be able to continue to support the secular growth that our clients are witnessing even as various rate environments should moderate.
+
+Question
+Analysts - Former Executive Director and Equity Research Analyst of Financials
+Okay. And then next question is really sort of a follow-on from Betsy's line of questioning. So year-to-date, you've got a 64% efficiency ratio. When we take a step back and think about your targets and aspirations for that metric and an environment -- considering an environment that seems to be improving steadily, how should we be thinking about margins on incremental revenue? Could you help us understand how revenue growth will continue to drive improvement in that efficiency ratio?
+
+Answer
+Executives - Chief Financial Officer
+Sure. So thank you for that question and thank you for observing the improvement that we're seeing. Obviously, our year-to-date efficiency ratio at 63.8% is nearly 10 points better on a year-over-year basis, still not at our target of 60%, but we are making progress. As we continue to grow our revenues, we should be able to deliver better and better efficiency.
+But ultimately, the type of revenues that we grow and the extent to which they attract variable or volume-based expenses is a contributing factor. But we do have visibility, for example, as we continue to move out of some of our CIE exposures that we should be able to reduce some of the operating expenses associated with that. And we do have a very granular process internally looking at each of our expense categories on a granular basis and trying to make structural improvements to drive efficiencies over time, while we, at the same time, look to drive top line revenues.
+
+Question and Answer Operator Message
+Operator
+And we'll go next to Mike Mayo with Wells Fargo Securities.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+I'm just trying to reconcile all the positive comments with returns that are still quite below your target. I mean you highlight revenue growth in Global Banking & Markets and Wealth & Asset Management. You have record financing for equities and FICC combined. You're #1 in M&A. You have record management fees, record assets under supervision. Your efficiency has gone from 74% to 64%. You increased your dividend by 9% to signal your confidence. Your CET1 ratio's 90 basis points above even the higher Fed requirements. So -- and you start -- David, you started off the call saying the results are solid. But then you look at the returns and you say, 11% ROE in the second quarter, that's not quite the 15% where you want it to be. So where's the disconnect from what you're generating in terms of returns and where you'd like to be?
+
+Answer
+Executives - Chairman & CEO
+Thanks, Mike. Appreciate the question. Look, we're on a journey and the way I look at it, our returns for the first half of the year at 12.8%, there are, I think, a couple of things, give-gets in that. One, for sure, we're still -- we still have a little bit of drag from the enterprise platforms, which we're working through. And so that will come out. And at some point, as we work through that over the next 12 to 24 months, we'll continue to make progress on that. So the returns in the first half of the year would be a little higher ex that.
+And then on top of that, as we've said repeatedly on the call and have given a bunch of information, we're still operating meaningfully below 10-year averages in terms of Investment Banking activity. And I think that'll come back, I obviously can't predict. But if you look at the returns of the firm, we have materially uplifted the returns of the firm, and we're going to continue to focus on that.
+Now the next step to the puzzle is our continued progress in AWM. So you know and you can see the performance over the course of the last few years of Global Banking & Markets, but we've said the AWM ROE is not where it needs to be. You heard our comments about the fact that we've gotten the margin up to 23%, but the ROE is still around 10%. We think we can continue to grow the business, as we've said, high single digits. We can continue to improve the margin and ultimately bring up that AWM ROE and then you look across the firm and you have a stronger return profile.
+So I think we're making good progress. We didn't say and have not [Audio Gap] work to do, for sure, but we feel good about the progress.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+And I assume part of your expectation is a sort of multiplier effect when mergers really kick in. Can you just describe what that multiplier effect could potentially look like based on past cycles?
+
+Answer
+Executives - Chairman & CEO
+I wouldn't -- what I would say is one of the things that should be a tailwind for further momentum in our business is a return to average levels. I'm not sitting here saying we're going to go back to periods of time we went well above 10-year averages, but there's obviously -- if we did get back to that period, and there will be some point in the future where we went above average, too, not just below average, we have a tailwind for that.
+But as a general matter, when there are more M&A transactions, whether with financial sponsors or big corporates, there is more financing attached to that. People need to raise capital to finance those transactions. They need to reposition balance sheets. They need to manage risks, to [ restructure ] transactions. And so there's a multiplier effect as those activities increase. We don't put a multiplier on it, but our whole ecosystem gets more active as transaction volumes increase on the M&A side.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+And then lastly, for your returns, your -- the denominator is a big factor. So how does that work with the Fed? I know you can't say too much, and regional people can disagree, but your whole point is that you've derisked the balance sheet and the company. And then here, we have the Fed saying that maybe you haven't done so. So how does this process work from here? Will we hear results about the SCB ahead? Or is this something that's just behind closed doors?
+
+Answer
+Executives - Chairman & CEO
+Look, as a general matter -- what I'd say, Mike, as a general matter, we're supporters of stress testing. We believe it's an important component of the Fed's mandate to really ensure the safety and soundness of the banking system. 
+However, we've maintained for some time that there are elements of this process that may be distracting from these goals of safety and soundness. The stress test process, as you just highlighted, is opaque, it lacks transparency, it contributes to excess volatility and the stress capital buffer requirements, which obviously makes prudent capital management difficult for us and all of our peers. We don't believe that the results reflect the significant changes we've made in our business. They're not in line with our own calculations despite the fact that the scenarios are consistent year-over-year.
+Now despite all that, we've got the capital flexibility to serve our clients. We'll continue to work with that capital flexibility, and we'll also continue to engage around this process to ensure that over time, we can drive the level of capital that we have to hold in our business mix down. But obviously, we have more work to do, given this result.
+
+Question and Answer Operator Message
+Operator
+We'll take our next question from Steven Chubak with Wolfe Research.
+
+Question
+Analysts - Director of Equity Research
+So I wanted to start off with a question -- just want to start with a question on the consumer platform fees. They were down only modestly despite the absence of the GreenSky contribution. Just wanted to better understand what drove the resiliency in consumer revenues, whether the quarterly run rate of $600 million is a reasonable jumping off point as we look out to next quarter.
+
+Answer
+Executives - Chief Financial Officer
+So Steve, thank you for the question. I mean on a sequential basis, they're down but that's because we have the absence of the GreenSky contribution, there actually is growth across the card portfolio. I think the -- you've seen that the level of growth has slowed as we have sort of implemented several rounds of underwriting adjustments to the card originations. And so our expectation is that on the forward, the period-over-period growth should be more muted.
+
+Question
+Analysts - Director of Equity Research
+Understood. And maybe just one more clarifying question. I know there's been a lot asked about the SCB. Really just wanted to better understand, Denis, since you noted that you're running with 90 bps of cushion, which is actually above normal. Just how you're handicapping the additional uncertainty related to Basel III Endgame? There's certainly been some favorable momentum per the press reports and even some public comments from regulators. So just want to better understand, given the uncertainty around both the SCB and Basel III Endgame, where you're comfortable running on the CET1 basis over the near-to-medium term?
+
+Answer
+Executives - Chief Financial Officer
+Thanks, and I appreciate that question. I think, obviously, there's been a lot of changes -- there's been some changes in expectations. And I think in highlighting that we are operating at the wider end of our range, it is to signal flexibility and certainly embedded in that is to address some of the uncertainty, which does remain with respect to Basel III Endgame, both the quantum and timing of its resolution. It sounds from some of Powell's latest comments that, that may not be something that comes into effect until perhaps into 2025.
+But we are sort of maintaining a level of cushion that I think is appropriate in light of what we know and we don't know about the future opportunity set for Goldman Sachs, but that buffer is designed to support clients, return capital to shareholders while maintaining a prudent buffer with some of the lingering uncertainty with respect to future regulatory input.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Devin Ryan with Citizens JMP.
+
+Question
+Analysts - MD, Director of Financial Technology Research & Equity Research Analyst
+A couple of questions on AWM progress. So the first one is on the alts business specifically. And you're tracking obviously well ahead of the fundraising targets relative to when you set the $1 billion medium-term for annual incentive fees. And now with over $500 billion in alts' AUM and obviously growing, that would seem pretty conservative. So I appreciate there's a lot of work to do to generate returns ahead here. But how should we think about the underlying assumptions for incentive fees in a more normal harvesting environment just given the mix shift and the growth that you're seeing in AUM there?
+
+Answer
+Executives - Chief Financial Officer
+So Devin, I think it's a good question. And I think we share your expectation that, that is going to be a more meaningful contributor on the forward. We laid it out as one of the building blocks at our Investor Day. The contribution coming through that line since then has been not as high as we have modeled from an internal medium- to longer-term perspective.
+We do give good disclosure that the balance of unrealized incentive fees at the end of the last quarter were $3.8 billion. So you can make various assumptions as to what the timing of the recognition of those fees are. They can obviously bounce around from time to time. It is a granular vehicle-by-vehicle buildup. But given the current outlook and status of those funds, that's our best expectation of what level of fees could be coming through that line over the next several years.
+So I think it is an important incremental contributor and should be -- should help the return profile of Asset & Wealth Management on the forward, couple that with the success that we're having with ongoing alts fundraising and that will help to feed future investments in funds, which in turn will generate some backlog of potential incentive fees above and beyond what's already in the unrealized disclosures.
+
+Question
+Analysts - MD, Director of Financial Technology Research & Equity Research Analyst
+Yes. Okay. And then a follow-up, this is also kind of connected. But at a recent conference, you highlighted the margin profile of all the stand-alone businesses in Asset & Wealth Management of public peers, so kind of as a comparison and highlighted 35% plus for alts and some of the public firms, we know are obviously well above that.
+So I appreciate you're running the AWM segment as kind of one segment. But if alts does accelerate and we're looking at 60% of alts' AUM isn't even fee earning yet, what does that mean for segment margins relative to kind of that mid-20% target because you're already at 23% thus far in '24, so just trying to think about the incremental margin coming from the acceleration in growth, particularly from the alt segment as well.
+
+Answer
+Executives - Chief Financial Officer
+So that's a good question, Devin. I mean it should be a significant unlock for us because despite the breadth and the longevity with which we've been running our alts businesses, there is significant opportunity for us to actually improve the margin profile of the alts activities, in particular, relative to the overall AWM margin particularly as we develop incremental scale by strategy.
+And so in addition to just overall growth in the segment, which should unlock margin improvements, actually within our portfolio of activities, the alts business, again, despite its current scale, presents a big opportunity for incremental margin contribution.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Dan Fannon with Jefferies.
+
+Question
+Analysts - Senior Equity Research Analyst
+In terms of your on-balance sheet investments, you continue to make progress in reducing that this quarter. Can you talk about the outlook for this year or any line of sight in terms of exits that we can think about?
+
+Answer
+Executives - Chief Financial Officer
+Sure. Thank you. Obviously, an ongoing commitment of ours to move down those on-sheet exposures. Also, part of the equity and capital story and returns in the segment. At $2.2 billion for the quarter, that was a decent reduction. We obviously have a target out there to sell down the vast majority of that balance, which is now at $12.6 billion by the end of next year.
+But our expectation is that we will continue to chip away at it across both the third and the fourth quarter of this year and then on into 2025. There's really no change on our commitment to sell down the vast majority of that by the end of next year.
+
+Question
+Analysts - Senior Equity Research Analyst
+Understood. And as a follow-up, just within Asset & Wealth, particularly on the alts side, the fundraising target raised for the full year given the success you've had, the private credit fund closing here in the first half was big. Can you talk to some of the other strategies that have the potential to scale, as you mentioned earlier, and/or maybe are a little bit smaller that have really large or increasing momentum as you think about second half, but also as we -- even into next year.
+
+Answer
+Executives - Chief Financial Officer
+Sure. So obviously, taking a step back, you're talking about the targets that we set. Once upon a time, it was $150 billion. We moved it to $225 billion. It's now at $287 billion. And with $36 billion raised through the first half and us expecting to surpass $50 billion, that means we should be north of $300 billion by end of this year.
+And I think one of the things that we find attractive about our platform is that we have opportunities to scale across multiple asset classes within alternatives, equity, credit, real estate infrastructure. We had notable fundraisings in private credit and real estate this quarter, but you can see contribution from other strategies like equity on the forward and a number of different strategies, both by asset class and by region. So we think we have a diversified opportunity set to continue to scale the alts platform.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Matt O'Connor with Deutsche Bank.
+
+Question
+Analysts - Research Analyst
+I was wondering if you could just elaborate a bit on the competitive landscape, specifically in Banking & Markets. I know it's always competitive, but some of the really big bank peers are leaning in who haven't been a few years ago, and all these regional banks that I cover are also realizing that they need broader capital market capabilities. So you're obviously an industry leader in a lot of the areas across Banking & Markets and just wondering how you're seeing kind of the competition impact you at this point?
+
+Answer
+Executives - Chairman & CEO
+Sure, Matt, and I appreciate the question. I'd just say Investment Banking and the Markets business, the trading business, they've always been competitive businesses. I think our integrated One GS approach is a very, very competitive offering. I mean we can have debates, but it's, I think, 1 of the top 2 offerings out there depending on how you look at it, and what you look at. 
+There's always going to be competition. There are always going to be people that come in and make investments in niche areas. But broadly speaking, we have leading M&A share for 25 years. We have leading share in capital raising for an equivalent period of time. We've continued to invest in our debt franchises over the last more than a decade. And then our trading businesses and our ability to intermediate risk, I think, have been second to none or viewed as second to none for a long, long time. And so the combination of our focus on serving our clients, making sure we're giving them the right resources both human capital and financial capital to accomplish what they need to accomplish, the fact that we have global scale positions us very well.
+There'll always be competitors, but I like where our franchise sits. And I don't see any reason why we shouldn't be able to continue to invest in it, strengthen it and continue to have it operating as a leader in what's always been and will continue to be a very competitive business.
+
+Question
+Analysts - Research Analyst
+Okay. That's helpful and agreed. And then just separately, I hate to ask you about activity levels and stuff like that since the debate 3, 4 weeks ago but maybe I'll frame it. From your experience in presential election periods like this, where there's maybe just more uncertainty than normal, like how do both institutional and corporate clients react? Do they kind of say, "Well, let's wait and see the other side." Is it just noise because we've been going through it for some time here. But what are your thoughts on that?
+
+Answer
+Executives - Chairman & CEO
+There are always exogenous factors that affect corporate activity and institutional client activity. I don't have a crystal ball, so I can't see what the next 100 days leading up to our election will bring. But I think we're well positioned to serve our clients regardless of the environment and clients are very active at the moment, and I think they're probably going to continue to be active.
+
+Question and Answer Operator Message
+Operator
+We'll take our next question from Gerard Cassidy with RBC.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+David, you said in your opening comments that you took the Board out to Silicon Valley, and you were impressed with the artificial intelligence and what we could expect in the future and the opportunities for Goldman to be able to finance some of the infrastructure needs that may come of that. Can you share with us the artificial intelligence that you guys are implementing within Goldman and how it's making you more productive, generating maybe greater revenues or even making it more efficient.
+
+Answer
+Executives - Chairman & CEO
+Sure. I mean at a high level, Gerard, we, as most companies around the world, are focused on how you can create use cases that increase your productivity. And if you think about our business as a professional service firm and a people business where we have lots of very, very highly productive people, creating tools that allow them to focus their productivity on things that advance their ability to serve clients or interact in markets is a very, very powerful tool.
+So we -- if you look and you think across the scale of our business, I think you can think of lots of places where the capacity to use these tools to take work that's always been done on a more manual basis and allow the very smart people to do that work, to focus their attention on clients are quite obvious. You can look at it in an area like the equity research area as every quarter, you're all analysts on the phone, there's lots of ways that these tools can leverage your capacity to spend more time with clients. You think about our Investment Banking business and the ability in our Investment Banking business to have what I'll call the factory of the business prepare information, thoughtful information for clients, the evolution there.
+When you look at the datasets we have across the firm and our ability to get data and information to clients so that they can make better decisions around the way they position the market so it's another obvious use case. For our engineering stack, and we have close to 11,000 engineers inside the firm, the ability to increase their coding productivity is meaningful. 
+So those are a handful. There are others. We have a broad group of people that are very focused on this. But again, I'd step back, while this will increase our productivity, the thing that we're most excited about is all businesses are looking at these things and are looking at ways that it adapts and changes their business and that will create more activity and a tailwind broadly for our business as people will need to make investment, they'll need financing, they'll need to scale. And so we're excited about that broad opportunity.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Very good. And then as a follow-up, Denis, you talked about credit, and it was impressive that you didn't have any charge-offs in the wholesale book. Can you give us some color on what you're seeing there? It seems like there must be some improvement since obviously, you didn't have any charge-offs in the wholesale book.
+
+Answer
+Executives - Chief Financial Officer
+Sure. Thanks, Gerard. As you observed, charge-off rate for us in the wholesale is approximately 0%. What we did see in this quarter was release, and we've been able to improve some of our models and be able as a consequence to release some of the provisions in the wholesale segment. So while that was a contributing benefit to sort of, call it, the net PCL of the quarter with consumer charge-offs offset by that wholesale release, that's not necessarily something that we would expect to repeat each quarter in the future.
+And although we manage our credit and our wholesale risk very, very diligently and consistently, it is more likely the case that we will have some degree of impairments, given our size and scale and representation in the business. But we're pleased that the overall credit performance in terms of charge-offs is about 0%.
+
+Question and Answer Operator Message
+Operator
+We'll go next to Saul Martinez with HSBC.
+
+Question
+Analysts - Head of US Financials Research
+Just a follow-up on capital. I mean it certainly is encouraging that your CET1 ratio rose 20 bps in a quarter where you bought back $3.5 billion of stock. And you did have, I think, a $16 billion reduction in RWA as your presentation talks about credit RWAs falling this quarter. I guess, can you just give a little bit more color on what drove that reduction? And I guess, more importantly, is there continued room for RWA optimization from here to help manage your capital levels?
+
+Answer
+Executives - Chief Financial Officer
+Sure. Thanks, Saul. I appreciate that question.  Capital optimization, RWA optimization is something that we've been committed to for a very long period of time. On the quarter, there were reductions both in credit and market risk RWAs, drivers included, less derivative exposure, reduced equity investment exposure and in some places, lower levels of volatility. We try to get the right balance between deploying on behalf of client activity as well as being efficient and rotating out of less productive activities or following through on our strategic plan to narrow, focus and reduce balance sheet exposure.
+So that is something that was contributed to quarter-over-quarter benefit despite the buyback activity we executed, and it's something we'll remain very focused on just given the multiplicity of binding constraints that we operate under.
+
+Question
+Analysts - Head of US Financials Research
+Okay. That's helpful. And maybe a follow-up on financing. FICC financing, up 37%. Equities -- the equity financing is now something close to 45% of all of your equity sales and trading revenues. I guess, how much more room is there -- or how should we think about sort of the size of the opportunity set to continue to grow from here? How much more space is there? Do you use financing as a mechanism to help deepen penetration with your top institutional clients?
+
+Answer
+Executives - Chief Financial Officer
+It's a good question, Saul. I think on the FICC financing side, as I indicated, we do think that we are helping clients participate in the overall level of growth that they're seeing in their businesses. And we think based on what we see currently that we can calibrate the extent of our growth based largely on how we assess the risk-return opportunity set across the [ combined ] portfolios. So we're being disciplined with respect to our growth but trying also to support clients in their growth and drive a more durable characteristic across the GBM business.
+In equities, the activity and the balances, et cetera, obviously have benefited from equity market inflation over the course of the year, but it's also an activity that we remain committed to in terms of supporting clients and clients look to us on a holistic basis, really across both FICC and equities to ensure that across all of the activities they're doing with us, that we're finding some balance between helping them through financing activities, helping them with intermediation, helping them with human capital. So both of those activities are part of more interconnected activities with clients and something that we remain very focused on and think we can continue to grow.
+
+Question and Answer Operator Message
+Operator
+At this time, there are no additional questions in queue. Ladies and gentlemen, this concludes the Goldman Sachs Second Quarter 2024 Earnings Conference Call. Thank you for your participation. You may now disconnect.
+

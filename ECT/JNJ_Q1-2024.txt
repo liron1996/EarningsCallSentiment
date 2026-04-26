@@ -1,0 +1,284 @@
+﻿Johnson & Johnson, Q1 2024 Earnings Call, Apr 16, 2024 - 
+
+Presentation Operator Message
+Operator
+Good morning, and welcome to Johnson & Johnson's First Quarter 2024 Earnings Conference Call. [Operator Instructions] This call is being recorded. If anyone has any objections, you may disconnect at this time. [Operator Instructions]
+I would now like to turn the conference over to Johnson & Johnson. You may begin.
+
+Presenter Speech
+Executives - Group CFO of Johnson & Johnson Innovative Medicine
+Hello, everyone. This is Jessica Moore, Vice President of Investor Relations for Johnson & Johnson. Welcome to our company's review of the first quarter business results and our full year financial outlook for 2024. 
+A few logistics before we get into the details. As a reminder, you can find additional materials, including today's presentation and associated schedules, on the Investor Relations section of the Johnson & Johnson website at investor.jnj.com. 
+Please note that this presentation contains forward-looking statements regarding, among other things, the company's future operating and financial performance, market position and business strategy. You are cautioned not to rely on these forward-looking statements, which are based on the current expectations of future events using the information available as of the date of this recording and are subject to certain risks and uncertainties that may cause the company's actual results to differ materially from those projected.  
+A description of these risks, uncertainties and other factors can be found in our SEC filings, including our 2023 Form 10-K, which is available at investor.jnj.com and on the SEC's website. Additionally, several of the products and compounds discussed today are being developed in collaboration with strategic partners or licensed from other companies. This slide acknowledges those relationships.  
+Moving to today's agenda. I will start by reviewing the first quarter sales and P&L results for the corporation as well as highlights related to our 2 businesses. Joe Wolk, our CFO, will then provide additional business and financial commentary before sharing an overview of our cash position, capital allocation priorities and guidance for 2024. The remaining time will be available for your questions.  
+Joaquin Duato, our Chairman and CEO; as well as Jennifer Taubert, John Reed and Tim Schmid, our innovative medicine and med tech leaders will be joining us for Q&A. To ensure we provide enough time to address your questions, we anticipate the webcast will last approximately 60 minutes.  
+Unless otherwise stated, the financial results and guidance highlighted today reflect the continuing operations of Johnson & Johnson. Furthermore, the percentages quoted represent operational results and, therefore, exclude the impact of currency translation. 
+Turning to our first quarter sales results. Worldwide sales were $21.4 billion for the first quarter of 2024. Sales increased 3.9%, with growth of 7.8% in the U.S. and a decline of 0.3% outside of the U.S. Excluding the impact of the COVID-19 vaccine, operational sales growth was 7.6% worldwide and 7.4% outside of the U.S. Sales growth in Europe, excluding the COVID-19 vaccine, was 6%.  
+Turning now to earnings. For the quarter, net earnings were $5.4 billion, and diluted earnings per share was $2.20 versus a basic loss per share of $0.19 a year ago. Excluding after-tax intangible asset amortization expense and special items for both periods, adjusted net earnings for the quarter were $6.6 billion, and adjusted diluted earnings per share was $2.71, representing increases of 3.8% and 12.4%, respectively, compared to the first quarter of 2023. On an operational basis, adjusted diluted earnings per share increased 12.8%.  
+I will now comment on business sales performance in the quarter, beginning with Innovative Medicine. Worldwide Innovative Medicine sales of $13.6 billion increased 2.5%, with growth of 8.4% in the U.S. and a decline of 4% outside of the U.S. Excluding the impact of the COVID-19 vaccine, operational sales growth was 8.3%, both worldwide and outside of the U.S. Innovative Medicine growth was driven by our key brands and continued uptake from recently launched products, with 9 assets delivering double-digit growth.  
+We continue to drive strong sales growth across our multiple myeloma portfolio. DARZALEX growth was 21%, primarily driven by share gains of 6 points across all lines of therapy and 10 points in the frontline setting. 
+As of this quarter, we are now disclosing TECVAYLI sales, which were previously reported in other oncology. Sales achieved $133 million in the quarter compared to $63 million in the first quarter of last year, reflecting a strong launch in the relapsed refractory setting. 
+CARVYKTI achieved sales of $157 million compared to $72 million in the first quarter of last year driven by continued capacity expansion, manufacturing efficiencies and strong demand. While sequential growth was roughly flat due to phasing, we continue to anticipate quarter-over-quarter growth, with acceleration in the back half of the year.  
+Other oncology growth was driven by continued strong uptake of TALVEY, our GPRC5D bispecific, and RYBREVANT, our bispecific antibody for non-small cell lung cancer. Also in oncology, ERLEADA continues to deliver strong growth of 28.4%, primarily driven by share gains. 
+Growth of 22.4% in pulmonary hypertension was driven by favorable patient mix, share gains and market growth for both OPSUMIT and UPTRAVI. As a reminder, favorable patient mix was a driver in Q2 2023 through Q1 2024. Therefore, while we still anticipate growth, we expect to lap this dynamic beginning in Q2 2024.  
+Within immunology, we saw sales growth in TREMFYA of 27.6% driven by market growth and share gains. STELARA growth of 1.1% was driven by market growth and share gains in IBD, partially offset by unfavorable patient mix in the U.S. and, as expected, share loss in PsO and PsA. We anticipate continued volume growth, largely offset by price declines as we move towards biosimilar entry.  
+In neuroscience, SPRAVATO growth of 72% continues to be driven by share gains and additional market launches. Total Innovative Medicine sales growth was partially offset by unfavorable patient mix in XARELTO, which we anticipate continuing throughout the year, as well as a decrease in IMBRUVICA due to competitive pressures, partially offset by stocking dynamics in the U.S.  
+Finally, it is worth noting distribution rights for REMICADE and SIMPONI in Europe will be returned in Q4. 
+I'll now turn your attention to MedTech. Worldwide MedTech sales of $7.8 billion increased 6.3%, with growth in the U.S. of 6.6% and 6.1% outside of the U.S. In the quarter, worldwide MedTech growth was negatively impacted by approximately 80 basis points due to fewer selling days, disproportionately impacting Orthopaedics.
+In Cardiovascular, previously referred to as Interventional Solutions, electrophysiology delivered double-digit growth of 25.9%, with strong growth in all regions. Performance was driven by global procedure growth, new product uptake, commercial execution and a onetime inventory build in Asia Pacific, impacting worldwide growth by approximately 370 basis points. In addition, Abiomed delivered growth of 15%, driven by continued strong adoption of Impella 5.5 and Impella RP technology. 
+Orthopaedics growth of 4.8% includes a onetime revenue recognition timing change related to certain products across all platforms in the U.S., positively impacting worldwide growth by approximately 300 basis points. As a reminder, Orthopaedics was over-indexed by the impact of reduced selling days in the quarter. 
+Strong performance in hips and knees was driven by procedure recovery, growth of new products and commercial execution, while trauma and spine were negatively impacted by competitive pressures, and core trauma was further impacted by weather-related softness in the U.S. Growth of 1.9% in Surgery was driven primarily by procedure recovery and strength of our biosurgery and wound closure portfolios, partially offset by competitive pressures in China volume-based procurement in energy and endocutters.  
+Contact Lenses declined 2.3%, driven by U.S. stocking dynamics, partially offset by strong performance in ACUVUE OASYS 1-Day family of products. Worldwide growth was negatively impacted by 120 basis points due to the Blink divestiture in Q3 2023. Surgical vision grew 1.1%, driven by TECNIS Eyhance, our monofocal intraocular lens, partially offset by China VBP.  
+Now turning to our consolidated statement of earnings for the first quarter of 2024. I'd like to highlight a few noteworthy items that have changed compared to the same quarter of last year. Cost of products sold margin leveraged by 160 basis points, primarily driven by lower COVID-19 supply network-related exit costs. 
+Selling, marketing and administrative margins deleveraged 110 basis points, driven primarily by timing of marketing investment in the Innovative Medicine business. 
+We continue to invest strategically in research and development at competitive levels, investing $3.5 billion or 16.6% of sales this quarter. We invested $2.9 billion or 21.4% of sales in Innovative Medicine, with the increase in investment being driven by continued pipeline progression. In MedTech, R&D investment was $0.6 billion or 8.3% of sales, a slight decrease driven by phasing. 
+Interest income was $209 million in the first quarter of 2024 as compared to $14 million of expense in the first quarter of 2023. The increase in income was driven by a lower average debt balance and higher interest rates earned on cash balances. 
+Other income and expense was income of $322 million in the first quarter of 2024 compared to an expense of $6.9 billion in the first quarter of 2023. This change was primarily due to the $6.9 billion charge related to the talc settlement proposal recorded in the first quarter of 2023. 
+Regarding taxes in the quarter, our effective tax rate was 16.9% versus 61.8% in the same period last year, which was primarily driven by the tax benefit on the talc settlement proposal recorded in the first quarter of 2023. Excluding special items, the effective tax rate was 16.5% versus 15.9% in the same period last year. I encourage you to review our upcoming first quarter 10-Q filing for additional details on specific tax-related matters.  
+Lastly, I'll direct your attention to the box section of the slide, where we have also provided our income before tax, net earnings and earnings per share adjusted to exclude the impact of intangible amortization expense and special items.  
+Now let's look at adjusted income before tax by segment. In the first quarter of 2024, our adjusted income before tax for the enterprise as a percentage of sales increased from 36.1% to 36.8%, primarily driven by an increase in nonallocated interest income, with both Innovative Medicine and MedTech margins remaining relatively flat year-over-year. When comparing against the fourth quarter and full year 2023, Innovative Medicine and MedTech adjusted income before tax margins have improved.  
+This concludes the sales and earnings portion of the call. I'm now pleased to turn it over to Joe.
+
+Executives - Executive VP & CFO
+Thank you, Jessica. Hello, everyone. As you just heard, we are off to a solid financial start in 2024, complemented by sustained momentum within our Innovative Medicine and MedTech pipelines, marked by significant regulatory and clinical milestones.  
+Before we delve into segment highlights from the quarter, I want to touch upon some important announcements that we made that will further enhance our competitive positioning. Earlier this month, we announced a definitive agreement to acquire Shockwave Medical. 
+Johnson & Johnson has a long history of addressing cardiovascular disease through both our Innovative Medicine and MedTech businesses. The acquisition of Shockwave with its leading intravascular lithotripsy, or IVL technology, will provide us with a unique opportunity to impact coronary artery and peripheral artery disease, 2 of the highest-growth, innovation-oriented segments within cardiovascular intervention. This addition is not only adjacent to our other cardiovascular businesses, but also consistent with our strategy of becoming a best-in-class MedTech company.  
+During the first quarter, we also expanded our Innovative Medicine portfolio with the completion of the Ambrx acquisition. With its promising pipeline and ADC platform, Ambrx will further strengthen our oncology portfolio and ability to deliver enhanced precision biologics that treat cancer.  
+Now I'll move to segment highlights from the quarter. As Jessica previously shared, our growth in Innovative Medicine continues to be driven by momentum from key brands and the adoption of new products. During the quarter, we hit several regulatory and clinical targets that are key to delivering longer-term growth.  
+Starting with Oncology. In multiple myeloma, we received FDA approval and a positive CHMP opinion for CARVYKTI for patients who have received at least one prior therapy, making it the only BCMA-targeting treatment available for patients in the second-line setting. We also received biweekly dosing approval from the FDA for TECVAYLI, the only approved BCMA-targeting bispecific antibody that provides patients with dosing flexibility.  
+And finally, we submitted an application to the EMA for regulatory approval for DARZALEX-based quadruple therapy and were granted U.S. priority review by the FDA. In addition, we made significant steps forward in the treatment of patients with EGFR-mutated non-small cell lung cancer. 
+During the quarter, we received FDA approval for RYBREVANT in combination with chemotherapy for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer with EGFR exon 20 insertion mutations. The approval was based on data from the Phase III PAPILLON study.  
+We also received priority review from the FDA and submitted a filing to the EMA for RYBREVANT in combination with lazertinib as a first-line treatment option for adult patients with locally advanced or metastatic EGFR mutation non-small cell lung cancer. The priority review and filing to the EMA are supported by data from the landmark Phase III MARIPOSA study.  
+Turning to our immunology portfolio. We submitted a supplemental biologics license application to the FDA seeking approval for TREMFYA in the treatment of adults with moderate to severe ulcerative colitis. We are looking forward to presenting data from the Phase III QUASAR study evaluating TREMFYA in patients with ulcerative colitis at Digestive Disease Week in May. 
+We also significantly advanced our pipeline with important data readouts, including positive top line results from the FRONTIER 2 study demonstrating JNJ-2113 as the first and only investigational targeted oral peptide that maintain skin clearance in moderate to severe plaque psoriasis through one year.  
+Nipocalimab also delivered positive top line results in Phase II and Phase III studies in adults with Sjogren's disease and myasthenia gravis, respectively. 
+We also received FDA breakthrough designation in the treatment of HDFN, hemolytic disease of the fetus and newborn, and Fast Track designation for FNAIT, a rare and potentially fatal blood disorder in infants.  
+Looking ahead, we expect upcoming data readouts for ERLEADA in localized prostate cancer as well as aticaprant and seltorexant in major depressive disorder. We also expect Phase II results for our combination therapy, JNJ-4804 in psoriatic arthritis as well as pivotal data from TAR-200 in non-muscle invasive bladder cancer, which will be presented at the American Urological Association Annual Meeting in May.  
+Lastly, we're excited to present our Phase III TREMFYA Crohn's disease data as well as our subcu data for RYBREVANT at upcoming medical meetings. 
+In MedTech, notable highlights in the first quarter include significant advancements across our cardiovascular portfolio. In pulsed field ablation, we received the CE Mark approval for VARIPULSE based on the 12-month inspIRE study, which demonstrated 80% of patients achieved freedom from recurrence and zero primary adverse events. We filed for U.S. approval of VARIPULSE based on the admIRE study, which showed all pilot phase patients achieved acute success and 80% remaining free from atrial arrhythmia reoccurrence after one year.
+We also submitted a CE Mark filing for our Dual Energy SMARTTOUCH SF Catheter, which will provide physicians the optionality for RF and PsA energy sources in one catheter. We began enrollment of patients in a pivotal trial evaluating Laminar's left atrial appendage elimination device to reduce the risk of stroke in patients with nonvalvular atrial fibrillation. 
+And the late-breaking DanGer Shock study presented at the American College of Cardiology Conference and simultaneously published in the New England Journal of Medicine confirmed routine use of Abiomed's Impella CP in patients who have had a heart attack with STEMI cardiogenic shock reduced 180-day mortality by 12.7%. 
+In Vision, we launched TECNIS PureSee, a next-generation presbyopia-correcting lens for cataract patients in EMEA. We also presented new data for our presbyopia correcting IOL, TECNIS Odyssey, at the 2024 American Society of Cataract and Refractive Surgery in April.  
+Looking ahead, we will continue to advance our electrophysiology pipeline with the full U.S. market release of the QDOT MICRO catheter, the U.S. commercial launch of Abiomed's Impella RP Flex with SmartAssist as well as the submission of Impella ECP. Within our robotic surgery pipeline, we are on track to submit an investigational device exemption to the FDA for OTTAVA in the second half of 2024.  
+Turning to financials, starting with cash and capital allocation. We ended the first quarter with $26.2 billion of cash and marketable securities and $33.6 billion of debt for a net debt position of $7.4 billion. 
+We are pleased with our free cash flow generation in the first quarter of approximately $3 billion. This was above the first quarter of 2023, which included the consumer health business cash flow. Also in the first quarter of 2024, we incurred elevated payment levels made in furtherance of achieving a responsible, final and comprehensive resolution of the talc litigation.  
+We continue to maintain a healthy balance sheet and strong credit rating, underscoring the strength of Johnson & Johnson's financial position and ability to execute against our capital allocation priorities. 
+Innovation continues to be a main priority for the company, as demonstrated by our industry-leading R&D spend. During the first quarter, we invested more than $3.5 billion in research and development or 16.6% of sales.  
+We also remain committed to returning capital directly to shareholders through our dividend. We appreciate the value our investors place on the dividend, and we were pleased to announce this morning that our Board of Directors has authorized a 4.2% increase, marking our 62nd consecutive year of dividend increases. 
+As we stated previously, we are disciplined in our approach to inorganic growth and prioritize acquisitions that strategically fit and present meaningful long-term growth opportunities. This is evidenced by the pending transaction in which we are adding a profitable commercialized portfolio of Shockwave Technologies in high-growth markets as well as a robust pipeline.  
+I'll now discuss our full year 2024 guidance, which excludes the recently announced acquisition of Shockwave. As previously communicated, we assume the closing of the transaction will take place by midyear 2024, at which time we will update our guidance to reflect the expected dilution to adjusted earnings per share in 2024 of approximately $0.10 per share driven by financing costs.  
+Based on the results delivered in the first quarter, we are tightening our ranges and increasing the midpoints for our full year operational sales and adjusted operational EPS guidance. As such, we expect operational sales growth for the full year to be in the range of 5.5% to 6.0% or $88.7 billion to $89.1 billion, increasing the midpoint by $300 million or 0.3%. As a reminder, our sales guidance continues to exclude any impact from COVID-19 vaccine sales. 
+As you know, we don't speculate on future currency movements. Last quarter, we utilized the euro spot rate relative to the U.S. dollar of 1.09. As of last week, the euro spot rate was 1.08, a modest strengthening of the U.S. dollar also experienced by a handful of other currencies. As a result, we now estimate a negative full year foreign currency impact of $700 million, resulting in an estimated reported sales growth between 4.7% to 5.2% compared to 2023, with a midpoint of $88.2 billion or 5% at the midpoint, consistent with last quarter's guidance.  
+We are maintaining other elements of our guidance provided on January's earnings call with the exception of 2 items. We are increasing interest income to a range of $550 million to $650 million. We are also tightening the range of our adjusted operational earnings per share guidance to $10.60 to $10.75, increasing the midpoint by $0.03 to $10.68, reflecting year-on-year growth of 7.7%.  
+While not predicting the impact of currency movements, utilizing the recent exchange rates I previously referenced, our reported adjusted earnings per share for the year estimates a negative foreign exchange impact of $0.03 per share. As a result, the reported adjusted earnings per share remains unchanged at $10.65, reflecting 7.4% growth versus 2023. 
+While we do not provide guidance by segment or on a quarterly basis, we continue to expect that the same qualitative considerations provided during January's earnings call to remain intact. We anticipate Innovative Medicine sales growth to be slightly stronger in the first half of the year compared to the second half given the anticipated entry of STELARA biosimilars in Europe midyear. For MedTech, we expect operational sales growth to be relatively consistent throughout the year. 
+Looking ahead, we have many important catalysts in the pipeline that will drive meaningful near- and long-term growth across both Innovative Medicine and MedTech. We look forward to advancing our pipelines in both segments to deliver innovative treatments, solving some of the most complex health challenges. 
+This wouldn't be possible without our employees around the world, so it's only appropriate, before turning to your questions, that we recognize and thank our colleagues for their continued hard work, commitment and dedication to patients.  
+I'm pleased to be joined by Joaquin, Jennifer, John and Tim for the Q&A and kindly ask Kevin to provide instructions to initiate that portion of the call.
+
+Question and Answer Operator Message
+Operator
+[Operator Instructions] Our first question today is coming from Terence Flynn from Morgan Stanley.
+
+Question
+Analysts - Equity Analyst
+Great. Maybe just a 2-part on myeloma. First, on CARVYKTI, was just wondering if you could elaborate on the phasing comments that impacted sales in the quarter. 
+And then secondly, on TECVAYLI, how should we think about growth for this product? It looks like it's been somewhat flattish over the last couple of quarters, but just wondering if TALVEY had an impact there. So as we think about those franchises back half of this year, maybe you could provide some high-level commentary.
+
+Answer
+Executives - CEO & Chairman
+Thank you, Terence, for your question. And before we go into the specifics of your question on CARVYKTI and TECVAYLI and TALVEY, our multiple myeloma franchise, let me share with all of you some reflections on this quarter. 
+We are entering 2024 in a position of strength, and I'm particularly encouraged on the performance of our strategic platforms, the ones that are going to drive growth in the second half of the decade. In Innovative Medicines, DARZALEX, TREMFYA, ERLEADA all grew over 20%. And specifically on TREMFYA, now we have more sales in our psoriasis and psoriatic arthritic indications than we do with STELARA. And we have high expectations for the brand with ulcerative colitis data to be presented at the Digestive Disease Week just a few weeks from now and also data on Crohn's disease to be presented also this year.  
+We continue to see increased demand from our new product launches, SPRAVATO, TECVAYLI, TALVEY, CARVYKTI, with CARVYKTI just a few weeks ago receiving FDA approval to move into the second line setting.  
+Now let me move into MedTech. We have demonstrated a strong performance across cardiovascular, in electrophysiology and Abiomed, and we have made significant progress with our PsA portfolio. We also have delivered several important capital allocation milestones in Q1, investing heavily in R&D, raising our dividend for the 62nd consecutive year, closing the Ambrx acquisition and announcing the planned acquisition of Shockwave Medical. As you have heard from Joe in his prepared remarks, we continue to make progress on achieving responsible, final and comprehensive resolution of the talc litigation.  
+Overall, I'm proud of the performance in the quarter, both in terms of the solid financial, but also the numerous pipeline advancements. It is a solid start of the year that puts us in a position of strength for 2024. And also, the sustained progress gives us give me great confidence in achieving our long-term growth goals of operational sales compounded annual growth rate of 5% to 7% from 2025 to 2030. 
+Overall, it gives me great confidence in the future of Johnson & Johnson. Now to Jennifer on your question, Terence, on CARVYKTI, TECVAYLI and TALVEY.
+
+Executives - Executive VP & Worldwide Chairman of Innovative Medicine
+Well, thanks, Joaquin. Just also a quick shout-out and a big thanks to our Innovative Medicine colleagues around the world, delivering 8.3% adjusted operational growth, definitely above-market growth for the quarter, with strength being really across our core launch -- our core and launch brands, 9 brands, achieving double-digit growth, 10 actually, if you include TALVEY in that mix, a strong pipeline progress that Joaquin noted and also the announcement and closing of our acquisition of Ambrx really to add key -- another key pipeline asset for us as well as key technology that can help us in ADC. So really strong quarter all the way around.  
+With respect to your question specifically in multiple myeloma and then CARVYKTI and TALVEY, multiple myeloma continues to be a true stronghold for us, and we had significant performance in growth across the board in those assets during the quarter. 
+I can start off real quickly with DARZALEX with 21% growth, predominantly with that growth coming in the frontline setting and also was noted that with -- our PERSEUS data has been filed, which will offer us an additional expansion in frontline. 
+For CARVYKTI, we had over 100% growth versus the first quarter of 2023. Very, very strong demand. We did have both the AdCom in the United States, which results in a unanimous recommendation for approval and then the, subsequent to the end of the quarter, approval of CARVYKTI for that line 2 plus, which we think bodes very well.  
+I know there's always questions on how are we doing and how are we expanding our capacity given the strengths of the data and the additional data that's coming through in indications. I'm real happy to say, we have doubled our manufacturing capacity since the beginning of 2023. For cell processing, we are continuing to work on our Ghent facility to have that as a secondary source of supply. We brought on some contract manufacturers, and we have completely transformed and expanded lentivirus production so that, that's not a rate-limiting step for us.  
+So I know we were a flat -- roughly flat quarter-to-quarter from 4Q to 1Q. As noted, that really just was some phasing and timing of orders. And when they were actually delivered and built for nothing that -- anything to really see there. We do anticipate continued growth for this asset, particularly second half versus first half, as we continue to add more slots and expand our capacity. And based on the data and everything that we're seeing, we've continued to have a lot of optimism for how CARVYKTI is performing.  
+Likewise, as it relates to TECVAYLI, the TECVAYLI launch is going very well around the world. Consistently, we're seeing very strong uptake and rapid adoption, whether we're in the U.S., Germany, Austria, France, the major markets that have launched to date. And really, as the first we believe best-in-class off-the-shelf BCMA bispecific, we really believe that, that therapy is offering deep and durable responses. And so a lot of optimism for continuing to drive the launch there. The product is performing well in the later line settings and is also performing very well from a competitive standpoint.  
+And last but not least is actually TALVEY, which is our 10th product with double-digit growth, although that falls in the all other oncology category, so we're not fully breaking that out yet. But very, very strong uptake as the first and only GPRC5D off-the-shelf by bispecific as well. 
+So I think what this really means is we have got fabulous opportunities across lines of therapy with what we believe are truly best-in-class agents, and many of these agents have potential as well to be combined as we work towards curing multiple myeloma. So a significant business for us, and I'm very positive on our outlook for the rest of the year and going forward.
+
+Question and Answer Operator Message
+Operator
+Our next question is coming from Larry Biegelsen from Wells Fargo.
+
+Question
+Analysts - Senior Medical Device Equity Research Analyst
+A question for Tim. Your MedTech business grew 6.5% on an adjusted operational basis in Q1, but there were a number of onetime items. What was the net impact from those onetime items in your view? And what are you seeing around the world from a procedure standpoint? And what are your expectations for the rest of the year?
+
+Answer
+Executives - Executive VP & Worldwide Chairman of MedTech
+Well, thank you for the question, Larry. And let me maybe just reflect a little on the journey that we've been on. As you know, we surpassed $30 billion last year with adjusted operational growth of 7.8%. And I think it's important to note that when we compare ourselves against the majority of the competitors within our competitive composite, we are double their size. So that is performance that we are particularly proud of. 
+We've now followed that up with another solid quarter of 6.3% growth in the first quarter. Now, Larry, to your point, there has been some noise in that. We are particularly proud of the tremendous double-digit growth within our electrophysiology business. And to put that in context, this is a business that is nearing on $5 billion, growing north of 20%. 
+And I think that really called out the leadership position, which we're continuing to build on and couldn't be more excited about the progress we're making in PFA, which we believe also will continue to drive that performance. 
+There has been some noise specifically in relation to our Vision business. But please rest assured, we are extremely confident in the underlying health of our Vision portfolio. This is a business that grew 6.6% last year, and we expect it to grow in high single-digit performance this year. 
+There has been some stocking issues related to distributor inventory, which was the predominant driver of the performance you see this year. But once again, very confident that we'll see that return to strong single-digit performance for the remainder of the year. 
+There had been a couple of one-timers, both in terms of selling days, as we mentioned earlier, about 80 bps of selling days and then a revenue recognition change within our Orthopaedics business, which impacted that business about 300 basis points. But all in all, a strong quarter, Larry, and we remain very committed to strong high single-digit growth for the remainder of the year for 2024.
+
+Executives - Executive Vice President of Innovative Medicine and R&D
+Larry, I just want to maybe add on to Tim's good comments there. The one-timers, there was tailwinds and headwinds in that number. So the 6.3% that you're seeing, the 6.5%, is pretty much a true number when you consider both sides of the equation.
+
+Question and Answer Operator Message
+Operator
+Our next question is coming from Chris Schott from JPMorgan.
+
+Question
+Analysts - Senior Analyst
+I just have a BD question here. I guess, following the Shockwave acquisition, what's the appetite, I guess, for further away? Maybe talk about like larger tuck-in type transactions, either in your MedTech or Pharma business. 
+It just seems like the portfolio and the pipeline at J&J has evolved pretty nicely over the past few years. And I'm interested if you think the business is now at a point where we can think about maybe smaller earlier-stage assets as the primary focus for BD. Or do you still have a greater sense of urgency either in MedTech or Pharma to add some of these kind of bolt-on type transactions going forward?
+
+Answer
+Executives - CEO & Chairman
+Thank you, Chris, and this is Joaquin. And I'm glad that you recognize the strategic consistency of our M&A trajectory, and that's good. Our M&A strategy looks for the long term, so it's not going to change. 
+Our capital allocation strategy will continue to be disciplined. And M&A, it's going to be -- remain a critical component of that. And it's important for me to underline that with the strength of our cash flow and our balance sheet, we have significant flexibility to consider multiple types of transactions, as you mentioned. 
+And what we have done so far is a demonstration of that with Abiomed, Laminar, Ambrx, and now the planned acquisition of Shockwave. All of them are good examples of our studying consistency and the principles that we have outlined to you. So that is not going to change. Our M&A strategy is not going to change. 
+We'll continue to evaluate opportunities agnostic to the sector and size. And what we are looking for, it's a number of components. One, does this technology improve the current standard of care? That's critical for us. To what extent we believe there is a patient impact, which is positive. Number two, does it -- is it consistent with the capabilities and knowledge that we have in-house? We see a correlation between that and the success in the acquisitions. Number three, does it enable us to enter into higher growth markets, so areas that are growing in which we can continue to develop that market? And finally, and very important for us, does it continue to deliver a compelling financial result for our shareholders? 
+So that's our M&A strategy, and it's been a cornerstone of our ability to create value. I am glad that you recognize the consistency that we have deployed, and it's not going to change looking into the future. When we think about M&A, we think in decades. We don't think opportunistically.
+
+Question and Answer Operator Message
+Operator
+Our next question is coming from Joanne Wuensch from Citibank.
+
+Question
+Analysts - Managing Director
+Can we circle back to Vision Care, please? And can we unpack the different parts that are positive and negatives on the IOL and the contact lens business?
+
+Answer
+Executives - Executive VP & Worldwide Chairman of MedTech
+Of course, Joanne. Thank you for bringing this up because it is -- it does look odd and certainly isn't consistent with our expectations or the performance that we expect going forward from that business. As I mentioned earlier, this is a business that grew 6.6% in 2023 and actually consistently grows in high single digit. 
+We absolutely believe in the underlying health of our Vision business and that remains strong and continues to perform above market. As I mentioned earlier, the Q1 performance was predominantly driven by a contraction of U.S. distributor inventory in contact lens. 
+As we have mentioned in the past, we had some variability in terms of our supply, which resulted in changes within distributor inventory. We've now started to see that. As our supply for contact lenses has stabilized, we've started to see a normalization of the inventory that our distributors are carrying on hand. And so that is the big driver in the results that you see today. 
+As you know, in contact lens, this is an annuity business where it's all about how you gain your fair share of new users while, at the same time, protecting the base. We are incredibly pleased with the ongoing performance of our premium ACUVUE OASYS 1-Day family, and we are seeing unprecedented share gains in multifocal. 
+I will also say that if we look at sequential share gains across the contact lens business, we are seeing sequential gains, which should bode well for continued performance for the remainder of the year. 
+Specifically to IOLs, as you know, we are not currently a market leader, but we are expecting to deliver the fourth consecutive year of global share gains, driven primarily by tremendous performances of our IOL business in Asia-Pac and in EMEA. 
+We're also excited, as you heard from Jess earlier, by the limited market release of our TECNIS PureSee and Odyssey next-gen multifocals, and we'll see a full release occur through the remainder of the year. 
+So once again, very confident that you will see tremendous improvement in the performance of that business, and we expect high single-digit growth for Vision for 2024.
+
+Question and Answer Operator Message
+Operator
+Your next question is coming from Chris Shibutani from Goldman Sachs.
+
+Question
+Analysts - Former Research Analyst
+Great. If I could ask about the Pulmonary Hypertension business. This quarter, quite strong. You mentioned, in particular, share gains and favorable patient mix. If you could help us understand that a little bit better. 
+And then on the forward, the pulmonary arterial hypertension segment is anticipated to see some disruption with the introduction of the recently approved product from Merck, WINREVAIR. Can you comment on what you're thinking the portfolio will perform and how that market will respond to this anticipated shift?
+
+Answer
+Executives - Executive VP & Worldwide Chairman of Innovative Medicine
+Chris, it's Jennifer. So yes, we're really pleased with our Pulmonary Hypertension results for the first quarter, with both OPSUMIT and UPTRAVI delivering strong growth. That was both volume and share gains in the market as well as some favorable patient mix and really rounding out a year of favorable patient mix. That last piece, we don't see continuing to go forward to the same degree. But the products are performing very well for patients with PAH. 
+Importantly, in the quarter, we got approval for OPSYNVI, which is the first combination tablet of PDE5 and an ERA. This is in line with guidelines. It's really once a patient is diagnosed, really, the right first choice for them is to start them on combination therapy. And so we think that this is an important introduction. 
+And as we take a look at our portfolio, and even despite other new competitors that are coming in, we do believe with OPSUMIT and UPTRAVI, they've got very strong usage and both with the launch of OPSYNVI as well as what we have, that these will continue to be really productive assets and a good therapeutic area for us.
+
+Question and Answer Operator Message
+Operator
+Next question is coming from Danielle Antalffy from UBS.
+
+Question
+Analysts - Analyst
+Tim, if I could just follow up on MedTech and specifically Orthopaedics, and appreciate the onetime revenue recognition, not sure you can provide any color on exactly what changed there. But also you talked about consistent MedTech growth going forward. I mean, taking -- backing that out, you get to sort of 3% U.S. Orthopaedic sales growth. 
+Is that the right way to think about that specific segment going forward? Or am I missing some onetime tailwinds? Maybe talk a little bit about the outlook for Ortho given what you guys put up this quarter.
+
+Answer
+Executives - Executive VP & Worldwide Chairman of MedTech
+Thank you, Danielle. Firstly, we are operating in a very robust market. As we communicated in the fourth quarter of last year, we still see some remnants of procedural backlog that are benefiting primarily our Orthopaedics business, and we expect that to continue at least to the first half of 2024. 
+As you mentioned, our overall performance in Orthopaedics of 4.8% was impacted by a onetime change in revenue recognition timing. And this is only related to our U.S. business, but it did impact that business by about 300 basis points. Now keep in mind, we also had the impact of the fewer selling days, which disproportionately impacted our Ortho business by 80 bps. 
+We are proud of the ongoing progress we're making, specifically in areas where we needed to compete better. And specifically in hips and knees, we saw high single-digit growth in the first quarter, and specifically in knees driven by the tremendous performance of our VELYS platform. We're now within 2 years in 18 markets, 50,000 procedures and are seeing that as a constant tailwind as we now expand the provision of VELYS into EMEA and Asia-Pac through the remainder of the year. 
+And so I think you can expect continued improvement in our Orthopaedics business for the remainder of the year, as we continue to build our portfolio and drive further expansion across the globe.
+
+Question and Answer Operator Message
+Operator
+Our next question today is coming from Geoff Meacham from Bank of America.
+
+Question
+Analysts - Research Analyst
+This is Charlie Yang for Geoff. I have 2 questions, please. I know there's recent news regarding the INVEGA SUSTENNA/XEPLION litigation. Can you just tell us about kind of what we should kind of think about in terms of the potential kind of impact or in terms of the timing of the next steps? 
+And then second, can you just talk about the very strong bladder cancer data expectation, AUA? In terms of what kind of benchmark we should expect in terms of the 1-year CR rate?
+
+Answer
+Executives - Executive VP & Worldwide Chairman of Innovative Medicine
+Perfect. Well, I'll take the INVEGA SUSTENNA question, and I'll pass it over to my colleague, John, to take the next one. So if we think about our LAI portfolio, our long-acting injectables, just as a reminder for everybody, we really are leading therapies in this space with our INVEGA SUSTENNA, INVEGA TRINZA and INVEGA HAFYERA products. And we're really excited about the latest data that we have, particularly for HAFYERA, which a recent study shows that at 2 years, 96% patients on HUMIRA -- excuse me, on HAFYERA are relapse-free, which is really, really striking. 
+So as we get to the legal question, we really don't speculate on the impact of ongoing litigation. But that being said, we remain really confident about the strength of our INVEGA SUSTENNA patents, and we're going to continue to defend the intellectual property that's associated with these patents. 
+If we're clear to go a little bit deeper, the Federal Circuit's April 1 decision did not invalidate our patent. It just remanded the case back to the New Jersey District Court, the one that had ruled in our favor originally. 
+Likewise, there was another ruling and another case on this patent against a different company that also did go in our favor. So it's going back to the original judge that ruled on -- in favor of the patents, and we'll have to see what comes. We won't speculate on that, but we remain really confident on the strength of our patents.
+
+Executives - Executive Vice President of Innovative Medicine and R&D
+Yes. Thanks for your interest in the platform that we have, the drug device combo for early bladder cancer. Clearly, a great unmet need in as much as there are more than 600,000 people every year who are diagnosed with early bladder cancer. And the vast majority of those patients go on to have their bladders removed, which clearly has a very detrimental effect on quality of life. 
+With our drug device system which, I think, again, is a great example of how MedTech and Pharma can come together in a synergistic way, but we delivered, really, I think, exciting early data. Those were presented at the ESMO conference last September and showed, for example, with the TAR-200 product that has gemcitabine, an impressive complete response rate of over 75% and nice durability with 21 out of 23 patients, who we showed at that meeting, still ongoing and no patients having had to progress to a radical cystectomy. 
+So I think at the AUA, because those data are not yet disclosed, I can't provide the details. But I think you can expect to see more of the same now with longer follow-up. And with more patients, we've expanded those cohorts and do believe that we're on track to deliver pivotal data in that first indication, which is in the BCG nonresponsive patients. 
+Recollect that in early bladder non-muscle invasive bladder cancer, standard care is this attenuated mycobacteria BCG. Unfortunately, fewer than half patients receive -- achieve a complete response. And the therapy is -- has tolerability problems, to say the least, where patients feel like they have a chronic urinary tract infection. 
+The discontinuation rate with TAR-200 has been very low. So we're very delighted with the excellent tolerability profile as well as these impressive deep efficacy -- deep and durable efficacy. 
+So yes, so please watch that AUA presentation. I think we remain on track for a filing early next year based on these pivotal data, and we look forward to sharing those results at that Congress.
+
+Question and Answer Operator Message
+Operator
+Next question is coming from Matt Miksic from Barclays.
+
+Question
+Analysts - Research Analyst
+So a follow-up maybe on some of the device trends. In particular, cardio and EP, very strong in the quarter. Wondering if you could provide some color kind of geographically as to how some of the product launches have either driven overseas or competitive environment in the U.S. has affected U.S. performance so far. And then just one quick one on Ortho, if I could.
+
+Answer
+Executives - Executive VP & Worldwide Chairman of MedTech
+Sure, Matt. Firstly, let me start on cardio. As Joaquin mentioned, we've made a lot of progress in building out our portfolio. And until recently, we only participated in one high-growth category within cardiovascular, and that being electrophysiology, which I will touch on performance in a second. 
+We are and have had a 20-year lead in electrophysiology and now have built on that position in cardiovascular with the acquisition of Abiomed. We're now over a year into integrating that business and couldn't be more proud of the progress we've made. We continue to perform ahead of the deal model. And once again, this quarter did so with growth in excess of 15%. 
+That gives us now 2 leadership positions within cardiovascular care. Once we close the acquisition of Shockwave, that will be our third very thoughtful and deliberate move to only participate in high-growth, high-margin cardiovascular areas where there is significant unmet need and tremendous opportunity for us to grow. 
+And so we're very excited by the fact that we will be one of the only strategics with only high growth, high-margin businesses in the largest category within MedTech, $60 billion market, growing roughly 8%, incremental $5 billion of growth coming out of that category each and every year. So very excited by those moves. 
+Specifically to your questions on EP, we've seen growth across the board in excess of 20%, both in the U.S. and ex-U.S. And I think it really talks to the trust that our customers have in our technology today. 
+RF and our portfolio of RF products are the most and tested products with 20 years of experience. And by the way, we're not going to miss PFA, the progress we've made on ensuring that we can build our presence in that category with the approval in the EU as well as in Japan. We've also submitted for FDA approval. 
+And while we don't control the timings, we expect that approval to come through by the end of this year or early next year. And so very confident in our ability to build on our leadership position in EP. Was there a specific question to Ortho?
+
+Question
+Analysts - Research Analyst
+Yes. Just a comment on Ortho generally was sort of low to mid-single digits. But in hips and knees, sounded like 9%-ish. Add back the selling day and you're at double digits. It is just kind of really off the chart growth, I think, in that category. 
+And I'm just wondering, should we see some sustainability of that rate or ramping down of that rate? How can you help us think about the rest of the year, in particular in hips and knees?
+
+Answer
+Executives - Executive VP & Worldwide Chairman of MedTech
+Well, Matt, I think it's a testament to the progress of our team within also in building out our portfolio. We had some gaps in the past and now filling those gaps, both in hips and then even more notably in knees with the launch of our VELYS robot is really what is creating the tailwind that we're enjoying today, and we do expect that to continue. 
+Now this was a strong quarter. Can we see that sort of growth every single quarter? Not absolutely sure, but we do expect high single-digit growth out of both of those categories going forward. 
+I will also say that the work we've done in the Orthopaedics here isn't -- hasn't been just about growth. It's also about improving our margin profile. And you know that in the second quarter of '23, we announced a major restructuring, which is focused on really simplifying our portfolio and focusing our business on where we could drive the greatest impact for patients and for shareholders. 
+That effort is resulting in a 20% reduction in our implants. And to put that in context, we have 100,000 implants today within our Orthopaedics business. And so a real testament to the effort of that group to not only drive top line performance, but also evolve the portfolio to improve margins. Thank you, again, Matt.
+
+Executives - Group CFO of Johnson & Johnson Innovative Medicine
+Thanks, Matt. Kevin, we have time for one more question.
+
+Question and Answer Operator Message
+Operator
+Our final question today is coming from Vamil Divan from Guggenheim Securities.
+
+Question
+Analysts - MD of Healthcare Research & Senior Equity Research Analyst
+One, I just was curious on SPRAVATO and sort of where -- and very strong growth again this quarter. If you can just provide a little more context there on where the growth is coming from, what sorts of practices, what that -- the patients are given that product to be hopefully get a sense of that trend. 
+And then just the other question we get a lot from investors is on the drug price negotiations with Medicare on the 10 drugs that are selected for this year's program through IRA. I know you probably don't want to get too much into the specifics, but I'm curious if you can just share some high-level thoughts on how the progress of those discussions are going. And is it sort of in line with what you expected? Is there anything sort of very different from what you expected as the process plays out?
+
+Answer
+Executives - Executive VP & Worldwide Chairman of Innovative Medicine
+Well, thanks for the question, and thanks for asking about SPRAVATO. We continue to be really pleased with the uptake of SPRAVATO, as we continue to launch that product globally. You saw that there's over 70% growth in the quarter, as it continues to perform well for patients with treatment-resistant depression. 
+And so we've got a bold outlook for SPRAVATO as we continue to launch it into more markets and as we are able to even further penetrate the existing markets that we're in into a bit more of the community setting there. 
+In terms -- so good -- really, really good outlook. We're also -- just to put in a plug for neuroscience. We talk a lot about our oncology business and our immunology business. Neuroscience is also a key area for us. So SPRAVATO is a key platform. We've also got aticaprant and seltorexant coming, and we had mentioned the long-acting therapies with the INVEGA SUSTENNA franchise earlier. 
+So back on IRA, we've been really clear that we do think that these -- the IRA drug setting provisions are damaging to the health care innovative system. It just -- it is not something that is going to help reinforce the tremendous investments that we're making in R&D to develop the next types of treatments and cures. 
+That being said, we do focus on patient access and are trying to make sure that our products are available to the patients who need them. And so we're working appropriately with the government and in line with the process to start going back and forth around what the ultimate price will be. 
+So there has been a round or two of going back and forth. And so we're still in the middle of that process. I can't really provide any more details on that. What I will say is that the products that we have that are going through the process, they are not our growth drivers for the future. Those are -- they are our products that are more at end of life. And so they're not the ones that are going to be really key for us, both in the coming years as well as out through the end of the decade. 
+And what I'd love to also reinforce is that we do remain confident that we've got a clear path to achieving our $57 billion commitment that we made back in December at our enterprise business review as well as from '25 to '30, delivering above market growth with 5% to 7% compounded annual growth rate, and with growth in every year, that being 2025 as well as all of the years beyond that. 
+So irrespective of the IRA, when I take a look at our growth drivers and how our pipeline is coming in, we feel real confident about the state of our business.
+
+Executives - Group CFO of Johnson & Johnson Innovative Medicine
+Thank you, Vamil, and thanks to everyone for your questions and your continued interest in our company. We apologize to those that we couldn't get to because of time, but don't hesitate to reach out to the Investor Relations team with any remaining questions you may have. 
+I will now turn the call over to Joaquin for some brief closing remarks.
+
+Executives - CEO & Chairman
+Thank you, Jess. And Johnson & Johnson's solid first quarter performance reflects our sharpened focus and the progress in our portfolio and pipeline. Our impact across the full spectrum of health care is unique in our industry. And the commercial, clinical and capital allocation milestones achieved in Q1 reinforce our position as an innovation powerhouse. 
+One of the most significant milestones this quarter was the announcement of our planned acquisition of Shockwave that will further strengthen our leadership position in cardiovascular. We continue to make strong progress towards the goals that we set out at our December enterprise business review, and I'm looking forward to all that we will achieve through the remainder of 2024.
+
+Question and Answer Operator Message
+Operator
+This concludes today's Johnson & Johnson's First Quarter 2024 Earnings Conference Call. You may now disconnect.
+

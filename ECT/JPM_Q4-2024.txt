@@ -1,0 +1,319 @@
+﻿JPMorgan Chase & Co., Q4 2024 Earnings Call, Jan 15, 2025 - 
+
+Presentation Operator Message
+Operator
+Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's Fourth Quarter 2024 Earnings Call. This call is being recorded. [Operator Instructions] 
+We will now go live to the presentation. The presentation is available on JPMorgan Chase's website. Please refer to the disclaimer in the back concerning forward-looking statements. Please stand by. 
+At this time, I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon; and Chief Financial Officer, Jeremy Barnum. Mr. Barnum, please go ahead.
+
+Presenter Speech
+Executives - Executive VP & CFO
+Thank you, and good morning, everyone. 
+Starting on Page 1. The firm reported net income of $14 billion, EPS of $4.81 on revenue of $43.7 billion, with an ROTCE of 21%.  
+On Page 2, we have more on our fourth quarter results. The firm reported revenue of $43.7 billion, up $3.8 billion or 10% year-on-year. NII ex Markets was down $548 million or 2%, driven by the impact of lower rates and the associated deposit margin compression as well as lower deposit balances in CCB, largely offset by the impact of securities reinvestment, higher revolving balances in Card and higher wholesale deposit balances.  
+NII ex Markets was up $3.1 billion or 30%. Excluding the prior year's net investment securities losses, it was up 21%, largely on higher asset management fees and Investment Banking fees. And Markets revenue was up $1.2 billion or 21%.  
+Expenses of $22.8 billion were down $1.7 billion or 7% year-on-year. Excluding the prior year's FDIC special assessment, expenses were up $1.2 billion or 5%, predominantly driven by compensation as well as higher brokerage and distribution fees. And credit costs were $2.6 billion, reflecting net charge-offs of $2.4 billion and a net reserve of $267 million.  
+On Page 3, you can see the reported results for the full year. I'll remind you that there were a number of significant items in 2024. Excluding those items, the firm reported net income of $54 billion, EPS of $18.22, revenue of $173 billion, and we delivered an ROTCE of 20%.  
+Touching on a couple of highlights for the year. In CCB, we had a record number of first-time investors and acquired nearly 10 million new card accounts. In CIB, we had record revenue in Markets, Payments and Securities Services. And in AWM, we had record long-term net inflows of $234 billion, positive across all channels, regions and asset classes.  
+On to balance sheet and capital on Page 4. We ended the quarter with a CET1 ratio of 15.7%, up 40 basis points versus the prior quarter, as net income and lower RWA were largely offset by both OCI losses and capital distributions, which included $4 billion of net common share repurchases this quarter. The $24 billion decrease in RWA reflects a seasonal decline in Markets activity and lower wholesale lending, which was predominantly offset by a seasonal increase in Card.  
+Now let's go to our businesses, starting with CCB on Page 5. CCB reported net income of $4.5 billion on revenue of $18.4 billion, which was up 1% year-on-year. In Banking & Wealth Management, revenue was down 7% year-on-year on deposit margin compression and lower deposits, partially offset by growth in Wealth Management revenue. 
+Average deposits were down 4% year-on-year and flat sequentially as consumer balances have stabilized. Client investment assets were up 14% year-on-year, predominantly driven by market performance. And we continue to see healthy flows across branch and digital channels. In Home Lending, revenue was up 12% year-on-year, predominantly driven by higher production revenue.
+Turning to Card Services & Auto. Revenue was up 14% year-on-year, largely driven by card NII on higher revolving balances. Card outstandings were up 11% due to strong account acquisition and revolver growth. And in Auto, originations were $10.6 billion, up 7%, reflecting higher lease volume on robust new vehicle inventory. Expenses of $9.7 billion were up 4% year-on-year, predominantly driven by field compensation and growth in technology.  
+In terms of credit performance this quarter, credit costs were $2.6 billion, reflecting net charge-offs of $2.1 billion, up $428 million year-on-year, driven by Card. The net reserve build was $557 million, predominantly driven by higher Card revolving balances.  
+Next, the Commercial & Investment Bank on Page 6. CIB reported net income of $6.6 billion on revenue of $17.6 billion. IB fees were up 49% year-on-year, and we ranked #1 with wallet share of 9.3% for 2024. Advisory fees were up 41%, benefiting from large deals and share growth in a number of key sectors. Underwriting fees were up meaningfully, with debt up 56% and equity up 54%, primarily driven by favorable market conditions.  
+In terms of the outlook for the overall Investment Banking wallet, in light of the positive momentum, we remain optimistic about our pipeline. Payments revenue was $4.7 billion, up 3% year-on-year, excluding equity investments, driven by higher deposit balances and fee growth, largely offset by deposit margin compression. Lending revenue was $1.9 billion, up 9% year-on-year, predominantly driven by lower losses on hedges.  
+Moving to Markets. Total revenue was $7 billion, up 21% year-on-year. Fixed income was up 20%, with better performance in Credit as well as continued outperformance in Currencies & Emerging Markets. Equities was up 22% on elevated client activity in Derivatives, amid increased volatility and higher trading volumes in Cash.  
+Securities Services revenue was $1.3 billion, up 10% year-on-year, driven by fee growth on higher client activity and market levels as well as higher deposit balances. Expenses of $8.7 billion were up 7% year-on-year, predominantly driven by higher brokerage technology and legal expense. Average banking and payments loans were down 2% year-on-year and down 1% sequentially. Global Corporate and Investment Banking loans were down 2% quarter-on-quarter, driven by paydowns and lower short-term financing, primarily offset by new originations. 
+In Commercial Banking, middle market loans were also down 2%, driven by paydowns, predominantly offset by new originations. And commercial real estate loans were flat as new originations were offset by paydowns. Average client deposits were up 9% year-on-year and 5% sequentially, driven by underlying client growth. Finally, credit costs was $61 million, driven by net downgrade activity and the net impact of charge-offs, largely offset by a reserve release due to an update to certain loss assumptions.  
+Then to complete our lines of business, Asset & Wealth Management on Page 7. AWM reported net income of $1.5 billion, with pretax margin of 35%. Revenue of $5.8 billion was up 13% year-on-year, predominantly driven by growth in management fees on higher average market levels and strong net inflows as well as higher performance fees. 
+Expenses of $3.8 billion were up 11% year-on-year, predominantly driven by higher compensation, including revenue-related compensation and continued growth in our private banking advisor teams as well as higher distribution fees. Long-term net inflows were $76 billion for the quarter, positive across all asset classes. 
+In liquidity, we saw net inflows of $94 billion for the quarter and $104 billion for the full year -- $140 billion for the full year, sorry. And we had client asset net inflows of $468 billion for the year. AUM of $4 trillion and client assets of $5.9 trillion were both up 18% year-on-year, driven by continued net inflows and higher market levels. And finally, loans were up 2% quarter-on-quarter and deposits were up 5% quarter-on-quarter.  
+Turning to Corporate on Page 8. Corporate reported net income of $1.3 billion. Revenue of $2 billion was up $223 million year-on-year. NII of $2 billion was down $415 million year-on-year, driven by the impact of lower rates, largely offset by balance sheet actions, primarily securities reinvestment activity.  
+NIR was a net loss of $30 million compared with a net loss of $668 million in the prior year, driven by lower net investment securities losses this quarter. And expenses of $550 million were down $3 billion year-on-year, predominantly driven by the absence of the FDIC special assessment of $2.9 billion in the prior year.  
+With that, let's pivot to the outlook, starting with NII on Page 9. We expect 2025 NII ex Markets to be approximately $90 billion. Going through the drivers, as usual, the outlook assumes that rates follow the forward curve. It's worth noting that the NII decrease is driven by both the cut expected in 2025 and the impact of the 100 basis points of cuts in the back half of 2024. 
+You can see on the page that we've illustrated the historical trajectory of card loan growth. We expect healthy card loan growth again this year, but below the 12% pace we saw in 2024, as tailwinds from revolver normalization are largely behind us.  
+Turning to deposits. Firm-wide deposits have stabilized, and we expect to see a more visible growth trend assert itself in the second half of 2025. It's notable that we can already see that trend in consumer checking deposits. On deposit margin, we expect modest compression due to lower rates. 
+When you put all that together, we expect the NII trough could be sometime in the middle of the year, followed by growth, as we illustrated at the bottom of the bar. And for completeness, we expect firm-wide NII to be approximately $94 billion as a function of Markets NII increasing to about $4 billion, which you should think of as being primarily offset in NIR. Finally, I want to point out that starting this quarter, we are including an estimate of earnings-at-risk in the earnings supplement, so you no longer have to wait for the K or the Q to get that number.  
+Now let's turn to expenses on Page 10. We expect 2025 expense to be about $95 billion. Looking at the chart in the middle of the page, I'll touch on the drivers of the year-on-year change, which you'll note are very consistent with what you've been hearing from us recently.  
+The largest increase is volume and revenue-related expense, which is primarily driven by expected growth in auto leasing as well as capital markets. As a reminder, this comes with higher revenues. We continue to hire bankers and advisors to support business growth as well as expand our branch network. The increase in tax spend is primarily business-driven as we continue to invest in new products, features and customer platforms as well as modernization. 
+Marketing remains a driver of spend as we continue to see attractive opportunities, resulting in strong demand and engagement in our Card business. And finally, while we haven't explicitly called it out on each bar, inflation remains a source of some upward pressure. And as always, we are generating efficiencies to help offset it.  
+Now let's turn to Page 11 to cover credit and wrap-up. On credit, we expect the 2025 Card net charge-off rate to be in line with our previous guidance of approximately 3.6%. So in closing, 2024 was another year of record revenue and net income, and we're proud of what we accomplished. As we look ahead to 2025, we still expect NII normalization, although to a lesser extent than we previously thought. 
+And taking a step back, we think it's important to acknowledge the tension, the risks and uncertainties in the environment and the degree of optimism embedded in asset prices and expectations. In that context, we remain upbeat about the strength of the franchise, but we are focused on being prepared for a wide range of scenarios.  
+Finally, let me say a few words about the wildfires in Los Angeles. While we don't expect much of a financial impact from it, we have a presence in the area across all 3 lines of business, so we're keeping in close contact with our customers, clients and employees. We are offering support in a variety of ways, including waiving consumer and business banking fees as well as making a contribution to local relief organizations, offering employee donation matching and supporting employee volunteer efforts.  
+With that, I'll turn it over to Jamie before we open up the line for Q&A.
+
+Executives - Chairman & CEO
+Good morning, everybody. I just want to point out that Daniel Pinto is not leaving the company yet. So it's premature. What I'm -- yes, I just wanted to say -- and I'd be remiss not to say, he's a young man who joined the company at 20 years old in Argentina. He ran trading in Argentina, then ran trading for Latin America. Then he ran global emerging markets trading, then he ran fixed income trading. And then became the Co-Head of the Investment Bank and the sole Head of Investment Bank for 10 years.  
+And over that whole time, he helped me build one of the great investment banks in the world. And so -- and then, obviously, he was President for 5 years or more, a great partner of mine, trusted by everyone at the company. So we're thrilled to have his skills and talents going forward, but I just wanted to recognize the contributions he made.
+
+Executives - Executive VP & CFO
+Great. All right. So let's go to questions.
+
+Question and Answer Operator Message
+Operator
+Our first question comes from John McDonald with Truist Securities.
+
+Question
+Analysts - Managing Director
+Jeremy, I wanted to ask about capital. And I know you get this question a lot about the kind of high-class dilemma of your growing capital base and your perspective of that as earnings in store. So I guess, what's the framework for thinking about the opportunity cost of sitting on the growing base of capital and how high you might let that go versus your patience in waiting for more attractive deployment opportunities?
+
+Answer
+Executives - Executive VP & CFO
+Yes. Good question, John, and welcome back, by the way.
+
+Executives - Chairman & CEO
+We saw that, John. Met your team the other day. I took me quite a while, but good work.
+
+Executives - Executive VP & CFO
+So yes, you've noted all the points that we always make, so I won't repeat them. And I think the way we're thinking about it right now is that we feel very comfortable with the notion that it makes sense for us to have a nice store of extra capital in light of the current environment. We believe there is a good chance that there will be a moment where we get to deploy it at better levels, essentially, in whatever way than the current opportunities would suggest. 
+And so that feels like a correct kind of strategic and financial decision for us. Having said that, having studied it quite extensively over the last 6 months and have all these debates that you would expect, we've concluded that we do have enough. We have enough excess. 
+And given that, we would like to not have the excess grow from here. So when you think about the implications of that, given the amount of organic capital generation that we're producing, it means that -- unless we find, in the near term, opportunities for organic deployment or otherwise, it means more capital return through buybacks, all else being equal, in order to arrest the growth of the excess. 
+And that is our current plan. I'll give the caveat that, as you know, is in our disclosure, which is we don't want to get into the business of guiding on buybacks. And we reserve the right to change the trajectory at any time for any reason, but that is our current thinking.
+
+Question
+Analysts - Managing Director
+Okay. And then just as a follow-up. When we think about the investment spend agenda this year, how does it differ from, say, last year or last couple of years across lines of business and this kind of certainty of return spectrum you've talked about? And then what kind of efficiencies are baked into the outlook as well?
+
+Answer
+Executives - Executive VP & CFO
+Sure. I mean, the truth is, and I guess this is a good thing, that the teams are remarkably consistent. So we are seeing the results of our kind of high-certainty investment choices across all the categories that you know very well and that we highlighted on the outlook page for expenses. And those continue to be the main areas of focus.  
+The execution gets tweaked at the margin as we pursue different opportunities in the Commercial & Investment Bank. We continue drilling down and analyzing into the relative pockets of weakness that you might see if you go a level or 2 below the very significant -- significantly strong share positions that you see on an aggregate level.  
+Daniel always talked about the reds and the ambers that are behind the greens, and that's embedded in the culture of the company. So we do that everywhere and continue analyzing and iterating. And we throw resources against that stuff as we do that. But broadly, the teams are very consistent. 
+I think in terms of efficiency, a couple of things to say, which you know well. One is, when we think about efficiency and how we've generated at this company, it's organic, it's BAU, it's evergreen. It happens every day in all the teams everywhere. And so that is sort of part of the bottoms-up culture, and that remains the case.  
+We do have a few top-down areas of focus. I think if I go, for example, on technology, for starters, we're putting a lot of effort into improving the sort of ability of our software engineers to be productive as they do developments. And there's been a lot of focus on the development environment for them in order to enable them to be more productive. And so all else equal, that generates a little bit of efficiency. We also have a lot of efficient -- a lot of focus on the efficiency of our hardware utilization, and so that's embedded in there as well. 
+And another thing that's worth noting, you'll recall that at Investor Day, I talked about how we had probably reached peak modernization spend. As Jamie always says, we're always modernizing. So the fact that we've gotten to a peak and then it might come down a little bit from here still means we're going to be constantly modernizing. But at the margin, that means that inside the tech teams, there's a little bit of capacity that gets freed up to focus on features and new product development and so on, which is also, in some sense, a form of efficiency.  
+Finally, though, what I would say is that, if you look at the headcount trajectory of the company over the last few years, we have grown a lot, and it has been for very good reasons. And it has contributed quite a bit to our growth and our ability to run the company efficiently. But any time you have that quantum of headcount growth as well as that rate of headcount growth, you have to believe, all else equal, that some amount of inefficiency has been introduced. 
+And so this year, as we went through the budget cycle, we asked people at the margin to try to support the growth of the company while living within their means on the headcount front. So we're going to try to run things, with some important exceptions that I'll highlight in a second, on roughly flat headcount, and how that lead to people generating internal efficiencies as they get creative with their teams and we consider more efficient ways of doing things. 
+The obvious exceptions are the ongoing areas of high-certainty investment and growth, so obviously, branches and bankers and so on, and also critical nonnegotiable areas of risk and control, like cyber, or whatever independent risk management needs to ensure that we're running the company safely. So that's how we're thinking about efficiency in the current moment.
+
+Question and Answer Operator Message
+Operator
+Next, we will go to the line of Mike Mayo from Wells Fargo Securities.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+Simple and then more difficult, I guess. Jamie, who's your successor? And then the second question is, I know I asked the question at Investor Day, how -- why not stay as CEO a little bit longer? I think what I'm hearing from investors now, yes, this goes up and down, but I think investors would like you to stay. So why say you're going to stay less than 5 years? 
+You're finally getting what you wanted, 15 years of your spaghetti chart about the regulatory structure and the unpredictability of capital requirements and regulatory costs. And it seems like you're finally getting what you've been playing for. So why not stay around a bit longer if investors want you to do so? And what would you do otherwise anyway? You don't play golf. You aren't going to be Treasury Secretary. It seems like your work is your hobby, right? So how much longer would you stay around?
+
+Answer
+Executives - Chairman & CEO
+I do love what I do. And answering the second question first, look, we're on a path. The path is not just about me. It's about the other senior people in the company. It's about the Board. If I'm here for several more years, and I may or may not be Chairman of that, it's going to be up to the Board because it really fit the new CEO and stuff like that. Now you're talking potentially 4, 5 years or more. I'll be 69 in March. I think it's the rational thing to do. I've got a couple of health problems that you know. I just think it makes a lot of sense. And so -- and what's your first question again?
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+And who's your successor?
+
+Answer
+Executives - Chairman & CEO
+This is an unfortunate thing for any big company like this, where these people have to be in the spotlight all the time and always to-ing and fro-ing. We have several exceptional people. You guys know most of them, and maybe 1 or 2 you don't know.
+The Board reviews and meets with them all the time. I think it's wonderful that Jen Piepszak, who does not want to be the CEO, will be here as Chief Operating Officer and stay after that. So obviously, she's going to work for those people. Because I think it's a great thing for a company just having continuity of management and leadership, and it will be one of those people.  
+And obviously, we're not going to tell the press, but it's not determined yet. And of course, at the last minute, a couple of years from now, people get sick, they change their mind, they have family circumstances. So even if you thought you knew today, you couldn't be completely sure.
+
+Question
+Analysts - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+So you'll stay around maybe for a few more years, base case right now?
+
+Answer
+Executives - Chairman & CEO
+Yes. Basic case, yes.
+
+Question and Answer Operator Message
+Operator
+Our next question comes from Jim Mitchell with Seaport Global Securities.
+
+Question
+Analysts - Senior Analyst
+Maybe just on regulation, we have a new administration coming in. We have a new -- soon-to-be, I guess, a new head of regulation at the Fed. So maybe just talk about, again, what areas of the regulatory structure, if it were to change, would be most impactful for you? And is there any areas where you think capital requirements could actually go down? Or is this more of a story of requirements just simply stop going up?
+
+Answer
+Executives - Executive VP & CFO
+Jim, I mean, it's obviously something we're thinking about a lot. But I couldn't go down some pretty deep rabbit hole speculating on all the different parts of the framework and how they could evolve. And I just don't really think that's productive right now.  
+But let me make some attempt to answer your question. So backing up a second, if you read Jamie's quotes, they're very consistent with what we've been saying as a company for a long time, which is that all we want is a coherent, rational, holistically assessed regulatory framework that allows banks to do their job supporting the economy, that isn't reflexively anti-bank. 
+It doesn't default to the answer that every question being more of everything, more capital, more liquidity. It uses data, and it balances the obvious goal that we all share of a safe and sound banking system, with actually recognizing that banks play a critical role in supporting growth. And the hope is that we got some of that.  
+And that also, while we're at it, some aspects of the supervisory framework got a little bit less bureaucratic and a little bit less adversarial and a little bit more substantive. So that, at the margin, management can focus its time on the things that matter the most.  
+So whether capital goes up, down, stays flat is really so complicated because it's not just Basel III end game, it's also a G-SIB, it's also a number of other factors. And that's why we keep hammering away on the importance of doing all of this holistically, properly, with the right analysis. And if that takes time, so be it.
+
+Executives - Chairman & CEO
+If I may just add. No, that's great. Jeremy gave it all. I just had 3 quick things. Liquidity is also equally important. There's been a lot of recognition that more counts for liquidity and discount windows and how LCR is done, I think, is very important.  
+Second is competition. All these things should be done in light of looking at what kind of public markets you want, the kind of private markets you want, what do you want in the banking system, what do you want out of the banking system.  
+And the third is, I think most people realize there is a huge need to take a step back and look at the business team's Balkanized system we built, which has negatives. And even the regulator will tell you that. So at one point, just take a deep breath. As Jeremy said, do the right thing and continue to have the best management system in the world.
+
+Question
+Analysts - Senior Analyst
+Yes. That makes sense. And maybe just as a follow-up, just on loan growth. Have you -- since the election, it seems like CEO confidence, business confidence has increased. So are you starting to see any improvement in demand on lending? Just any thoughts there would be great.
+
+Answer
+Executives - Executive VP & CFO
+Yes, it's a good question. And I think given the significant improvement in business sentiment and the general optimism out there, you might have expected to see some pickup in loan growth. We are not really seeing that. I don't particularly think that's a negative. I think it's probably explained by a combination of wide open capital markets, and so many of the larger corporates are accessing the capital markets, and healthy balance sheets in small businesses and maybe some residual caution.  
+And maybe there are some pockets in some industries where some aspects of the policy uncertainty that we might be facing are making them a little bit more cautious than they otherwise would be about what they're executing in the near term. But we'll see what the new year brings as the current optimism starts getting tested with reality, one way or the other. And maybe if it materializes with tangible improvements and things, one way or the other, you'll actually see that come through C&I loan growth, in particular.
+
+Question and Answer Operator Message
+Operator
+Next, we will go to the line of Erika Najarian from UBS.
+
+Question
+Analysts - Analyst
+I wanted to follow up on the questions on capital and maybe ask about some of, Jeremy, the cross-currents in terms of the denominator. So if we look at the third quarter regulatory data for your G-SIB surcharge score, that would imply that your score would put you in a range of a 5% G-SIB. So obviously, from what we understand, if you print that -- somewhere near that score at the end of this year, then your G-SIB surcharge goes up by -- to 5% or by 50 basis points 2 years and 1 day from now. 
+At the same time, around the holidays, we did get the press release from both the Federal Reserve and the lawsuit from the banks. In terms of the transparency, it looks like the transparency is going to be focused on perhaps being improved as soon as this year's stress test. 
+So as we think about the definition of excess, right, because part of this is like 15.7% is clearly a huge number. So as we think about your returns going forward, the definition of excess also continues to shift. So how should we think about those cross-currents in terms of 2 big components, clearly one is your G-SIB surcharge and the other is your stress capital buffer?
+
+Answer
+Executives - Executive VP & CFO
+Right, Erika. Okay, you are challenging me with many rabbit holes that are very deep, but let's try to address this not at too much great lengths. First of all, G-SIB. So yes, it was a high trend in the third quarter, but we had normal seasonality in third quarter or fourth quarter. 
+So while our current view of the G-SIB number is an estimate, we're quite confident that we wound up comfortably in the 5% bucket just as a result of normal seasonality. It was actually a relatively quiet December in terms of the types of year-end things that sometimes create pressures of various types. So that is more or less what you might have otherwise expected in terms of our typical seasonal patterns. So not much to see there. 
+And the obvious point also being that even under the existing proposed G-SIB rule, which is obviously a little bit hung up, with the smaller buckets and some of the recalibration and so on, it's not even sort of obvious that it would have mattered, one way or the other. But anyway, for now, we're managing to the current rules, and normal seasonality took us back under 5%.  
+Okay. You mentioned the lawsuit. I think the only thing to say about that is that we are happy to see the clear recognition on the part of the Fed that many of the things that we've been talking about for a long time in terms of transparency and volatility and some of the nonsubstantive bureaucratic burden associated with the CCAR process needs improvement. So that's great.  
+I think I won't speak for the industry bodies that were the actual litigants. But it seems to me, if you just read what they said publicly in their press releases, this is as much as anything about preserving rights in light of the statute of limitations, deadlines that were going up. So let's just hope that we see some significant progress on that front. 
+And then taking a step back, at a high level, what you're really asking me is what is our core view about -- and I think probably the best way to think about this is just through the lens of the numerator, actually. What is our core view about -- if you just, for the sake of argument, assume modest growth in the normalized amount of economic denominator or like actual need for capital organically, what will be the likely additional numerator that will be needed or not as a function of the environment?
+And the way we're increasingly thinking about that is just doing different scenario analysis of flat numerator, up 5 numerator, up 10 numerator, up 20 numerator. I guess there could be some versions of the world where the numerator is a little less, and then guessing about our central case and comparing our projected capital amount to that number to determine the excess. And as you point out, at 15.7%, and I think the actual quantum of the numerator is something like $275 billion, to pretty much any reasonable lens, it's a ton of excess, which is why we've concluded that it doesn't need to grow anymore.
+
+Question
+Analysts - Analyst
+And just a follow-up question, a follow-up to John's line of questioning. As a placeholder, as we think about what you said, trying to arrest the growth of CET1 for now, should we just assume that anything that you don't need for organic growth and your dividend obligations in terms of that 15.7% will be bought back by the company as we think about -- I know you don't want to predict the buyback, but is that sort of just a placeholder for now as we think about what can return back to shareholders in the form of repurchase?
+
+Answer
+Executives - Executive VP & CFO
+Yes. I mean, you've quoted our capital hierarchy, and your conclusion flows naturally from my statement that we do want to arrest the growth of the excess.
+
+Executives - Chairman & CEO
+So we are never going to tell the market what we're going to do. And you all know that everybody is out there modeling these things and trading against these things. So steady, consistent buyers in the marketplace who are so predictable are making a mistake.
+
+Question and Answer Operator Message
+Operator
+Does that conclude your question, Erika?
+
+Answer
+Executives - Chairman & CEO
+I think we can go to the next question. Thanks. Yes.
+
+Question and Answer Operator Message
+Operator
+Our next question comes from Matt O'Connor with Deutsche Bank.
+
+Question
+Analysts - Research Analyst
+It seems like you guys have backed off the view that you're materially overearning on net interest income. And is this all because of the higher rate environment that's expected now? Or is it also partly a different view on deposit pricing, specifically on the consumer side, which, I think, you had assumed it would reprice a bit more than we've seen?
+
+Answer
+Executives - Executive VP & CFO
+Yes, it's a good question, Matt. I guess, maybe let me put a frame that's from a totally different perspective. So on the one hand, you're right. If you look at the NII guidance that we're giving you, including the notion that, subject to the yield curve playing out in line with the current forwards, which, as we know, is the one thing that we know won't happen, but if you want to assume something, if you assume the forwards, we're sort of telling you that we might return to sequential growth in the back half of the year, again, based on all of our current assumptions, all else being equal. And you could draw the conclusion that, that means that the overearning narrative is no longer applicable. 
+I think if you take a big step back, by historical standards, the difference between the policy rate and the weighted average rate paid on consumer deposits remains quite elevated for a variety of reasons and subject to the fact that, in the end, deposit pricing is always going to be a response to the competitive environment that we experience in the field. The current structure of the yield curve is such that, for the time being anyway, when we do the math, that's what we see. Do we think that's truly, truly, truly sustainable through the cycle? Unclear. But I guess, we'll cross that bridge when we come to it. For now, this is the outlook for the coming.
+
+Executives - Chairman & CEO
+Yes. We've gotten closer to normalized NII and normalized credit.
+
+Executives - Executive VP & CFO
+Yes. It is worth noting that NII ex Markets is down year-on-year, so there's some amount of normalization coming.
+
+Question
+Analysts - Research Analyst
+Okay. And then just separately, a strategic question. There's been some reports about you further expanding the Consumer Banking business globally. And I guess, I just want to push on that where we really haven't seen other banks do it in a successful way. Obviously, your approach is kind of coming from a position of strength, leading digitally. But I guess, I'm just wondering why, is it worth it? Is there enough upside to justify maybe some of the increased regulatory and execution risk of doing a global Consumer Banking?
+
+Answer
+Executives - Executive VP & CFO
+Yes. I mean, I think you've kind of answered your own questions, in the sense. Like we talked about this a lot when we first launched the initiative. And I just think that the comparison to other players is not apt in the current moment. It's not to say that like we're special or anything. It's just that the strategy is very different, and it's a very different moment. 
+So it's a new initiative. It's obviously not risk-free, but it's going pretty well. And pointing out the obvious, if we didn't think it was worth it, we wouldn't be doing it. But we have obviously considered all of the risks and opportunities associated with the decision, and that's -- it's one of our strategic initiatives. And those get scrutinized quite aggressively through all of our management processes.
+
+Question and Answer Operator Message
+Operator
+Our next question comes from Betsy Graseck from Morgan Stanley.
+
+Question
+Analysts - Managing Director
+Can you hear me okay? All right. I just want to make sure you can hear me. So this has been a great call. First, congratulations on a great quarter. It's been a great call with a lot of robust questions here. You're like, what else is there to ask? 
+Here's my question. As we think about the NII outlook, and you highlighted the NIM pressure, but loan -- but basically, balance is increasing here, right? Maybe you could just speak to -- could you help me understand the order of the drivers? Is it QT going away, deposits going up, punch it into securities? Is it loan growth inflecting? Is there any place in the franchise where you see loan growth opportunities for inflection this coming year? 
+And then lastly, as I think about your comments around you've got the green, market share #1, you've got the yellow, you've got the red, places maybe we can't see. Could you help us understand where those yellows and reds are? Where they are, are they just scattered, everybody -- every single business has one? Or are there some that have more than others and, therefore, more opportunities? And is it more balance sheet or fee generative? That's kind of what I would like to just discuss, if you have a minute.
+
+Answer
+Executives - Executive VP & CFO
+Sure. Yes, let me take a crack at that, Betsy. So loan growth, I think, looking for areas where it might inflect, the only thing I can think of, frankly, that would be in that category, certainly in terms of being meaningful to the company's performance, would be acquisition finance. Because that's been relatively new, that is a function of the M&A environment. And if that picks up, you could see more there. Now that's -- those aren't loans that we necessarily keep on the balance sheet for that long. So whether that shows up in fees or NII or whatever, it's a separate issue. 
+But as you can see in our presentation page for the NII outlook, you know that card loan growth and revolver normalization has been a significant tailwind. And while that is also a driver of growth in 2025, again, based on our current guess about the future, it will be -- it is decelerating a little bit rather than the opposite. Still growing above trend, obviously, which is great, and it's a sign of the strength of the franchise and the amount of engagement that we're getting from our card clients, but the big normalization tailwinds there are gone. 
+You know well the state of the mortgage market given rates. Rates are also a headwind in some other pockets, like our multifamily lending business at the margin. So yes, I think a higher growth environment, a little bit more optimism. Could you see a bit more loan growth in Business Banking? Could you see a bit more growth in C&I at the margin? Yes. But I think the place where you might see inflection is more in the areas that are deal-driven, I would say. So we'll see what happens there. 
+And in terms of the reds and the ambers under the greens, I think you know them, right? And they're aligned with our big, long-standing investment strategies. The biggest single one, arguably, is that in the -- what you might call the affluent section of the Wealth Management space. We are significantly underpenetrated relative to the number of households that we bank in the country, and our capabilities and our brand and what we think we bring to the table. So that's why we're pushing so hard on that front because I think we can get more share there, and it completes the franchise very nicely. 
+There are a bunch of examples elsewhere, but we talk a lot about building down inside the Markets business, inside Investment Banking and finding the places where even -- where, at the aggregate, global sector level, we look great, and in any given region, in any given subsector, we can do better. And as I mentioned, we continue to look at that as aggressively as ever.
+
+Question and Answer Operator Message
+Operator
+Next, we will go to the line of Ebrahim Poonawala with Bank of America Merrill Lynch.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+I guess, just 2 questions in terms of areas of vulnerability. So I heard you, Jeremy, on the lending side, but lots of cross-currents. If we anchor to the fact that we have a new administration that's taking place -- take office with a focus on domestic CapEx, even if we don't get any rate cuts, when you look through your customer base, where do you see areas of vulnerability, be it because of tariffs, be it because of just lack of any additional relief from the Fed? Yes, I would love to hear just from a credit quality perspective what no rate cuts might mean.
+
+Answer
+Executives - Executive VP & CFO
+So I see where your question is. That took me a second. Yes. I mean, look, wholesale credit is pretty hard to predict. It tends to be very idiosyncratic. You obviously know that we were coming out of a 10-plus year period of an exceptionally low charge-off rate. And so at some point, that has to normalize to a slightly more reasonable level to -- a little bit to Jamie's comments earlier about how some things are still not fully normalized. And arguably, wholesale credit could be one of those. 
+We do want extensive stress tests on the sensitivities to the portfolio -- of the portfolio to rate shock. A lot of what we do from an underwriting perspective is designed to protect us from that, frankly. So you're going to rest assured that we're running the relevant analysis, but I'm not inclined to go into detail on any unit sector or whatever. Jamie, did you want to...
+
+Executives - Chairman & CEO
+Yes. I would just point that the biggest driver of credit has been, and always will be, unemployment. That's both on the consumer side, and it bleeds into the corporate side. It bleeds into mortgages, subprime, credit card. So really, it's your forecast of unemployment, which you have to make your own, which will determine that over time. 
+And so the second thing, you said vulnerabilities, it's unemployment, but the worst case would be stagflation. Higher rates with higher unemployment will drive higher credit losses literally across the board. I'm not -- we're not predicting that, but you just asked where are those vulnerabilities. That's the vulnerabilities.
+
+Question
+Analysts - MD of United States Equity Research & Head of North American Banks Research
+And I guess, just sticking with that. As far as QT is concerned, when you talk to experts, no one knows where the right level for the Fed to end is. I'm just wondering if you have any thoughts there on how -- when the Fed should end the pressure on the system and what it may imply for deposit growth.
+
+Answer
+Executives - Executive VP & CFO
+Yes. I think the conventional wisdom on QT, and I'm not pretending to add to the conventional wisdom, one way or the other, is that the tapering should sort of complete and, therefore, we might see an end sometime in the middle of the year. Of course, they may change that, but that seems to be the current market consensus. 
+And when we sort of take a step back and look at the HA data and our kind of flow of funds models and that type of stuff, when you look at the way RRP is behaving, evolution of QT, expectations for economy-wide loan growth, et cetera, and what the impact of that might be on the growth of system-wide deposits, it's kind of consistent with the story that we're telling about our sort of the background growth in our NII outlook, plus or minus what happens with the policy rate, and stabilizing and growing deposit balances through the second half of the year.
+
+Question and Answer Operator Message
+Operator
+Our final question is -- comes from Gerard Cassidy from RBC Capital Markets.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Jeremy, you mentioned in your comments about the overall firm-wide deposits have stabilized. And in the second half, you could see some growth in your various -- I think you said you started to see maybe some of that in the consumer checking deposits. 
+We noticed in the industry data from the regulators, household checking deposits prepandemic for the industry were running about $1 trillion. Now they have remained elevated post pandemic at $4 trillion. Can you -- based on what you're seeing in your customer base, what can you attribute the strain to in this consumer checking account deposits?
+
+Answer
+Executives - Executive VP & CFO
+That's fascinating, Gerard. I have to take a look at that data. I don't actually recognize those numbers. But I can speak for ourselves, which is, when we look at the encouraging growth that we see in our checking franchise, it's a couple of things. So of course, there was some excess and there was some yield-seeking behavior, and so you did see people moving money out of checking into higher-yielding alternatives over the course of the last couple of years in the rate cycle. It feels to us as if we're in the final innings of that. We're just not seeing nearly as much yield-seeking pressure as we had seen. 
+In the meantime, as you well know, we are aggressively engaging with clients and acquiring all the new clients and deepening in a lot of different markets as part of our branch expansion strategy and the deepening in all of those markets. So the combination of the tail end of the yield-seeking flows and excellent client engagement and success in the sort of organic buildout of that franchise is starting to show up in checking account growth, which we see as a very healthy indicator for the franchise.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+Very good. And then as a follow-up, circling back about the capital levels. You guys have been very clear about where you want them to be. Can you share with us the pros and cons from JPMorgan's perspective, not so much from an investor? But we understand, of course, you can do a share repurchase. Obviously, you can do nondepository acquisitions with the excess capital. 
+But what are the pros and cons of a special dividend to reduce that excess capital? If you continue with these incredible profitability levels of 20% return on tangible common equity, you're growing your income and capital very nicely every year. But what are those pros and cons, again, from JPMorgan's perspective?
+
+Answer
+Executives - Executive VP & CFO
+Yes. So again, we made some public comments on this at a conference sometime back. So it will -- he wants to go. So go ahead, Jamie.
+
+Executives - Chairman & CEO
+Jeremy, go ahead.
+
+Executives - Executive VP & CFO
+No, no, no. You can go ahead, seriously.
+
+Executives - Chairman & CEO
+I was just going to say we're not going to do one. We haven't looked at it. If you all have any great insights for us, let us know. But most people don't want it. It doesn't add shareholder value. 
+And I've never thought of having cash in your pocket is a bad thing. I think it's a huge mistake to look at likely you have to deploy capital. So we were going to be very, very patient. But special dividends, if you look at the history of special dividends, they basically don't work.
+
+Executives - Executive VP & CFO
+Yes. If anyone has a different opinion, we're always interested.
+
+Question
+Analysts - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+That sounds good.
+
+Answer
+Executives - Executive VP & CFO
+Thanks, Gerard.
+
+Question and Answer Operator Message
+Operator
+And we have no further questions at this time.
+
+Answer
+Executives - Chairman & CEO
+Great. Thanks very much.
+
+Executives - Executive VP & CFO
+Thanks very much. See you next quarter.
+
+Question and Answer Operator Message
+Operator
+Thank you all for participating in today's conference. You may disconnect at this time, and have a great rest of your day.
+
