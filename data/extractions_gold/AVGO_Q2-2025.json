@@ -1,0 +1,62 @@
+{
+  "ticker": "AVGO",
+  "quarter": 2,
+  "year": 2025,
+  "report_date": "2025-06-05",
+  "filename": "AVGO_Q2-2025.txt",
+  "overall_tone": 0.85,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Q2 revenue $15B record, +20% YoY all organic; EBITDA $10B (+35% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "AI revenue $4.4B (+46% YoY); 9 consecutive quarters of growth; AI networking +170% YoY",
+      "category": "revenue"
+    },
+    {
+      "event": "Q3 AI guide $5.1B (+60% YoY); 2025 AI growth rate expected to sustain into 2026",
+      "category": "guidance"
+    },
+    {
+      "event": "Tomahawk 6 launched (102.4 Tbps); flattens 100K-XPU clusters from 3 to 2 tiers",
+      "category": "product"
+    },
+    {
+      "event": "VCF: 87% of largest 10K customers adopted; double-digit ARR growth in core software",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Non-AI semi revenue $4B, -5% YoY; recovery slow; Industrial down, wireless seasonally down",
+      "category": "demand"
+    },
+    {
+      "event": "Industrial expected to remain weak in Q3",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Q3 guide $15.8B (+21% YoY); AI sustaining 2025 growth rate into 2026 due to inference demand surge. EBITDA target ≥66%."
+  },
+  "themes": [
+    "ai",
+    "ai accelerators",
+    "ethernet",
+    "tomahawk",
+    "vmware",
+    "custom silicon",
+    "hyperscaler",
+    "inference"
+  ],
+  "ceo_tone": 0.92,
+  "cfo_tone": 0.72,
+  "qa_tone": 0.35,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Inference demand acceleration drives forward 2026 AI growth narrative. Tomahawk 6 launch consolidates Ethernet leadership. Customer base expanding."
+}

@@ -1,0 +1,70 @@
+{
+  "ticker": "BLK",
+  "quarter": 4,
+  "year": 2023,
+  "report_date": "2024-01-12",
+  "filename": "BLK_Q4-2023.txt",
+  "overall_tone": 0.65,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "GIP acquisition announced — $150B combined infrastructure platform; doubles private markets fees to $1.5B+",
+      "category": "operations"
+    },
+    {
+      "event": "Industry-leading $186B ETF net inflows; 6% organic asset growth",
+      "category": "customer"
+    },
+    {
+      "event": "FY 2023 net inflows $289B; Q4 inflows $96B; entering Q1 2024 with run-rate +6% above Q4",
+      "category": "revenue"
+    },
+    {
+      "event": "Q4 EPS $9.66 (+8% YoY); operating margin 41.6% (+40bps YoY); FY EPS $37.77 (+7%)",
+      "category": "revenue"
+    },
+    {
+      "event": "Targeting $1.5B share repurchases in 2024; quarterly dividend raised 2% to $5.10/share",
+      "category": "capital_return"
+    }
+  ],
+  "risks": [
+    {
+      "event": "FY revenue $17.9B essentially flat YoY",
+      "category": "demand"
+    },
+    {
+      "event": "FY operating margin 41.7% down 110bps from prior year",
+      "category": "margin"
+    },
+    {
+      "event": "Restructuring charge $61M plus $28M one-time comp; ~3% workforce impacted",
+      "category": "operations"
+    },
+    {
+      "event": "Index net outflows $55B in institutional from large client redemptions",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["margin", "segment_specific"],
+    "notes": "5%+ through-the-cycle organic growth ambition reaffirmed; GIP modestly accretive to EPS in first full year post close. ACV growth low-to-mid teens long-term. 2024 G&A growth low-to-mid single digits."
+  },
+  "themes": [
+    "m&a",
+    "infrastructure",
+    "private markets",
+    "etf",
+    "gip",
+    "buybacks",
+    "aladdin",
+    "alternative assets"
+  ],
+  "ceo_tone": 0.78,
+  "cfo_tone": 0.55,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "GIP acquisition is transformational headline. Underlying FY results muted (flat revenue, margin compression) but Q4 inflows accelerating. CEO Larry Fink confident on private markets pivot."
+}

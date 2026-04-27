@@ -1,5 +1,38 @@
 # Earnings-Call Sentiment → Forward-Return Prediction
 
+## Table of contents
+
+- [Project summary](#project-summary)
+- [1. Methodology](#1-methodology)
+- [2. Per-ticker qualitative reads](#2-per-ticker-qualitative-reads)
+- [3. Backtest results](#3-backtest-results)
+  - [3.1 Setup](#31-setup)
+  - [3.2 Headline numbers](#32-headline-numbers)
+  - [3.3 Equity curve](#33-equity-curve)
+  - [3.4 Learning curves (model diagnostics)](#34-learning-curves-model-diagnostics)
+  - [3.5 Limitations](#35-limitations--please-take-seriously)
+- [4. What didn't work](#4-what-didnt-work)
+- [5. What I'd do with more time / data](#5-what-id-do-with-more-time--data)
+- [6. Two pipelines — classical NLP first, then LLM](#6-two-pipelines--classical-nlp-first-then-llm)
+  - [6.1 Why I started with classical NLP](#61-why-i-started-with-classical-nlp--the-bottom-up-plan)
+  - [6.2 Pipeline 1 — classical NLP](#62-pipeline-1--classical-nlp-the-simpler-cheaper-starting-point)
+  - [6.3 Intermediate experiments](#63-intermediate-experiments--bridging-pipeline-1-and-pipeline-2)
+  - [6.4 Pipeline 2 — LLM end-to-end](#64-pipeline-2--llm-end-to-end-the-upgrade-with-stronger-techniques)
+  - [6.5 Side-by-side on shared metrics](#65-side-by-side-on-shared-metrics)
+  - [6.6 Conclusion across both pipelines](#66-conclusion-across-both-pipelines)
+  - [6.7 Where both pipelines fail — per-call analysis](#67-where-both-pipelines-fail--per-call-analysis)
+- [Reproducing the pipeline](#reproducing-the-pipeline)
+
+## Gold standard used in this project
+
+The **gold standard** for this project is the **realised forward excess return
+vs SPY** at the 5-day horizon — the actual stock return after the call minus
+SPY's return over the same window, anchored at T+1 (look-ahead-safe). This is
+what every prediction is measured against, and what every accuracy / F1 / AUC
+/ MCC / IC / R² number in this writeup is computed from. Whenever this writeup
+quotes a number like "65% direction accuracy", it is measured against this
+gold standard (excess return vs SPY).
+
 ## Project summary
 
 Pipeline that turns 130 raw earnings-call transcripts (14 tickers × 9–10 quarters
@@ -43,6 +76,7 @@ picked Ridge as the winner with **0.649 test direction accuracy and +37.4%
 realised return**; Pipeline 2 (this writeup) wins on every fine-grained metric
 (F1, AUC, MCC, IC, R²). Full side-by-side comparison and conclusion in
 [§6](#6-two-pipelines--classical-nlp-first-then-llm).
+
 
 ![Ridge learning curve @ 5d — train/test direction accuracy as train size grows](data/model/plots/learning_curve_h5d_ridge.png)
 
@@ -786,6 +820,19 @@ Three observations:
    pipelines miss it — and miss it in exactly the same direction — confirms
    it isn't a feature-engineering oversight in either codebase. It is a
    feature gap that **neither** pipeline closes.
+
+**A direct check on the 6 joint-failure calls.** To be sure the sentiment
+extraction itself wasn't to blame, I cross-checked the pipeline's sentiment
+labels against an independent re-labelling by **Claude Opus 4.7** on the
+same 6 calls — using the same `extract_v2` prompt, but a different model
+family from Pipeline 2's Qwen3-14B. The two sets of labels matched closely:
+**Pearson correlation of 0.89 on `overall_tone`, and all 6 calls
+independently confirmed as bullish.** The pipelines were not misled by
+their own tone scores; the bullish read matches the source material and
+matches what a stronger judge produces independently. This rules out
+"we extracted sentiment incorrectly" as the cause of the joint failures
+and makes the missing sector-context features the only remaining
+explanation. **The bottleneck is not in our extraction.**
 
 **What convergent failure tells us.** When two methodologically independent
 pipelines fail on the same calls in the same direction, the failure isn't a

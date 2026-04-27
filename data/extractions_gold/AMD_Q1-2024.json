@@ -1,0 +1,66 @@
+{
+  "ticker": "AMD",
+  "quarter": 1,
+  "year": 2024,
+  "report_date": "2024-04-30",
+  "filename": "AMD_Q1-2024.txt",
+  "overall_tone": 0.75,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Data Center segment revenue $2.3B record, +80% YoY driven by MI300X ramp",
+      "category": "revenue"
+    },
+    {
+      "event": "MI300 fastest-ramping product in AMD history, $1B in less than 2 quarters",
+      "category": "product"
+    },
+    {
+      "event": "2024 Data Center GPU guidance raised again from $3.5B to $4B+",
+      "category": "guidance"
+    },
+    {
+      "event": "Client segment revenue $1.4B, +85% YoY on Ryzen 8040 ramp",
+      "category": "revenue"
+    },
+    {
+      "event": "Server CPU revenue share gain in seasonally down Q1; nearly 900 EPYC public cloud instances",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Gaming segment revenue $922M, -48% YoY and -33% sequential (5th year of console cycle)",
+      "category": "demand"
+    },
+    {
+      "event": "Embedded segment revenue $846M, -46% YoY on customer inventory normalization",
+      "category": "demand"
+    },
+    {
+      "event": "MI300 supply constraints from CoWoS and HBM packaging",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Data Center GPU 2024 guidance raised from prior $3.5B (set last quarter) to $4B+ on strengthening MI300 demand."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi300",
+    "epyc",
+    "ryzen",
+    "ai pc",
+    "cloud",
+    "embedded"
+  ],
+  "ceo_tone": 0.85,
+  "cfo_tone": 0.62,
+  "qa_tone": 0.25,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong AI/DC story with second consecutive guidance raise. Significant Gaming/Embedded weakness offsets but story remains clearly bullish."
+}

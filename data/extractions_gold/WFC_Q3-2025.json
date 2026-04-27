@@ -1,0 +1,74 @@
+{
+  "ticker": "WFC",
+  "quarter": 3,
+  "year": 2025,
+  "report_date": "2025-10-14",
+  "filename": "WFC_Q3-2025.txt",
+  "overall_tone": 0.78,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Net income $5.6B, +9% YoY; EPS $1.66; ROTCE 15.2% (approaching prior 15% target)",
+      "category": "revenue"
+    },
+    {
+      "event": "Investment banking fees +25% YoY; share gains of 120 bps in US IB since 2022",
+      "category": "revenue"
+    },
+    {
+      "event": "Asset cap lifted by Federal Reserve — strategic transformation milestone; total assets >$2T for first time",
+      "category": "operations"
+    },
+    {
+      "event": "ROTCE medium-term target raised to 17-18% from prior 15% goal; CET1 target 10-10.5%",
+      "category": "guidance"
+    },
+    {
+      "event": "$6.1B share repurchases in Q3 (doubled from Q2); raised common stock dividend",
+      "category": "capital_return"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Severance expense of $296M ($0.07/share); FY expense guide raised to $54.6B from $54.2B",
+      "category": "margin"
+    },
+    {
+      "event": "NIM declined 7 bps QoQ on growth in lower-yielding markets/trading assets",
+      "category": "margin"
+    },
+    {
+      "event": "Commercial Banking revenue -9% YoY; CRE revenue -13% YoY",
+      "category": "demand"
+    },
+    {
+      "event": "Office/commercial real estate losses continue and are expected to be lumpy",
+      "category": "demand"
+    },
+    {
+      "event": "Possible additional severance in Q4 not included in current outlook (more efficiency actions in 2026)",
+      "category": "margin"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "margin", "segment_specific"],
+    "notes": "Long-term ROTCE target raised from 15% to 17-18%; FY 2025 NII reaffirmed at ~$47.7B with Q4 sequential acceleration to $12.4-12.5B; CET1 target lowered to 10-10.5% (more capital available for return)."
+  },
+  "themes": [
+    "asset cap",
+    "investment banking",
+    "credit cards",
+    "buybacks",
+    "wealth management",
+    "regulation",
+    "commercial real estate",
+    "efficiency"
+  ],
+  "ceo_tone": 0.85,
+  "cfo_tone": 0.62,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Very strong structural call — asset cap removal + ROTCE target raise. Both pipelines correctly read this as bullish. The -3.4% realised excess_5d is classic sell-the-news after the asset-cap-lifting rally; not a sentiment-extraction failure but a feature gap (no pre-call drift visibility into how much of this was already priced)."
+}

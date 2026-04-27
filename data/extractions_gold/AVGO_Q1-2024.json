@@ -1,0 +1,70 @@
+{
+  "ticker": "AVGO",
+  "quarter": 1,
+  "year": 2024,
+  "report_date": "2024-03-07",
+  "filename": "AVGO_Q1-2024.txt",
+  "overall_tone": 0.52,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q1 revenue $12B, +34% YoY (incl VMware); FY 2024 guide reiterated at $50B",
+      "category": "revenue"
+    },
+    {
+      "event": "AI revenue quadrupled YoY to $2.3B; 2024 AI revenue guide raised from 25% to 35% of semi (>$10B)",
+      "category": "guidance"
+    },
+    {
+      "event": "Networking revenue +46% YoY; 2024 guide raised from +30% to +35% YoY",
+      "category": "revenue"
+    },
+    {
+      "event": "Software revenue $4.6B (+156% YoY) on VMware integration; bookings $1.8B (from <$600M)",
+      "category": "revenue"
+    },
+    {
+      "event": "VMware Private AI Foundation partnership with NVIDIA driving on-prem AI demand",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Broadband revenue -23% YoY; 2024 outlook revised to -30% from prior -mid-teens",
+      "category": "demand"
+    },
+    {
+      "event": "Server storage revenue -29% YoY; 2024 outlook revised to -mid-20s from prior -high-teens",
+      "category": "demand"
+    },
+    {
+      "event": "Telco spending weakness expected to persist through most of 2024",
+      "category": "macro"
+    },
+    {
+      "event": "Wireless -4% YoY; full year flat guidance retained but uncertain",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "FY 2024 consolidated revenue guide reiterated at $50B (+40% YoY); AI raised significantly (+$10B), broadband and server storage lowered substantially. Net: mix shift, no headline change."
+  },
+  "themes": [
+    "ai",
+    "networking",
+    "vmware",
+    "ai accelerators",
+    "broadband",
+    "server storage",
+    "hyperscaler",
+    "telco"
+  ],
+  "ceo_tone": 0.62,
+  "cfo_tone": 0.45,
+  "qa_tone": 0.15,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong AI/networking tailwinds with significant non-AI cyclical weakness; AI raises offset by broadband/server storage cuts. Headline guide reiterated with material mix shift."
+}

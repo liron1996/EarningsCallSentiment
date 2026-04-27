@@ -1,0 +1,70 @@
+{
+  "ticker": "AVGO",
+  "quarter": 4,
+  "year": 2024,
+  "report_date": "2024-12-12",
+  "filename": "AVGO_Q4-2024.txt",
+  "overall_tone": 0.92,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "FY 2024 revenue $51.6B (+44% YoY); operating profit +42%; $22B returned to shareholders (+45% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "FY AI revenue $12.2B (+220% YoY); 41% of semi; Q4 AI $3.7B (+150% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "Long-range guidance: 2027 AI SAM $60-90B (vs $12.2B in 2024) — massive multi-year ramp",
+      "category": "guidance"
+    },
+    {
+      "event": "VMware operating margin reached 70% exiting 2024 (vs <30% pre-deal); 4,500 VCF customers signed",
+      "category": "operations"
+    },
+    {
+      "event": "2 additional hyperscaler XPU customers in advanced development; could expand SAM further",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Multi-year ramp will not be linear — quarterly variability flagged explicitly",
+      "category": "guidance"
+    },
+    {
+      "event": "Non-AI semi declined 23% YoY in Q4 to $4.5B; cyclical bottom called but recovery only mid-single-digit",
+      "category": "demand"
+    },
+    {
+      "event": "Industrial -27% YoY; recovery only in H2 2025",
+      "category": "demand"
+    },
+    {
+      "event": "Customer concentration: 3 main hyperscaler XPU customers driving the $60-90B SAM",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Q1 2025 guide $14.6B (+22% YoY); 2027 AI SAM articulated at $60-90B (5-7x current). New segment reporting: AI vs non-AI. EBITDA target 66%."
+  },
+  "themes": [
+    "ai",
+    "ai accelerators",
+    "vmware",
+    "ethernet",
+    "custom silicon",
+    "hyperscaler",
+    "networking",
+    "buybacks"
+  ],
+  "ceo_tone": 0.95,
+  "cfo_tone": 0.78,
+  "qa_tone": 0.40,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Pivotal call. CEO articulates $60-90B AI SAM by 2027 vs $12B today. New AI/non-AI segment reporting. VMware margin transformation completed ahead of schedule."
+}

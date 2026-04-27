@@ -1,0 +1,47 @@
+{
+  "n_calls": 28,
+  "pearson_r_overall_tone": 0.8616864408768979,
+  "mae_overall_tone": 0.07214285714285713,
+  "bias_p2_minus_gold": 0.051428571428571414,
+  "bucket_agreement_count": 21,
+  "bucket_agreement_pct": 75.0,
+  "cohens_kappa_5bucket": 0.5288461538461539,
+  "guidance_direction_agreement_count": 18,
+  "guidance_direction_agreement_pct": 64.28571428571429,
+  "p2_mean_wins": 4.928571428571429,
+  "gold_mean_wins": 5.0,
+  "p2_mean_risks": 3.1785714285714284,
+  "gold_mean_risks": 3.5357142857142856,
+  "top5_largest_diffs": [
+    {
+      "file": "FAST_Q3-2025.json",
+      "p2": 0.65,
+      "gold": 0.42,
+      "diff": 0.23000000000000004
+    },
+    {
+      "file": "AVGO_Q1-2024.json",
+      "p2": 0.75,
+      "gold": 0.52,
+      "diff": 0.22999999999999998
+    },
+    {
+      "file": "AVGO_Q2-2024.json",
+      "p2": 0.75,
+      "gold": 0.62,
+      "diff": 0.13
+    },
+    {
+      "file": "AMD_Q4-2023.json",
+      "p2": 0.78,
+      "gold": 0.65,
+      "diff": 0.13
+    },
+    {
+      "file": "AMD_Q1-2025.json",
+      "p2": 0.75,
+      "gold": 0.62,
+      "diff": 0.13
+    }
+  ]
+}

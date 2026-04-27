@@ -1,0 +1,66 @@
+{
+  "ticker": "BLK",
+  "quarter": 2,
+  "year": 2024,
+  "report_date": "2024-07-15",
+  "filename": "BLK_Q2-2024.txt",
+  "overall_tone": 0.78,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Record AUM $10.6T; revenue $4.8B (+8% YoY); EPS $10.36 (+12% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "Net inflows $82B (+3% organic base fee growth); $150B excl single insurance client M&A redemption",
+      "category": "customer"
+    },
+    {
+      "event": "Operating margin 44.1% (+160bps YoY)",
+      "category": "margin"
+    },
+    {
+      "event": "Bitcoin ETF $18B inflows in first 6 months; Preqin acquisition announced",
+      "category": "operations"
+    },
+    {
+      "event": "Q2 buybacks $500M (exceeded $375M planned); GIP closing on track for Q3 2024",
+      "category": "capital_return"
+    }
+  ],
+  "risks": [
+    {
+      "event": "$20B active fixed income redemption from large insurance client linked to M&A",
+      "category": "demand"
+    },
+    {
+      "event": "Institutional index $35B outflows on rebalancing in low-fee equity (mostly non-US)",
+      "category": "demand"
+    },
+    {
+      "event": "Performance fees still small relative to base fees ($164M in quarter)",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["margin"],
+    "notes": "5%+ long-term organic base fee growth target reaffirmed; GIP and Preqin acquisitions expected to close H2 2024; buyback rate maintained at $375M+/quarter."
+  },
+  "themes": [
+    "etf",
+    "private markets",
+    "gip",
+    "preqin",
+    "bitcoin",
+    "aladdin",
+    "infrastructure",
+    "model portfolios"
+  ],
+  "ceo_tone": 0.85,
+  "cfo_tone": 0.65,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Continued momentum building. Preqin acquisition extends private markets data play. Margin expansion, ETF leadership, GIP on track."
+}

@@ -1,0 +1,74 @@
+{
+  "ticker": "JPM",
+  "quarter": 4,
+  "year": 2025,
+  "report_date": "2026-01-13",
+  "filename": "JPM_Q4-2025.txt",
+  "overall_tone": 0.42,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Net income $13B, EPS $4.63, ROTCE 18% Q4; FY ROTCE 20% (excluding items)",
+      "category": "revenue"
+    },
+    {
+      "event": "Equities trading revenue +40% YoY with strong Prime performance; Fixed income +7%",
+      "category": "revenue"
+    },
+    {
+      "event": "AWM long-term net inflows $52B Q4 and $209B FY; record $553B total client asset inflows",
+      "category": "customer"
+    },
+    {
+      "event": "1.7M net new checking accounts, 10.4M new card accounts, record households in wealth management",
+      "category": "customer"
+    },
+    {
+      "event": "Strong CIB pipeline with constructive market dynamics for 2026 deal activity",
+      "category": "guidance"
+    }
+  ],
+  "risks": [
+    {
+      "event": "$2.2B reserve build in CCB for Apple Card forward purchase commitment ($0.50+ EPS hit)",
+      "category": "margin"
+    },
+    {
+      "event": "2026 adjusted expense guide $105B — meaningful YoY growth in absolute and percentage terms",
+      "category": "margin"
+    },
+    {
+      "event": "Card net charge-off rate guided to ~3.4% for 2026",
+      "category": "demand"
+    },
+    {
+      "event": "Regulatory overhang: potential credit-card interest-rate price controls would be 'significant challenge'",
+      "category": "regulatory"
+    },
+    {
+      "event": "NBFI lending exposure ~$160B with novel risk components; stablecoin/GENIUS Act parallel-banking concerns",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["revenue", "margin"],
+    "notes": "2026 NII ex Markets reaffirmed at ~$95B; total NII ~$103B; expense ~$105B (already pre-communicated at industry conference in December). FY 2025 results strong but Q4 weighed by Apple Card reserve."
+  },
+  "themes": [
+    "credit cards",
+    "regulation",
+    "stablecoins",
+    "nbfi",
+    "markets",
+    "wealth management",
+    "buybacks",
+    "macro"
+  ],
+  "ceo_tone": 0.55,
+  "cfo_tone": 0.42,
+  "qa_tone": 0.05,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Solid execution but several offsetting risks (Apple Card reserve, expense growth, regulatory). CFO Jeremy was analytical and measured, not euphoric. Existing pipelines may have over-weighted the strong equity-trading print. Realised excess_5d -1.2% — modest miss, not a tone-extraction failure but possibly a feature gap on regulatory uncertainty discount."
+}

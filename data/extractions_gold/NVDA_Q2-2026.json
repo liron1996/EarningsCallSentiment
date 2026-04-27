@@ -1,0 +1,74 @@
+{
+  "ticker": "NVDA",
+  "quarter": 2,
+  "year": 2026,
+  "report_date": "2025-08-27",
+  "filename": "NVDA_Q2-2026.txt",
+  "overall_tone": 0.78,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Record Q2 revenue of $46.7B exceeded outlook with sequential growth across all platforms",
+      "category": "revenue"
+    },
+    {
+      "event": "Q3 revenue outlook of $54B (+$7B sequential) implying continued acceleration",
+      "category": "guidance"
+    },
+    {
+      "event": "Data center revenue grew 56% YoY despite $4B H20 decline; Blackwell platform grew 17% sequentially",
+      "category": "revenue"
+    },
+    {
+      "event": "Networking record $7.3B revenue, +46% sequential and +98% YoY across Spectrum-X, InfiniBand, NVLink",
+      "category": "revenue"
+    },
+    {
+      "event": "$60B share repurchase authorization approved, returned $10B to shareholders in Q2",
+      "category": "capital_return"
+    }
+  ],
+  "risks": [
+    {
+      "event": "China H20 export controls — Q3 outlook excludes any H20 shipments to China customers",
+      "category": "regulatory"
+    },
+    {
+      "event": "Geopolitical uncertainty between US and China governments continues; license approvals delayed",
+      "category": "regulatory"
+    },
+    {
+      "event": "China declined to low-single-digit percentage of data center revenue this quarter",
+      "category": "demand"
+    },
+    {
+      "event": "Inventory increased sequentially from $11B to $15B to support Blackwell/Blackwell Ultra ramp",
+      "category": "supply_chain"
+    },
+    {
+      "event": "Hyperscaler ASIC competition (Broadcom, in-house chips) pressuring potential GPU share",
+      "category": "competition"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "margin", "segment_specific"],
+    "notes": "Q3 revenue guided to $54B +/- 2% (over $7B sequential growth); FY non-GAAP gross margin to exit in mid-70s; opex growth raised to high-30s from mid-30s."
+  },
+  "themes": [
+    "ai",
+    "blackwell",
+    "data center",
+    "china",
+    "sovereign ai",
+    "networking",
+    "robotics",
+    "physical ai"
+  ],
+  "ceo_tone": 0.88,
+  "cfo_tone": 0.72,
+  "qa_tone": 0.25,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong bullish call with one material offsetting risk (China/H20). CEO (Jensen) at peak conviction; CFO more measured given geopolitical overhang. Q&A probing-professional, not hostile."
+}

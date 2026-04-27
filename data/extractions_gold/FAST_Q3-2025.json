@@ -1,0 +1,74 @@
+{
+  "ticker": "FAST",
+  "quarter": 3,
+  "year": 2025,
+  "report_date": "2025-10-13",
+  "filename": "FAST_Q3-2025.txt",
+  "overall_tone": 0.42,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q3 net sales $2.13B, +11.7% YoY — strongest quarterly daily sales rate since Q1 2023",
+      "category": "revenue"
+    },
+    {
+      "event": "Operating margin 20.7%, +40 bps YoY; gross margin 45.3%, +40 bps YoY",
+      "category": "margin"
+    },
+    {
+      "event": "Sites spending $50K+/month grew 15.4%; national accounts revenue up double digits",
+      "category": "customer"
+    },
+    {
+      "event": "FMI sales reached 45.3% of total (up from 43%); FMI daily sales grew nearly 18% YoY",
+      "category": "operations"
+    },
+    {
+      "event": "Net income +12.6%, EPS +12.3%; operating cash flow $386.9M (115% of net income)",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Q3 pricing impact came in at 240-270 bps, below earlier 300+ bps target; explicit reduction announced",
+      "category": "guidance"
+    },
+    {
+      "event": "Q4 pricing goal explicitly lowered from 5-8% to 3.5-5.5% on like-for-like parts",
+      "category": "guidance"
+    },
+    {
+      "event": "Margin squeeze risk flagged for Q4 as tariff costs continue to rise",
+      "category": "margin"
+    },
+    {
+      "event": "Industrial economy remains in contraction with PMI averaging 48.6 in Q3",
+      "category": "macro"
+    },
+    {
+      "event": "Trade policy/tariff litigation uncertainty limits visibility into Q4 demand",
+      "category": "macro"
+    }
+  ],
+  "guidance": {
+    "direction": "lower",
+    "metrics": ["margin", "segment_specific"],
+    "notes": "CFO explicitly lowered Q4 pricing goal on like-for-like parts from 5-8% to 3.5-5.5%; gross margin guidance for full year 'relatively flat with 2024' (no improvement) with margin squeeze flagged as plausible in Q4."
+  },
+  "themes": [
+    "pricing",
+    "tariffs",
+    "supply chain",
+    "fmi",
+    "automation",
+    "market share",
+    "macro",
+    "manufacturing"
+  ],
+  "ceo_tone": 0.60,
+  "cfo_tone": 0.28,
+  "qa_tone": 0.10,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong execution narrative with explicit guidance reduction on pricing — clear mixed signal that the existing pipelines may have under-weighted. Both pipelines predicted long; realised excess_5d ~0%, essentially flat."
+}

@@ -1,0 +1,70 @@
+{
+  "ticker": "AMD",
+  "quarter": 2,
+  "year": 2025,
+  "report_date": "2025-08-05",
+  "filename": "AMD_Q2-2025.txt",
+  "overall_tone": 0.75,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q2 revenue $7.7B record, +32% YoY; record FCF $1.2B; ex-write-down GM 54%",
+      "category": "revenue"
+    },
+    {
+      "event": "Client+Gaming $3.6B, +69% YoY (Client +67% record, Gaming +73%)",
+      "category": "revenue"
+    },
+    {
+      "event": "MI350 production began ahead of schedule in June; 7 of top 10 AI model builders use Instinct",
+      "category": "product"
+    },
+    {
+      "event": "Multibillion-dollar HUMAIN collaboration; 40+ active sovereign AI engagements",
+      "category": "customer"
+    },
+    {
+      "event": "Q3 guidance $8.7B (+28% YoY); 33rd consecutive quarter of server CPU share gains",
+      "category": "guidance"
+    }
+  ],
+  "risks": [
+    {
+      "event": "$800M inventory and related charges from MI308 China export controls (-$0.43 EPS)",
+      "category": "regulatory"
+    },
+    {
+      "event": "Data Center segment swung to operating loss of $155M from $743M income YoY",
+      "category": "margin"
+    },
+    {
+      "event": "MI308 China license review still pending; no revenue in Q3 outlook",
+      "category": "regulatory"
+    },
+    {
+      "event": "Embedded revenue $824M, -4% YoY; recovery still gradual",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "margin"],
+    "notes": "Q3 guide $8.7B implies +28% YoY and +13% sequential — strong acceleration. GM expected to recover to 54%. Multi-year aspiration of tens of billions in AI revenue restated."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi350",
+    "epyc",
+    "ryzen",
+    "china",
+    "regulation",
+    "sovereign ai"
+  ],
+  "ceo_tone": 0.82,
+  "cfo_tone": 0.62,
+  "qa_tone": 0.30,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong execution overshadowed by $800M China write-down. License review moving forward is a positive signal. Q3 guidance acceleration impressive. Story remains clearly bullish."
+}

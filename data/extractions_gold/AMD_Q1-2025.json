@@ -1,0 +1,70 @@
+{
+  "ticker": "AMD",
+  "quarter": 1,
+  "year": 2025,
+  "report_date": "2025-05-06",
+  "filename": "AMD_Q1-2025.txt",
+  "overall_tone": 0.62,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q1 revenue $7.4B, +36% YoY; net income +55% YoY; 4th consecutive quarter of accelerating growth",
+      "category": "revenue"
+    },
+    {
+      "event": "Data Center revenue $3.7B, +57% YoY; server CPU share gains; 5th consecutive share-gain quarter",
+      "category": "revenue"
+    },
+    {
+      "event": "Oracle multibillion-dollar partnership announced for MI355X cluster",
+      "category": "customer"
+    },
+    {
+      "event": "Client revenue +68% YoY; record CPU ASP; 5 consecutive quarters of client share gains",
+      "category": "revenue"
+    },
+    {
+      "event": "ZT Systems acquisition completed; rack-level AI solutions capability online",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "New US export controls on Instinct MI308X to China announced — material new headwind",
+      "category": "regulatory"
+    },
+    {
+      "event": "Macro/regulatory uncertainty around tariffs explicitly noted as potential headwind",
+      "category": "macro"
+    },
+    {
+      "event": "Gaming revenue -30% YoY on weak semi-custom sales",
+      "category": "demand"
+    },
+    {
+      "event": "Embedded revenue -3% YoY; only gradual recovery; H2 2025 return to growth expected",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["revenue"],
+    "notes": "2025 strong double-digit percentage revenue growth maintained despite China export controls; growth tailwinds from MI350 / Turin / Ryzen 'more than offset' the headwinds per management."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi350",
+    "epyc",
+    "ryzen",
+    "china",
+    "regulation",
+    "sovereign ai"
+  ],
+  "ceo_tone": 0.78,
+  "cfo_tone": 0.55,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong execution but first major regulatory headwind appears (MI308X China export control). Management reaffirms full-year guidance, claiming product portfolio offsets."
+}

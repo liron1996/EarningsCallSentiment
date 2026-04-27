@@ -1,0 +1,66 @@
+{
+  "ticker": "BLK",
+  "quarter": 1,
+  "year": 2024,
+  "report_date": "2024-04-12",
+  "filename": "BLK_Q1-2024.txt",
+  "overall_tone": 0.75,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Record AUM $10.5T; Q1 EPS $9.81 (+24% YoY); revenue $4.7B (+11% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "Q1 long-term net inflows $76B (industry-leading); $100B excl low-fee institutional index",
+      "category": "customer"
+    },
+    {
+      "event": "Q1 operating margin 42.2% (+180bps YoY); operating leverage and profitable growth",
+      "category": "margin"
+    },
+    {
+      "event": "iShares Bitcoin ETF $14B inflows in first quarter post-launch",
+      "category": "product"
+    },
+    {
+      "event": "Technology services revenue +11% YoY; ACV +9% YoY; SpiderRock acquisition announced",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Effective fee rate -0.3bps QoQ on lower-fee mix and reduced sec lending",
+      "category": "margin"
+    },
+    {
+      "event": "Institutional index net outflows $13B in low-fee equity rebalancing",
+      "category": "demand"
+    },
+    {
+      "event": "Cash management $19B net outflows in Q1 (seasonal)",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["margin", "segment_specific"],
+    "notes": "GIP close targeted for Q3 2024; $375M minimum quarterly buyback rate maintained for balance of year; 5%+ through-the-cycle organic growth ambition reaffirmed."
+  },
+  "themes": [
+    "etf",
+    "private markets",
+    "gip",
+    "bitcoin",
+    "aladdin",
+    "infrastructure",
+    "buybacks",
+    "alternative assets"
+  ],
+  "ceo_tone": 0.85,
+  "cfo_tone": 0.65,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong margin expansion (+180bps), record AUM, Bitcoin ETF momentum, GIP on track. CEO confident about re-risking trend."
+}

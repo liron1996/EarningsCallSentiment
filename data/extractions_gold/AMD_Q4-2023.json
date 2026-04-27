@@ -1,0 +1,70 @@
+{
+  "ticker": "AMD",
+  "quarter": 4,
+  "year": 2023,
+  "report_date": "2024-01-30",
+  "filename": "AMD_Q4-2023.txt",
+  "overall_tone": 0.65,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q4 Data Center revenue $2.3B record, +38% YoY and +43% sequential",
+      "category": "revenue"
+    },
+    {
+      "event": "2024 Data Center GPU revenue guidance raised from $2B to $3.5B+",
+      "category": "guidance"
+    },
+    {
+      "event": "MI300 launch with strong customer pull (Microsoft, Oracle, Meta, Dell, HPE)",
+      "category": "product"
+    },
+    {
+      "event": "Client segment revenue $1.5B, +62% YoY driven by Ryzen 7000",
+      "category": "revenue"
+    },
+    {
+      "event": "Server CPU revenue share gain driven by 4th-gen EPYC",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Gaming segment revenue -17% YoY; expected significant double-digit decline in 2024",
+      "category": "demand"
+    },
+    {
+      "event": "Embedded segment -24% YoY; soft demand expected through H1 2024",
+      "category": "demand"
+    },
+    {
+      "event": "Q1 2024 revenue guidance $5.4B implies sequential decline of 13%",
+      "category": "guidance"
+    },
+    {
+      "event": "2024 PC TAM expected to grow only modestly; weighted to H2 on AI PC ramp",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "2024 Data Center GPU revenue guidance raised from prior $2B+ to $3.5B+ on strong MI300 customer pull; 2024 gross margin expected to expand."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi300",
+    "epyc",
+    "ryzen",
+    "ai pc",
+    "gaming",
+    "embedded"
+  ],
+  "ceo_tone": 0.78,
+  "cfo_tone": 0.55,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong AI/DC story with explicit guidance raise, offset by visible weakness in Gaming and Embedded segments. CEO confident, CFO balanced."
+}

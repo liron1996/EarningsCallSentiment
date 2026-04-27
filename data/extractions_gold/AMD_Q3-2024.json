@@ -1,0 +1,66 @@
+{
+  "ticker": "AMD",
+  "quarter": 3,
+  "year": 2024,
+  "report_date": "2024-10-29",
+  "filename": "AMD_Q3-2024.txt",
+  "overall_tone": 0.80,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q3 revenue $6.8B record, +18% YoY; Data Center $3.5B (+122% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "2024 Data Center GPU guidance raised again to $5B+ (from $4.5B); 2.5x original $2B start-of-year",
+      "category": "guidance"
+    },
+    {
+      "event": "Turin (5th-gen EPYC) launched with 130+ performance records; broad cloud and OEM adoption planned",
+      "category": "product"
+    },
+    {
+      "event": "ZT Systems acquisition announced (one of largest AI infrastructure providers to hyperscalers)",
+      "category": "operations"
+    },
+    {
+      "event": "Client revenue $1.9B, +29% YoY on Zen 5 / Ryzen 9000 / Ryzen AI 300 ramp",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Gaming segment revenue $462M, -69% YoY on semi-custom inventory drawdown",
+      "category": "demand"
+    },
+    {
+      "event": "Embedded revenue $927M, -25% YoY; recovery only gradual; industrial market softness persists",
+      "category": "demand"
+    },
+    {
+      "event": "ZT divestiture of manufacturing arm planned at close; regulatory approval still pending",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "DC GPU 2024 guidance raised again to $5B+ (from $4.5B set last quarter). AI accelerator TAM raised to $500B by 2028 (vs prior $400B by 2027)."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi300",
+    "epyc",
+    "turin",
+    "ryzen",
+    "m&a",
+    "embedded"
+  ],
+  "ceo_tone": 0.88,
+  "cfo_tone": 0.65,
+  "qa_tone": 0.30,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Fourth consecutive DC GPU guidance raise. Lisa Su's 10th anniversary as CEO; visible confidence. Gaming/Embedded weakness persists but the AI/DC story dominates."
+}

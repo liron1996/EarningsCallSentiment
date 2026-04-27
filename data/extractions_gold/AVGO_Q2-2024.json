@@ -1,0 +1,70 @@
+{
+  "ticker": "AVGO",
+  "quarter": 2,
+  "year": 2024,
+  "report_date": "2024-06-12",
+  "filename": "AVGO_Q2-2024.txt",
+  "overall_tone": 0.62,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q2 revenue $12.5B, +43% YoY; FY 2024 guide raised to $51B from $50B",
+      "category": "guidance"
+    },
+    {
+      "event": "AI revenue +280% YoY to $3.1B; 2024 AI revenue raised to >$11B from >$10B",
+      "category": "revenue"
+    },
+    {
+      "event": "Networking $3.8B, +44% YoY; 7 of 8 largest AI clusters use Broadcom Ethernet",
+      "category": "revenue"
+    },
+    {
+      "event": "VMware integration progressing — ABV $1.9B, run-rate spending down to $1.6B from $2.3B pre-deal",
+      "category": "operations"
+    },
+    {
+      "event": "10-for-1 forward stock split announced",
+      "category": "capital_return"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Broadband -39% YoY; FY guide lowered to -high-30s from -30% prior",
+      "category": "demand"
+    },
+    {
+      "event": "Server storage -27% YoY; FY guide -20% range vs prior -mid-20s (slight improvement)",
+      "category": "demand"
+    },
+    {
+      "event": "Industrial -10% YoY; FY guide lowered to -double-digit from -high-single-digit",
+      "category": "demand"
+    },
+    {
+      "event": "Semi gross margin -370bps YoY on higher mix of custom AI accelerators (lower-margin)",
+      "category": "margin"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "FY 2024 consolidated revenue raised to $51B from $50B. AI revenue raised to >$11B; networking growth raised to +40%; broadband cut deeper to -high-30s. Net direction: raise."
+  },
+  "themes": [
+    "ai",
+    "networking",
+    "vmware",
+    "ai accelerators",
+    "ethernet",
+    "broadband",
+    "hyperscaler",
+    "stock split"
+  ],
+  "ceo_tone": 0.72,
+  "cfo_tone": 0.55,
+  "qa_tone": 0.20,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Solid AI/networking story drives FY guide raise. Cyclical non-AI weakness deeper than expected; CEO frames AI tailwinds as more than offsetting. Stock split announced."
+}

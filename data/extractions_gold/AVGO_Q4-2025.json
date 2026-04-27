@@ -1,0 +1,66 @@
+{
+  "ticker": "AVGO",
+  "quarter": 4,
+  "year": 2025,
+  "report_date": "2025-12-11",
+  "filename": "AVGO_Q4-2025.txt",
+  "overall_tone": 0.95,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "FY 2025 revenue $64B (+24% YoY); AI revenue $20B (+65% YoY); semi $37B record",
+      "category": "revenue"
+    },
+    {
+      "event": "Q4 revenue $18B record (+28% YoY); EBITDA $12.2B record (+34%)",
+      "category": "revenue"
+    },
+    {
+      "event": "AI backlog $73B (to deliver over 18 months); consolidated backlog $162B record",
+      "category": "guidance"
+    },
+    {
+      "event": "Anthropic additional $11B XPU order for late 2026 (on top of $10B from Q3); 5th XPU customer added with $1B order",
+      "category": "customer"
+    },
+    {
+      "event": "Q1 2026 AI revenue guide $8.2B (double YoY); Q1 total guide $19.1B (+28% YoY)",
+      "category": "guidance"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Non-AI Q1 guide $4.1B, down sequentially on wireless seasonality; flat YoY",
+      "category": "demand"
+    },
+    {
+      "event": "Enterprise spending shows limited signs of recovery (server storage, enterprise networking weak)",
+      "category": "demand"
+    },
+    {
+      "event": "Customer concentration in XPUs: 3 prod + 5th newly added — small set of mega-customers",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Q1 2026 guide $19.1B (+28% YoY); EBITDA 67%. AI to continue accelerating in 2026 and drive most of growth. Software ~+low-double-digits in FY 2026."
+  },
+  "themes": [
+    "ai",
+    "ai accelerators",
+    "tomahawk",
+    "vmware",
+    "custom silicon",
+    "anthropic",
+    "backlog",
+    "hyperscaler"
+  ],
+  "ceo_tone": 0.95,
+  "cfo_tone": 0.82,
+  "qa_tone": 0.45,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Year-end peak. $73B AI backlog disclosure plus Anthropic $11B follow-on order plus 5th XPU customer. CEO at maximum confidence. Backlog visibility dominates the narrative."
+}

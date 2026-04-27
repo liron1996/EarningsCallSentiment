@@ -1,0 +1,66 @@
+{
+  "ticker": "GS",
+  "quarter": 4,
+  "year": 2025,
+  "report_date": "2026-01-15",
+  "filename": "GS_Q4-2025.txt",
+  "overall_tone": 0.85,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Record FY EPS of $51.32 (+27% YoY); Q4 EPS $14.01, ROE 16%, ROTE 17.1%",
+      "category": "revenue"
+    },
+    {
+      "event": "GBM full-year revenue $41.5B (+18% YoY) — record; #1 M&A adviser for 23rd consecutive year",
+      "category": "revenue"
+    },
+    {
+      "event": "Equities FY revenue $16.5B record (+$3B vs prior year); Q4 equities financing $2.1B record (+42% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "AWM AUS record $3.6T; $115B raised in alternatives FY; pretax margin target raised to 30%",
+      "category": "guidance"
+    },
+    {
+      "event": "Dividend raised 50% YoY (+$0.50 to $4.50/qtr); $32B remaining buyback capacity; $4.2B returned in Q4",
+      "category": "capital_return"
+    }
+  ],
+  "risks": [
+    {
+      "event": "General macro caveats — economic growth, policy uncertainty, geopolitical developments, market volatility",
+      "category": "macro"
+    },
+    {
+      "event": "FY non-compensation costs +9% YoY driven by higher transaction-based activity",
+      "category": "margin"
+    },
+    {
+      "event": "Marcus deposit NIM compression partially offset wealth-management lending growth",
+      "category": "margin"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["margin", "segment_specific"],
+    "notes": "Raised AWM pretax margin target to 30% (from prior); new wealth-management fee-based inflow target of 5% annually; alternative AUS target $750B by 2030; $1B annual incentive fee target reaffirmed. 2026 tax rate ~20%."
+  },
+  "themes": [
+    "m&a",
+    "investment banking",
+    "alternatives",
+    "wealth management",
+    "buybacks",
+    "ai",
+    "ipo",
+    "private credit"
+  ],
+  "ceo_tone": 0.92,
+  "cfo_tone": 0.78,
+  "qa_tone": 0.25,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Exceptional quarter with multiple records, raised long-term targets, 50% dividend increase. CEO Solomon at peak confidence with strategy update. Realised excess_5d -3.3% — classic sell-the-news after IB-cycle-recovery rally; pure feature gap (no peer-bank-recent-reaction signal), not a sentiment-extraction failure. Both pipelines correctly read this as bullish."
+}

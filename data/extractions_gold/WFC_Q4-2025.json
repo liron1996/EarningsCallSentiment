@@ -1,0 +1,70 @@
+{
+  "ticker": "WFC",
+  "quarter": 4,
+  "year": 2025,
+  "report_date": "2026-01-15",
+  "filename": "WFC_Q4-2025.txt",
+  "overall_tone": 0.68,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "FY 2025 net income $21.3B; diluted EPS grew 17% YoY; FY ROTCE 15% (up from 8% in Q4 2020)",
+      "category": "revenue"
+    },
+    {
+      "event": "Assets +11% YoY; broad-based loan growth; deposits grew across both consumer and commercial",
+      "category": "revenue"
+    },
+    {
+      "event": "Returned $23B to shareholders in 2025 (dividend +13%, $18B buybacks); net charge-offs declined 16% YoY",
+      "category": "capital_return"
+    },
+    {
+      "event": "Opened ~3M new credit card accounts (+21% YoY); auto loans +19% YoY; 700 branches refurbished",
+      "category": "customer"
+    },
+    {
+      "event": "M&A ranking improved to 8th from 12th; IB deal pipeline highest in 5 years; Premier balances +14%",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Buyback guidance lowered — Q4 2026 share repurchases expected to be 'lower' than 2025's $18B run-rate",
+      "category": "guidance"
+    },
+    {
+      "event": "Path/timing to 17-18% ROTCE depends on rates, macro, and regulatory environment",
+      "category": "macro"
+    },
+    {
+      "event": "Recently added trading assets are lower margin (though lower risk and less capital intensive)",
+      "category": "margin"
+    },
+    {
+      "event": "Continuing reduction of Home Lending portfolio (servicing -$90B in 2025 alone)",
+      "category": "operations"
+    }
+  ],
+  "guidance": {
+    "direction": "reaffirm",
+    "metrics": ["margin", "segment_specific"],
+    "notes": "Reaffirmed 17-18% ROTCE medium-term target (set last quarter); buyback pace expected to be lower in 2026 to fund growth; CET1 target 10-10.5%."
+  },
+  "themes": [
+    "credit cards",
+    "m&a",
+    "investment banking",
+    "buybacks",
+    "asset cap",
+    "wealth management",
+    "regulation",
+    "loan growth"
+  ],
+  "ceo_tone": 0.78,
+  "cfo_tone": 0.62,
+  "qa_tone": 0.18,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Strong execution across the board with explicit forward-buyback reduction (consequence of growth pivot, not weakness). CEO confident, citing 'position of strength'. Realised excess_5d -0.5% — small noise miss; the buyback-reduction guidance is the only explicit caution that pipelines may have under-weighted."
+}

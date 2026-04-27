@@ -1,0 +1,66 @@
+{
+  "ticker": "AMD",
+  "quarter": 4,
+  "year": 2024,
+  "report_date": "2025-02-04",
+  "filename": "AMD_Q4-2024.txt",
+  "overall_tone": 0.78,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q4 revenue $7.7B record, +24% YoY; FY revenue $25.8B, +14% YoY; net income +26%",
+      "category": "revenue"
+    },
+    {
+      "event": "Data Center $3.9B record, +69% YoY; 2024 DC AI revenue exceeded $5B",
+      "category": "revenue"
+    },
+    {
+      "event": "Client revenue $2.3B record, +58% YoY; 4 consecutive quarters of share gains",
+      "category": "revenue"
+    },
+    {
+      "event": "MI350 series sampling Q1, production mid-year — accelerated from prior plan",
+      "category": "product"
+    },
+    {
+      "event": "ZT Systems acquisition approved in multiple jurisdictions; close on track for H1 2025",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Gaming revenue $563M, -59% YoY on semi-custom inventory drawdown (channel now normalized)",
+      "category": "demand"
+    },
+    {
+      "event": "Embedded revenue $923M, -13% YoY; slower-than-expected market recovery; industrial/comm softness",
+      "category": "demand"
+    },
+    {
+      "event": "MI300X cloud deployment heavily concentrated at Microsoft and Meta",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "eps"],
+    "notes": "2025 guidance: strong double-digit revenue and EPS growth YoY across all segments; DC AI franchise on path from $5B+ in 2024 to tens of billions over coming years."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi300",
+    "epyc",
+    "turin",
+    "ryzen",
+    "rocm",
+    "m&a"
+  ],
+  "ceo_tone": 0.85,
+  "cfo_tone": 0.65,
+  "qa_tone": 0.30,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Capstone year for AMD — established multibillion DC AI franchise. CEO confident, multi-year guidance bullish. Gaming/Embedded weakness persists but moderating."
+}

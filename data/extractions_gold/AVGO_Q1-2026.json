@@ -1,0 +1,66 @@
+{
+  "ticker": "AVGO",
+  "quarter": 1,
+  "year": 2026,
+  "report_date": "2026-03-05",
+  "filename": "AVGO_Q1-2026.txt",
+  "overall_tone": 0.95,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Q1 revenue $19.3B record (+29% YoY); EBITDA $13.1B record (68% margin)",
+      "category": "revenue"
+    },
+    {
+      "event": "AI revenue $8.4B (+106% YoY); custom AI accelerators +140% YoY; Q2 AI guide $10.7B (+140% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "Q2 total guide $22B (+47% YoY) — sharp acceleration; EBITDA 68%",
+      "category": "guidance"
+    },
+    {
+      "event": "OpenAI added as 6th XPU customer (>1GW deploying 2027); Anthropic >3GW in 2027 (vs 1GW 2026)",
+      "category": "customer"
+    },
+    {
+      "event": "2027 AI chip revenue line-of-sight >$100B (vs $20B in FY 2025)",
+      "category": "guidance"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Customer concentration: 6 XPU customers, but a few mega-customers dominate",
+      "category": "customer_concentration"
+    },
+    {
+      "event": "Massive 2027 ramp creates execution risk on supply chain and capacity",
+      "category": "supply_chain"
+    },
+    {
+      "event": "Non-AI semi flat QoQ; only modest 4% YoY growth in Q2 guide",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Q2 2026 guide $22B (+47% YoY); AI 2027 chip revenue line-of-sight >$100B. Capacity for 2026-2028 fully secured. New 6th XPU customer (OpenAI). Anthropic ramp 3x YoY."
+  },
+  "themes": [
+    "ai",
+    "ai accelerators",
+    "openai",
+    "anthropic",
+    "tomahawk",
+    "vmware",
+    "custom silicon",
+    "tpu"
+  ],
+  "ceo_tone": 0.95,
+  "cfo_tone": 0.85,
+  "qa_tone": 0.50,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "OpenAI customer addition is the headline. 2027 line-of-sight to >$100B AI chip revenue (vs $20B FY 2025 = 5x in 2 years). CEO at peak conviction. Backlog visibility through 2028."
+}

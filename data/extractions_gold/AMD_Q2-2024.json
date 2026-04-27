@@ -1,0 +1,66 @@
+{
+  "ticker": "AMD",
+  "quarter": 2,
+  "year": 2024,
+  "report_date": "2024-07-30",
+  "filename": "AMD_Q2-2024.txt",
+  "overall_tone": 0.78,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Data Center revenue $2.8B record, +115% YoY; nearly 50% of total revenue",
+      "category": "revenue"
+    },
+    {
+      "event": "MI300 quarterly revenue exceeded $1B for first time; Microsoft uses MI300X to power GPT-4 Turbo",
+      "category": "product"
+    },
+    {
+      "event": "2024 DC GPU guidance raised from $4B to $4.5B+ — third consecutive raise",
+      "category": "guidance"
+    },
+    {
+      "event": "Client segment revenue $1.5B, +49% YoY; Zen 5 / Ryzen AI 300 launching",
+      "category": "revenue"
+    },
+    {
+      "event": "Silo AI acquisition announced (Europe's largest private AI lab)",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Gaming segment revenue $648M, -59% YoY; semi-custom expected lower in H2",
+      "category": "demand"
+    },
+    {
+      "event": "Embedded segment revenue $861M, -41% YoY; flat sequentially but only gradual recovery in H2",
+      "category": "demand"
+    },
+    {
+      "event": "Victor Peng (President) retiring end of August",
+      "category": "operations"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Data Center GPU 2024 guidance raised again, now $4.5B+ from prior $4B (set last quarter). Strong H2 trajectory expected on DC + Client."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi300",
+    "epyc",
+    "ryzen",
+    "zen 5",
+    "embedded",
+    "m&a"
+  ],
+  "ceo_tone": 0.85,
+  "cfo_tone": 0.65,
+  "qa_tone": 0.30,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Third consecutive DC GPU guidance raise. Strong AI momentum offset by persistent Gaming/Embedded weakness. CEO confident; story remains bullish."
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "AVGO",
+  "quarter": 3,
+  "year": 2025,
+  "report_date": "2025-09-04",
+  "filename": "AVGO_Q3-2025.txt",
+  "overall_tone": 0.92,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Q3 revenue $16B record, +22% YoY; EBITDA $10.7B record (+30%); backlog record $110B",
+      "category": "revenue"
+    },
+    {
+      "event": "AI revenue $5.2B (+63% YoY); 10 consecutive quarters of growth; XPUs now 65% of AI revenue",
+      "category": "revenue"
+    },
+    {
+      "event": "New qualified XPU customer with >$10B in production orders for AI racks (likely OpenAI)",
+      "category": "customer"
+    },
+    {
+      "event": "2026 AI revenue outlook 'improves significantly' vs prior; Q4 AI guide $6.2B (+66% YoY)",
+      "category": "guidance"
+    },
+    {
+      "event": "Tomahawk 6 (102 Tbps) and Jericho4 launched; VMware VCF 9.0 released",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Non-AI semi $4B flat sequentially; recovery slow with enterprise networking and server storage declining",
+      "category": "demand"
+    },
+    {
+      "event": "Customer concentration: $10B+ orders from single new XPU customer increases concentration risk",
+      "category": "customer_concentration"
+    },
+    {
+      "event": "Q4 enterprise networking expected to remain down sequentially",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue"],
+    "notes": "Q4 guide $17.4B (+24% YoY); EBITDA 67%. 2026 AI revenue outlook raised significantly on new $10B XPU customer order. 10th consecutive AI growth quarter."
+  },
+  "themes": [
+    "ai",
+    "ai accelerators",
+    "ethernet",
+    "tomahawk",
+    "jericho",
+    "vmware",
+    "custom silicon",
+    "backlog"
+  ],
+  "ceo_tone": 0.95,
+  "cfo_tone": 0.78,
+  "qa_tone": 0.45,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Backlog $110B and new $10B XPU customer disclosure are the headlines. CEO at peak conviction. Customer count: 3 production + 1 newly qualified + 3 still in development."
+}

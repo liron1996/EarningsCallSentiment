@@ -1,0 +1,66 @@
+{
+  "ticker": "AVGO",
+  "quarter": 3,
+  "year": 2024,
+  "report_date": "2024-09-05",
+  "filename": "AVGO_Q3-2024.txt",
+  "overall_tone": 0.72,
+  "tone_bucket": "bullish",
+  "wins": [
+    {
+      "event": "Q3 revenue $13.1B, +47% YoY; FY 2024 guide raised to $51.5B from $51B",
+      "category": "guidance"
+    },
+    {
+      "event": "FY 2024 AI revenue raised to $12B from $11B; Q4 AI guide $3.5B+",
+      "category": "guidance"
+    },
+    {
+      "event": "Custom AI accelerators +3.5x YoY; Ethernet switching +4x YoY; non-AI semi bottomed",
+      "category": "revenue"
+    },
+    {
+      "event": "VMware ABV $2.5B (+32% sequential); spending down to $1.3B from $1.6B in Q2",
+      "category": "operations"
+    },
+    {
+      "event": "Q4 guide $14B (+51% YoY); EBITDA target raised to 61.5% for FY",
+      "category": "guidance"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Broadband -49% YoY; Q4 expected -40%+ YoY; recovery only in 2025",
+      "category": "demand"
+    },
+    {
+      "event": "Industrial resales -31% YoY; only modest sequential recovery expected",
+      "category": "demand"
+    },
+    {
+      "event": "Server storage -25% YoY despite sequential improvement",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "margin"],
+    "notes": "FY 2024 raised to $51.5B from $51B; AI to $12B from $11B; EBITDA to 61.5%. Non-AI declared to have bottomed. Q4 guide $14B, +51% YoY."
+  },
+  "themes": [
+    "ai",
+    "networking",
+    "vmware",
+    "ai accelerators",
+    "ethernet",
+    "custom silicon",
+    "hyperscaler",
+    "broadband"
+  ],
+  "ceo_tone": 0.78,
+  "cfo_tone": 0.62,
+  "qa_tone": 0.25,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Multiple guidance raises (revenue, AI, EBITDA). Non-AI cyclical bottom called. CEO confident; broadband still weak but recovery in 2025."
+}

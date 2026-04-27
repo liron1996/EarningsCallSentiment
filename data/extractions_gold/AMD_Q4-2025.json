@@ -1,0 +1,66 @@
+{
+  "ticker": "AMD",
+  "quarter": 4,
+  "year": 2025,
+  "report_date": "2026-02-03",
+  "filename": "AMD_Q4-2025.txt",
+  "overall_tone": 0.88,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Q4 revenue $10.3B record, +34% YoY; net income $2.5B record (+42%); FCF $2.1B nearly doubled",
+      "category": "revenue"
+    },
+    {
+      "event": "FY 2025 revenue $34.6B (+34% YoY); Data Center FY +nearly doubled",
+      "category": "revenue"
+    },
+    {
+      "event": "Q4 Data Center $5.4B record, +39% YoY; 8 of top 10 AI companies use Instinct",
+      "category": "revenue"
+    },
+    {
+      "event": "Long-range targets reaffirmed: >35% revenue CAGR over 3-5y, EPS >$20 in strategic timeframe",
+      "category": "guidance"
+    },
+    {
+      "event": "Embedded $17B design wins in 2025 (+20% YoY); $50B cumulative since Xilinx acquisition",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "2026 semi-custom annual revenue expected to decline by significant double-digit percentage (7th year of console cycle)",
+      "category": "demand"
+    },
+    {
+      "event": "Helios / MI400 launch in 2026 carries execution risk on production ramp at scale",
+      "category": "guidance"
+    },
+    {
+      "event": "Data Center AI revenue concentration with OpenAI 6GW deployment is large single-customer exposure",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "eps", "segment_specific"],
+    "notes": "Data Center segment revenue expected to grow >60% annually over next 3-5 years; AI business on path to tens of billions in annual revenue in 2027. Long-range targets from FAD reaffirmed."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi400",
+    "helios",
+    "openai",
+    "epyc",
+    "ryzen",
+    "embedded"
+  ],
+  "ceo_tone": 0.95,
+  "cfo_tone": 0.78,
+  "qa_tone": 0.35,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Year-end capstone: '2025 was a defining year for AMD'. Peak CEO confidence. Multi-year demand super cycle thesis. Semi-custom decline is the only material counter."
+}

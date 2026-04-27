@@ -1,0 +1,66 @@
+{
+  "ticker": "AVGO",
+  "quarter": 1,
+  "year": 2025,
+  "report_date": "2025-03-06",
+  "filename": "AVGO_Q1-2025.txt",
+  "overall_tone": 0.85,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Q1 revenue $14.9B record, +25% YoY; EBITDA $10.1B record (+41%)",
+      "category": "revenue"
+    },
+    {
+      "event": "AI revenue $4.1B (+77% YoY) — beat guide of $3.8B; Q2 guide $4.4B (+44% YoY)",
+      "category": "revenue"
+    },
+    {
+      "event": "2 additional hyperscalers selected Broadcom for custom XPUs (now 4 in development beyond 3 in production)",
+      "category": "customer"
+    },
+    {
+      "event": "$60-90B 2027 AI SAM reaffirmed; 4 new customers NOT included → potential expansion",
+      "category": "guidance"
+    },
+    {
+      "event": "VMware: 70% of largest 10K customers signed for VCF; 39 customers on Private AI Foundation",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Non-AI semi recovery slower than expected; flattish QoQ in Q2",
+      "category": "demand"
+    },
+    {
+      "event": "Industrial resales down double-digits Q1, expected continued decline Q2",
+      "category": "demand"
+    },
+    {
+      "event": "Enterprise networking flat through H1 2025 on continued channel inventory work-through",
+      "category": "demand"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "Q2 guide $14.9B (+19% YoY); EBITDA 66%. Long-range $60-90B AI SAM by 2027 reaffirmed; 4 newly engaged customers represent further upside (not in SAM)."
+  },
+  "themes": [
+    "ai",
+    "ai accelerators",
+    "vmware",
+    "ethernet",
+    "custom silicon",
+    "hyperscaler",
+    "private ai",
+    "tomahawk"
+  ],
+  "ceo_tone": 0.92,
+  "cfo_tone": 0.72,
+  "qa_tone": 0.35,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Customer count expansion (3+2 to 3+4) is the headline. CEO confident. Non-AI cyclical drag persists but story dominated by AI ramp acceleration."
+}

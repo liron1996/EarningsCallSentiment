@@ -1,0 +1,66 @@
+{
+  "ticker": "AMD",
+  "quarter": 3,
+  "year": 2025,
+  "report_date": "2025-11-04",
+  "filename": "AMD_Q3-2025.txt",
+  "overall_tone": 0.92,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Q3 revenue $9.2B record, +36% YoY; net income +31%; free cash flow tripled YoY",
+      "category": "revenue"
+    },
+    {
+      "event": "Multiyear OpenAI deal: 6GW Instinct deployment, MI450 series start H2 2026 — potential $100B+ revenue",
+      "category": "customer"
+    },
+    {
+      "event": "Data Center $4.3B record (+22% YoY); 5th-gen EPYC Turin nearly half of EPYC revenue",
+      "category": "revenue"
+    },
+    {
+      "event": "Client+Gaming $4B record, +73% YoY; Gaming +181% YoY",
+      "category": "revenue"
+    },
+    {
+      "event": "Oracle MI450 lead launch partner (tens of thousands of GPUs from 2026); DOE Discovery supercomputer with MI430X",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Embedded revenue $857M, -8% YoY; sequential improvement but still in recovery",
+      "category": "demand"
+    },
+    {
+      "event": "MI400 / Helios rack platform launch is 2026 — execution risk on multi-billion-dollar opportunity",
+      "category": "guidance"
+    },
+    {
+      "event": "Sale of ZT manufacturing to Sanmina for $3B — execution dependency on the new partnership for AI rack manufacturing",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["revenue", "segment_specific"],
+    "notes": "AI business on path to tens of billions annually by 2027. OpenAI partnership materially raises long-term TAM. Financial Analyst Day next week to provide updated long-range targets."
+  },
+  "themes": [
+    "ai",
+    "data center",
+    "mi350",
+    "mi400",
+    "openai",
+    "epyc",
+    "ryzen",
+    "sovereign ai"
+  ],
+  "ceo_tone": 0.95,
+  "cfo_tone": 0.78,
+  "qa_tone": 0.40,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Pinnacle moment for AMD — OpenAI 6GW partnership disclosure with $100B+ revenue potential. CEO confidence at peak. This is the call where the stock had massive pre-call run-up (+55% per pre_21d_excess) and subsequently sold off — classic sell-the-news despite very_bullish actual content."
+}

@@ -1,0 +1,66 @@
+{
+  "ticker": "BLK",
+  "quarter": 3,
+  "year": 2024,
+  "report_date": "2024-10-11",
+  "filename": "BLK_Q3-2024.txt",
+  "overall_tone": 0.85,
+  "tone_bucket": "very_bullish",
+  "wins": [
+    {
+      "event": "Record Q3 net inflows $221B (highest ever); 8% organic asset growth, 5% organic base fee growth",
+      "category": "customer"
+    },
+    {
+      "event": "Record revenue $5.2B (+15% YoY); operating income $2.1B (+26% YoY); EPS $11.46 (+5%)",
+      "category": "revenue"
+    },
+    {
+      "event": "Operating margin 45.8% (+350 bps YoY)",
+      "category": "margin"
+    },
+    {
+      "event": "GIP closed Oct 1 — added $116B AUM, $70B fee-paying; ~$250M Q4 management fees",
+      "category": "operations"
+    },
+    {
+      "event": "Microsoft + MGX AI infrastructure partnership announced; Aladdin ACV +15% YoY",
+      "category": "operations"
+    }
+  ],
+  "risks": [
+    {
+      "event": "Effective fee rate -0.4 bps QoQ on US equity outperformance and lower sec lending",
+      "category": "margin"
+    },
+    {
+      "event": "Tax rate 26% in Q3 (vs prior year benefit) impacted EPS growth",
+      "category": "margin"
+    },
+    {
+      "event": "FY 2024 G&A growth at high end of low-to-mid single digit range due to GIP integration",
+      "category": "margin"
+    }
+  ],
+  "guidance": {
+    "direction": "raise",
+    "metrics": ["margin", "segment_specific"],
+    "notes": "Effective fee rate to receive 0.5-1 bps positive impact from GIP private market fees. Q4 buybacks maintained at $375M minimum; Preqin close around year-end."
+  },
+  "themes": [
+    "etf",
+    "private markets",
+    "gip",
+    "infrastructure",
+    "aladdin",
+    "preqin",
+    "ai infrastructure",
+    "model portfolios"
+  ],
+  "ceo_tone": 0.92,
+  "cfo_tone": 0.78,
+  "qa_tone": 0.30,
+  "_model": "claude-opus-4-7-judge",
+  "_prompt_version": "extract_v2_gold",
+  "_notes": "Best quarter in BLK history per CFO. Record inflows, margin expansion +350bps, GIP closed and Microsoft AI partnership. Peak conviction."
+}
